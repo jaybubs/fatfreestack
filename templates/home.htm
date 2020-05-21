@@ -1,0 +1,26 @@
+<container class="carousel">
+  <card class="main home">
+  <repeat group="{{ @beanAttributes }}" value="{{ @bean }}">
+    <card class="item">
+      <h4>
+        <p>
+        {{ @bean['beans_name'] }}
+        </p>
+      </h4>
+      <a href="/coffee/{{ @bean['beans_id'] }}"><img class="card" src="../assets/images/beans/{{ @bean['beans_id'] }}.jpg"/></a></br>
+      <strong>{{ @bean['beans_name'] }}</strong>
+    </card>
+  </repeat>
+  </card>
+</container>
+
+<container>
+  <card class="main">
+
+    <p>
+        Here goes @article:.</br>
+          {{ @articleText }}
+    </p>
+
+  </card>
+</container>

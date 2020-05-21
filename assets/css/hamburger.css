@@ -1,0 +1,123 @@
+/* hamburger navigation
+ *
+ * fully animated responsive hamburger menu set up as a class to be used with <nav> or <header> or others
+========================================================================== */
+
+/*.hamburger styling */
+.hamburger {
+    display: block;
+	background-color: var(--black-soft);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.1);
+	width: 100%;
+}
+.hamburger ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	background-color: var(--yellow-soft);
+  /* border: 1px solid var(--black-soft); */
+}
+.hamburger li {
+	margin-bottom: auto;
+}
+.hamburger li a {
+	display: block;
+	padding: 2rem 2rem;
+	border-right: 1px solid var(--black-soft);
+  border-bottom: 1px solid var(--black-soft);
+	text-decoration: none;
+  color: var(--black-soft);
+}
+.hamburger li a:hover,
+.hamburger .menu-btn:hover {
+	background-color: var(--yellow-yellow);
+  color: var(--black-black);
+}
+.hamburger .logo {
+	display: block;
+	float: left;
+	font-size: 1.6em;
+	padding: 1rem 2rem;
+	text-decoration: none;
+  color: var(--yellow-soft);
+}
+.hamburger .logo:hover {
+  color: var(--yellow-yellow);
+}
+.hamburger .menu {
+	clear: both;
+	max-height: 0;
+	transition: max-height 0.5s ease-out;
+	font-size: 1em;
+}
+/*.hamburger icon */
+.hamburger .menu-icon {
+	cursor: pointer;
+	display: inline-block;
+	float: right;
+	padding: 28px 20px;
+	position: relative;
+	user-select: none;
+}
+.hamburger .menu-icon .navicon {
+	background: #3a3;
+	display: block;
+	height: 2px;
+	position: relative;
+	transition: background 0.5s ease-out;
+	width: 18px;
+}
+.hamburger .menu-icon .navicon:before,
+.hamburger .menu-icon .navicon:after {
+	background: #f33;
+	content: "";
+	display: block;
+	height: 100%;
+	position: absolute;
+	transition: all 0.5s ease-out;
+	width: 100%;
+}
+.hamburger .menu-icon .navicon:before {
+	top: 5px;
+}
+.hamburger .menu-icon .navicon:after {
+	top: -5px;
+}
+.hamburger .menu-btn {
+	display: none;
+}
+.hamburger .menu-btn:checked ~ .menu {
+	max-height: 400px;
+}
+.hamburger .menu-btn:checked ~ .menu-icon .navicon {
+	background: transparent;
+}
+.hamburger .menu-btn:checked ~ .menu-icon .navicon:before {
+	transform: rotate(-45deg);
+}
+.hamburger .menu-btn:checked ~ .menu-icon .navicon:after {
+	transform: rotate(45deg);
+}
+.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+	top: 0;
+}
+
+@media (min-width: 48em) {
+	.hamburger li {
+		float: left;
+	}
+	.hamburger li a {
+		padding: 20px 30px;
+	}
+	.hamburger .menu {
+		clear: none;
+		float: right;
+		max-height: none;
+	}
+	.hamburger .menu-icon {
+		display: none;
+	}
+}
+

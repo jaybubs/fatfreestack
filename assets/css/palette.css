@@ -1,0 +1,20 @@
+/* custom pallettte
+========================================================================== */
+
+:root {
+    --coffee1: #a77a23;
+    --coffee2: #a77100;
+    --coffee3: #a76a0e;
+    --coffee1t: rgba(167, 122, 35, 0.7);
+    --coffee2t: rgba(167, 113, 0, 0.7);
+    --coffee3t: rgba(167, 106, 14, 0.7);
+    --black-black: #000000;
+    --black-soft: #202020;
+    --white-white: #ffffff;
+    --white-soft: rgba(158, 150, 139, 0.46);
+    --yellow-yellow: #ffe900;
+    --yellow-soft: #f4e737;
+    --blue-grey-soft: #596b6e;
+    --purple-grey-soft: #64596e;
+    --transparent-soft: rgba(0,0,0,0.2);
+}

@@ -1,0 +1,35 @@
+/* Slidey */
+ul.slider li {
+        opacity: 0;
+        transform: translate(100%, 0%);
+        transition-duration: 0.5s;
+        transition-timing-function: cubic-bezier(0.75, -0.015, 0.565, 1.055);
+        transition-property: opacity, transform;
+        list-style-type:none;
+        /* transition-delay: calc(0.025s * (var(--length) - (var(--index) +1))); */
+}
+ul.slidel li {
+        opacity: 0;
+        text-align: right;
+        transform: translate(-100%, 0%);
+        transition-duration: 0.5s;
+        transition-timing-function: cubic-bezier(0.75, -0.015, 0.565, 1.055);
+        transition-property: opacity, transform;
+        list-style-type:none;
+        /* transition-delay: calc(0.025s * (var(--length) - (var(--index) +1))); */
+}
+input[type="checkbox"] {
+        position: absolute;
+        display: none;
+}
+input[type="checkbox"]:checked ~ ul li {
+        opacity: 1;
+        transform: translateX(0);
+        transition-delay: calc(0.055s * var(--index));
+}
+input[type="checkbox"]:not(:checked) {
+        /* transition-delay: calc(0.025s * (var(--length) - (var(--index) + 1))); */
+}
+input[type="checkbox"]:checked + label {
+        color: white;
+}

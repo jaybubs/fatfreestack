@@ -1,0 +1,79 @@
+/* Images
+ *
+ * this module defines properties for various image sizings, borders, opacities etc to be used
+========================================================================== */
+/* home page banner */
+banner {
+    display: block;
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../images/banner.jpg);
+    height: 30vh; /* adjust as appropriate */
+	max-height: 50%; /* needed for responsiveness */
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding-top: 0px;
+}
+.banner-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+/* general img properties */
+img {
+	border-radius: 8px;
+	border: 0;
+	display: inline-block;
+	position: relative;
+	width: auto;
+	height: auto;
+}
+
+
+img.small {
+	max-height: 100px;
+	max-width: 200px;
+}
+
+img.medium {
+	max-height: 200px;
+	max-width: 400px;
+}
+
+img.large {
+	max-height: 300px;
+	max-width: 600px;
+}
+
+img.thumb {
+	max-height: 100px;
+	max-width: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+img.thumb:hover { /* play around with for pleasure */
+    transition: border-radius 0.5s linear;
+    transition: max-height 0.5s linear;
+    transition: max-width 0.5s linear;
+    border-radius: 10%;
+	max-height: 200px;
+	max-width: 400px;
+}
+
+
+img.full{ /* careful, it's actually full res */
+	max-height: 100%;
+	max-width: 100%;
+}
+
+img.article {
+	max-height: 600px;
+	max-width: 600px;
+  float: right;
+  margin: 0 0 0 15px;
+}

@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+    <title>{{ @title }}</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- FONT -->
+    <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="../assets/css/normalize.css">
+    <link rel="stylesheet" href="../assets/css/jjframework.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="../assets/images/favicon.png">
+
+  </head>
+    <body>
+
+        <include href='header.htm' />
+
+        <banner>
+<!-- change the banner content depending on the page you land on -->
+<!-- later change to an if statement or something, because you don't want to display the banner on all pages -->
+          <div class="banner-text">
+            <h2>{{ @bannerText }}</h2>
+          </div>
+        </banner>
+
+        <article>
+<!-- chuck the main contents of the page here -->
+          <include href="{{ @output }}" />
+
+        </article>
+        <include href='footer.htm' />
+    </body>
+</html>

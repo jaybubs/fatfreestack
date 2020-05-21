@@ -1,0 +1,40 @@
+turtles and chickens for carousel
+  <div class="container">
+     <div class="row">
+       <div class="one-half column" style="margin-top: 25%">
+           <input type="checkbox" value="slidelin" name="slidelin" id="slidelin"/>
+           <label for="slidelin"><h4>Click here for happy Turtles</h4></label>
+           <ul class="slidel" style="--length: 5">
+               <li style="--index: 1;">huhuhu</li>
+               <li style="--index: 2;">huhuhu</li>
+               <li style="--index: 3;">huhuhu</li>
+               <li style="--index: 4;">huhuhu</li>
+           </ul>
+         </div>
+       <div class="one-half column" style="margin-top: 25%">
+           <input type="checkbox" value="sliderin" name="sliderin" id="sliderin"/>
+           <label for="sliderin"><h4>Click here for royal Chickens</h4></label>
+           <ul class="slider" style="--length: 5">
+               <card class="item">
+                   <li style="--index: 0;"><img class="card" src="../assets/images/chicken1.jpg"/></li>
+               </card>
+               <span class="image">
+                   <li style="--index: 1;"><img src="../assets/images/chicken2.jpg"/></li>
+               </span>
+               <span class="image">
+                   <li style="--index: 2;"><img src="../assets/images/chicken3.jpg"/></li>
+               </span>
+               <span class="image">
+                   <li style="--index: 3;"><img src="../assets/images/chicken4.jpg"/></li>
+               </span>
+               <span class="image">
+                   <li style="--index: 4;"><img src="../assets/images/chicken5.jpg"/></li>
+               </span>
+               <li style="--index: 1;">kokoko</li>
+               <li style="--index: 2;">kokoko</li>
+               <li style="--index: 3;">kokoko</li>
+               <li style="--index: 4;">kokoko</li>
+           </ul>
+       </div>
+     </div>
+   </div>

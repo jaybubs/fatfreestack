@@ -1,0 +1,38 @@
+<?php
+$f3 = require __DIR__.'/../lib/base.php';
+include __DIR__.'/../classes/Coffee/CoffeeRoutes.php';
+
+$f3->clear('CACHE');
+$f3->set('DEBUG', 1);
+$f3->set('AUTOLOAD', __DIR__.'/../classes/');
+
+//if the above fails, try to uncomment below
+//recursively add all subdirectories for autoloading
+// foreach (glob('../classes/*') as $file) {
+//   if (is_dir($file)) {
+//     $f3->AUTOLOAD.=';'.$file.'/';
+//   }
+// }
+
+
+echo "current working dir: ".getcwd().'</br>'; //(should be /var/www/coffee/public)
+echo "autoload dirs: ".$f3->AUTOLOAD.'</br>';
+
+// include __DIR__.'/../templates/layout.html.php';
+
+// include __DIR__.'/../classes/General/ErrorHandling.php';
+$f3->run();
+
+$statement = new Coffee\Controllers\WebPage();
+echo $statement->statement();
+
+$dog = new Coffee\Controllers\Animal("fido", "dog", False);
+$cow = new Coffee\Controllers\Animal("milka", "cow", True);
+
+print($dog->name.'</br>');
+$dog->grillability();
+print($cow->name.'</br>');
+$cow->grillability();
+
+$hello = new Tracy\Debugger();
+$hello->acid();

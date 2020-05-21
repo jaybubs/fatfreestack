@@ -1,0 +1,2110 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/bd612ba3/
+#carousel-1:checked ~ .control-1	assets/css/carousel.css	/^#carousel-1:checked ~ .control-1,$/;"	c
+#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet	assets/css/carousel.css	/^#carousel-1:checked ~ .control-1 ~ .carousel-indicators li:nth-child(1) .carousel-bullet,$/;"	c
+#carousel-2:checked ~ .control-2	assets/css/carousel.css	/^#carousel-2:checked ~ .control-2,$/;"	c
+#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet	assets/css/carousel.css	/^#carousel-2:checked ~ .control-2 ~ .carousel-indicators li:nth-child(2) .carousel-bullet,$/;"	c
+#carousel-3:checked ~ .control-3	assets/css/carousel.css	/^#carousel-3:checked ~ .control-3 {$/;"	c
+#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet	assets/css/carousel.css	/^#carousel-3:checked ~ .control-3 ~ .carousel-indicators li:nth-child(3) .carousel-bullet {$/;"	c
+#title	assets/css/carousel.css	/^#title {$/;"	i
+*	assets/css/flexbox-minimal-original.css	/^* {$/;"	s
+*	assets/css/flexbox-minimal.css	/^* {$/;"	s
+*	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+.abstract	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.and_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.array	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.array_cast	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.as	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.banner-text	assets/css/images.css	/^.banner-text {$/;"	c
+.boolean_and	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.boolean_or	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.break	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.button	assets/css/buttons-skeleton.css	/^.button,$/;"	c
+.button	assets/css/skeleton.css	/^.button {$/;"	c
+.button	assets/css/spacing.css	/^.button {$/;"	c
+.button.button-primary	assets/css/buttons-skeleton.css	/^.button.button-primary,$/;"	c
+.button.button-primary:focus	assets/css/buttons-skeleton.css	/^.button.button-primary:focus,$/;"	c
+.button.button-primary:hover	assets/css/buttons-skeleton.css	/^.button.button-primary:hover,$/;"	c
+.button:focus	assets/css/buttons-skeleton.css	/^.button:focus,$/;"	c
+.button:hover	assets/css/buttons-skeleton.css	/^.button:hover,$/;"	c
+.carousel	assets/css/carousel.css	/^.carousel {$/;"	c
+.carousel-bullet	assets/css/carousel.css	/^.carousel-bullet {$/;"	c
+.carousel-bullet:hover	assets/css/carousel.css	/^.carousel-bullet:hover {$/;"	c
+.carousel-control	assets/css/carousel.css	/^.carousel-control {$/;"	c
+.carousel-control.next	assets/css/carousel.css	/^.carousel-control.next {$/;"	c
+.carousel-control.prev	assets/css/carousel.css	/^.carousel-control.prev {$/;"	c
+.carousel-control:hover	assets/css/carousel.css	/^.carousel-control:hover {$/;"	c
+.carousel-indicators	assets/css/carousel.css	/^.carousel-indicators {$/;"	c
+.carousel-indicators li	assets/css/carousel.css	/^.carousel-indicators li {$/;"	s
+.carousel-inner	assets/css/carousel.css	/^.carousel-inner {$/;"	c
+.carousel-item	assets/css/carousel.css	/^.carousel-item {$/;"	c
+.carousel-item img	assets/css/carousel.css	/^.carousel-item img {$/;"	s
+.carousel-open:checked + .carousel-item	assets/css/carousel.css	/^.carousel-open:checked + .carousel-item {$/;"	c
+.case	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.catch	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.center	ui/css/theme.css	/^.center {$/;"	c
+.class	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.class_c	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.clickable:not([disabled] )	assets/css/flexbox-frow.css	/^.clickable:not([disabled]), [onclick]:not([disabled]) {$/;"	s
+.clone	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.close_tag	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.col	assets/css/flexbox-minimal-original.css	/^.col {$/;"	c
+.col	assets/css/flexbox-minimal.css	/^.col {$/;"	c
+.column	assets/css/grid-skeleton.css	/^	.column,$/;"	c
+.column	assets/css/grid-skeleton.css	/^.column,$/;"	c
+.column	assets/css/grid.css	/^	.column,$/;"	c
+.column	assets/css/grid.css	/^.column,$/;"	c
+.column:first-child	assets/css/grid-skeleton.css	/^	.column:first-child,$/;"	c
+.column:first-child	assets/css/grid.css	/^	.column:first-child,$/;"	c
+.columns	assets/css/grid-skeleton.css	/^	.columns {$/;"	c
+.columns	assets/css/grid-skeleton.css	/^.columns {$/;"	c
+.columns	assets/css/grid.css	/^	.columns {$/;"	c
+.columns	assets/css/grid.css	/^.columns {$/;"	c
+.columns:first-child	assets/css/grid-skeleton.css	/^	.columns:first-child {$/;"	c
+.columns:first-child	assets/css/grid.css	/^	.columns:first-child {$/;"	c
+.comment	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.concat_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.const	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.constant_encapsed_string	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.container	assets/css/grid-skeleton.css	/^	.container {$/;"	c
+.container	assets/css/grid-skeleton.css	/^.container {$/;"	c
+.container:after	assets/css/clearing.css	/^.container:after,$/;"	c
+.content	ui/css/theme.css	/^.content {$/;"	c
+.continue	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.data	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.dec	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.declare	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.default	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.dir	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.directive	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.div_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.dnumber	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.do	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.doc_comment	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.echo	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.eight.columns	assets/css/grid-skeleton.css	/^	.eight.columns {$/;"	c
+.eight.columns	assets/css/grid.css	/^	.eight.columns {$/;"	c
+.eleven.columns	assets/css/grid-skeleton.css	/^	.eleven.columns {$/;"	c
+.eleven.columns	assets/css/grid.css	/^	.eleven.columns {$/;"	c
+.else	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.elseif	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.empty.enddeclare	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.end_heredoc	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.endfor	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.endforach	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.endif	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.endswitch	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.endwhile	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.eval	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.exit	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.extends	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.file	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.final	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.five.columns	assets/css/grid-skeleton.css	/^	.five.columns {$/;"	c
+.five.columns	assets/css/grid.css	/^	.five.columns {$/;"	c
+.flex-grid	assets/css/flexbox-minimal-original.css	/^    .flex-grid,$/;"	c
+.flex-grid	assets/css/flexbox-minimal-original.css	/^.flex-grid {$/;"	c
+.flex-grid .col	assets/css/flexbox-minimal-original.css	/^    .flex-grid .col,$/;"	c
+.flex-grid .col	assets/css/flexbox-minimal-original.css	/^.flex-grid .col {$/;"	c
+.flex-grid-thirds	assets/css/flexbox-minimal-original.css	/^    .flex-grid-thirds {$/;"	c
+.flex-grid-thirds	assets/css/flexbox-minimal-original.css	/^.flex-grid-thirds {$/;"	c
+.flex-grid-thirds .col	assets/css/flexbox-minimal-original.css	/^    .flex-grid-thirds .col {$/;"	c
+.flex-grid-thirds .col	assets/css/flexbox-minimal-original.css	/^.flex-grid-thirds .col {$/;"	c
+.footer	ui/css/theme.css	/^.footer {$/;"	c
+.footer .stats	ui/css/theme.css	/^.footer .stats {$/;"	c
+.footer p	ui/css/theme.css	/^.footer p {$/;"	s
+.for	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.foreach	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.four.columns	assets/css/grid-skeleton.css	/^	.four.columns {$/;"	c
+.four.columns	assets/css/grid.css	/^	.four.columns {$/;"	c
+.frow	assets/css/flexbox-frow.css	/^.frow {$/;"	c
+.frow .col-lg-1-1	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-1 {$/;"	c
+.frow .col-lg-1-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-10 {$/;"	c
+.frow .col-lg-1-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-11 {$/;"	c
+.frow .col-lg-1-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-12 {$/;"	c
+.frow .col-lg-1-2	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-2 {$/;"	c
+.frow .col-lg-1-3	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-3 {$/;"	c
+.frow .col-lg-1-4	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-4 {$/;"	c
+.frow .col-lg-1-5	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-5 {$/;"	c
+.frow .col-lg-1-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-6 {$/;"	c
+.frow .col-lg-1-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-7 {$/;"	c
+.frow .col-lg-1-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-8 {$/;"	c
+.frow .col-lg-1-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-1-9 {$/;"	c
+.frow .col-lg-10-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-10-10 {$/;"	c
+.frow .col-lg-10-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-10-11 {$/;"	c
+.frow .col-lg-10-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-10-12 {$/;"	c
+.frow .col-lg-11-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-11-11 {$/;"	c
+.frow .col-lg-11-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-11-12 {$/;"	c
+.frow .col-lg-12-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-12-12 {$/;"	c
+.frow .col-lg-2-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-10 {$/;"	c
+.frow .col-lg-2-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-11 {$/;"	c
+.frow .col-lg-2-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-12 {$/;"	c
+.frow .col-lg-2-2	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-2 {$/;"	c
+.frow .col-lg-2-3	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-3 {$/;"	c
+.frow .col-lg-2-4	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-4 {$/;"	c
+.frow .col-lg-2-5	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-5 {$/;"	c
+.frow .col-lg-2-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-6 {$/;"	c
+.frow .col-lg-2-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-7 {$/;"	c
+.frow .col-lg-2-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-8 {$/;"	c
+.frow .col-lg-2-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-2-9 {$/;"	c
+.frow .col-lg-3-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-10 {$/;"	c
+.frow .col-lg-3-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-11 {$/;"	c
+.frow .col-lg-3-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-12 {$/;"	c
+.frow .col-lg-3-3	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-3 {$/;"	c
+.frow .col-lg-3-4	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-4 {$/;"	c
+.frow .col-lg-3-5	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-5 {$/;"	c
+.frow .col-lg-3-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-6 {$/;"	c
+.frow .col-lg-3-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-7 {$/;"	c
+.frow .col-lg-3-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-8 {$/;"	c
+.frow .col-lg-3-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-3-9 {$/;"	c
+.frow .col-lg-4-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-10 {$/;"	c
+.frow .col-lg-4-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-11 {$/;"	c
+.frow .col-lg-4-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-12 {$/;"	c
+.frow .col-lg-4-4	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-4 {$/;"	c
+.frow .col-lg-4-5	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-5 {$/;"	c
+.frow .col-lg-4-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-6 {$/;"	c
+.frow .col-lg-4-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-7 {$/;"	c
+.frow .col-lg-4-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-8 {$/;"	c
+.frow .col-lg-4-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-4-9 {$/;"	c
+.frow .col-lg-5-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-10 {$/;"	c
+.frow .col-lg-5-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-11 {$/;"	c
+.frow .col-lg-5-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-12 {$/;"	c
+.frow .col-lg-5-5	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-5 {$/;"	c
+.frow .col-lg-5-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-6 {$/;"	c
+.frow .col-lg-5-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-7 {$/;"	c
+.frow .col-lg-5-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-8 {$/;"	c
+.frow .col-lg-5-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-5-9 {$/;"	c
+.frow .col-lg-6-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-10 {$/;"	c
+.frow .col-lg-6-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-11 {$/;"	c
+.frow .col-lg-6-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-12 {$/;"	c
+.frow .col-lg-6-6	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-6 {$/;"	c
+.frow .col-lg-6-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-7 {$/;"	c
+.frow .col-lg-6-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-8 {$/;"	c
+.frow .col-lg-6-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-6-9 {$/;"	c
+.frow .col-lg-7-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-10 {$/;"	c
+.frow .col-lg-7-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-11 {$/;"	c
+.frow .col-lg-7-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-12 {$/;"	c
+.frow .col-lg-7-7	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-7 {$/;"	c
+.frow .col-lg-7-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-8 {$/;"	c
+.frow .col-lg-7-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-7-9 {$/;"	c
+.frow .col-lg-8-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-8-10 {$/;"	c
+.frow .col-lg-8-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-8-11 {$/;"	c
+.frow .col-lg-8-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-8-12 {$/;"	c
+.frow .col-lg-8-8	assets/css/flexbox-frow.css	/^  .frow .col-lg-8-8 {$/;"	c
+.frow .col-lg-8-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-8-9 {$/;"	c
+.frow .col-lg-9-10	assets/css/flexbox-frow.css	/^  .frow .col-lg-9-10 {$/;"	c
+.frow .col-lg-9-11	assets/css/flexbox-frow.css	/^  .frow .col-lg-9-11 {$/;"	c
+.frow .col-lg-9-12	assets/css/flexbox-frow.css	/^  .frow .col-lg-9-12 {$/;"	c
+.frow .col-lg-9-9	assets/css/flexbox-frow.css	/^  .frow .col-lg-9-9 {$/;"	c
+.frow .col-md-1-1	assets/css/flexbox-frow.css	/^  .frow .col-md-1-1 {$/;"	c
+.frow .col-md-1-10	assets/css/flexbox-frow.css	/^  .frow .col-md-1-10 {$/;"	c
+.frow .col-md-1-11	assets/css/flexbox-frow.css	/^  .frow .col-md-1-11 {$/;"	c
+.frow .col-md-1-12	assets/css/flexbox-frow.css	/^  .frow .col-md-1-12 {$/;"	c
+.frow .col-md-1-2	assets/css/flexbox-frow.css	/^  .frow .col-md-1-2 {$/;"	c
+.frow .col-md-1-3	assets/css/flexbox-frow.css	/^  .frow .col-md-1-3 {$/;"	c
+.frow .col-md-1-4	assets/css/flexbox-frow.css	/^  .frow .col-md-1-4 {$/;"	c
+.frow .col-md-1-5	assets/css/flexbox-frow.css	/^  .frow .col-md-1-5 {$/;"	c
+.frow .col-md-1-6	assets/css/flexbox-frow.css	/^  .frow .col-md-1-6 {$/;"	c
+.frow .col-md-1-7	assets/css/flexbox-frow.css	/^  .frow .col-md-1-7 {$/;"	c
+.frow .col-md-1-8	assets/css/flexbox-frow.css	/^  .frow .col-md-1-8 {$/;"	c
+.frow .col-md-1-9	assets/css/flexbox-frow.css	/^  .frow .col-md-1-9 {$/;"	c
+.frow .col-md-10-10	assets/css/flexbox-frow.css	/^  .frow .col-md-10-10 {$/;"	c
+.frow .col-md-10-11	assets/css/flexbox-frow.css	/^  .frow .col-md-10-11 {$/;"	c
+.frow .col-md-10-12	assets/css/flexbox-frow.css	/^  .frow .col-md-10-12 {$/;"	c
+.frow .col-md-11-11	assets/css/flexbox-frow.css	/^  .frow .col-md-11-11 {$/;"	c
+.frow .col-md-11-12	assets/css/flexbox-frow.css	/^  .frow .col-md-11-12 {$/;"	c
+.frow .col-md-12-12	assets/css/flexbox-frow.css	/^  .frow .col-md-12-12 {$/;"	c
+.frow .col-md-2-10	assets/css/flexbox-frow.css	/^  .frow .col-md-2-10 {$/;"	c
+.frow .col-md-2-11	assets/css/flexbox-frow.css	/^  .frow .col-md-2-11 {$/;"	c
+.frow .col-md-2-12	assets/css/flexbox-frow.css	/^  .frow .col-md-2-12 {$/;"	c
+.frow .col-md-2-2	assets/css/flexbox-frow.css	/^  .frow .col-md-2-2 {$/;"	c
+.frow .col-md-2-3	assets/css/flexbox-frow.css	/^  .frow .col-md-2-3 {$/;"	c
+.frow .col-md-2-4	assets/css/flexbox-frow.css	/^  .frow .col-md-2-4 {$/;"	c
+.frow .col-md-2-5	assets/css/flexbox-frow.css	/^  .frow .col-md-2-5 {$/;"	c
+.frow .col-md-2-6	assets/css/flexbox-frow.css	/^  .frow .col-md-2-6 {$/;"	c
+.frow .col-md-2-7	assets/css/flexbox-frow.css	/^  .frow .col-md-2-7 {$/;"	c
+.frow .col-md-2-8	assets/css/flexbox-frow.css	/^  .frow .col-md-2-8 {$/;"	c
+.frow .col-md-2-9	assets/css/flexbox-frow.css	/^  .frow .col-md-2-9 {$/;"	c
+.frow .col-md-3-10	assets/css/flexbox-frow.css	/^  .frow .col-md-3-10 {$/;"	c
+.frow .col-md-3-11	assets/css/flexbox-frow.css	/^  .frow .col-md-3-11 {$/;"	c
+.frow .col-md-3-12	assets/css/flexbox-frow.css	/^  .frow .col-md-3-12 {$/;"	c
+.frow .col-md-3-3	assets/css/flexbox-frow.css	/^  .frow .col-md-3-3 {$/;"	c
+.frow .col-md-3-4	assets/css/flexbox-frow.css	/^  .frow .col-md-3-4 {$/;"	c
+.frow .col-md-3-5	assets/css/flexbox-frow.css	/^  .frow .col-md-3-5 {$/;"	c
+.frow .col-md-3-6	assets/css/flexbox-frow.css	/^  .frow .col-md-3-6 {$/;"	c
+.frow .col-md-3-7	assets/css/flexbox-frow.css	/^  .frow .col-md-3-7 {$/;"	c
+.frow .col-md-3-8	assets/css/flexbox-frow.css	/^  .frow .col-md-3-8 {$/;"	c
+.frow .col-md-3-9	assets/css/flexbox-frow.css	/^  .frow .col-md-3-9 {$/;"	c
+.frow .col-md-4-10	assets/css/flexbox-frow.css	/^  .frow .col-md-4-10 {$/;"	c
+.frow .col-md-4-11	assets/css/flexbox-frow.css	/^  .frow .col-md-4-11 {$/;"	c
+.frow .col-md-4-12	assets/css/flexbox-frow.css	/^  .frow .col-md-4-12 {$/;"	c
+.frow .col-md-4-4	assets/css/flexbox-frow.css	/^  .frow .col-md-4-4 {$/;"	c
+.frow .col-md-4-5	assets/css/flexbox-frow.css	/^  .frow .col-md-4-5 {$/;"	c
+.frow .col-md-4-6	assets/css/flexbox-frow.css	/^  .frow .col-md-4-6 {$/;"	c
+.frow .col-md-4-7	assets/css/flexbox-frow.css	/^  .frow .col-md-4-7 {$/;"	c
+.frow .col-md-4-8	assets/css/flexbox-frow.css	/^  .frow .col-md-4-8 {$/;"	c
+.frow .col-md-4-9	assets/css/flexbox-frow.css	/^  .frow .col-md-4-9 {$/;"	c
+.frow .col-md-5-10	assets/css/flexbox-frow.css	/^  .frow .col-md-5-10 {$/;"	c
+.frow .col-md-5-11	assets/css/flexbox-frow.css	/^  .frow .col-md-5-11 {$/;"	c
+.frow .col-md-5-12	assets/css/flexbox-frow.css	/^  .frow .col-md-5-12 {$/;"	c
+.frow .col-md-5-5	assets/css/flexbox-frow.css	/^  .frow .col-md-5-5 {$/;"	c
+.frow .col-md-5-6	assets/css/flexbox-frow.css	/^  .frow .col-md-5-6 {$/;"	c
+.frow .col-md-5-7	assets/css/flexbox-frow.css	/^  .frow .col-md-5-7 {$/;"	c
+.frow .col-md-5-8	assets/css/flexbox-frow.css	/^  .frow .col-md-5-8 {$/;"	c
+.frow .col-md-5-9	assets/css/flexbox-frow.css	/^  .frow .col-md-5-9 {$/;"	c
+.frow .col-md-6-10	assets/css/flexbox-frow.css	/^  .frow .col-md-6-10 {$/;"	c
+.frow .col-md-6-11	assets/css/flexbox-frow.css	/^  .frow .col-md-6-11 {$/;"	c
+.frow .col-md-6-12	assets/css/flexbox-frow.css	/^  .frow .col-md-6-12 {$/;"	c
+.frow .col-md-6-6	assets/css/flexbox-frow.css	/^  .frow .col-md-6-6 {$/;"	c
+.frow .col-md-6-7	assets/css/flexbox-frow.css	/^  .frow .col-md-6-7 {$/;"	c
+.frow .col-md-6-8	assets/css/flexbox-frow.css	/^  .frow .col-md-6-8 {$/;"	c
+.frow .col-md-6-9	assets/css/flexbox-frow.css	/^  .frow .col-md-6-9 {$/;"	c
+.frow .col-md-7-10	assets/css/flexbox-frow.css	/^  .frow .col-md-7-10 {$/;"	c
+.frow .col-md-7-11	assets/css/flexbox-frow.css	/^  .frow .col-md-7-11 {$/;"	c
+.frow .col-md-7-12	assets/css/flexbox-frow.css	/^  .frow .col-md-7-12 {$/;"	c
+.frow .col-md-7-7	assets/css/flexbox-frow.css	/^  .frow .col-md-7-7 {$/;"	c
+.frow .col-md-7-8	assets/css/flexbox-frow.css	/^  .frow .col-md-7-8 {$/;"	c
+.frow .col-md-7-9	assets/css/flexbox-frow.css	/^  .frow .col-md-7-9 {$/;"	c
+.frow .col-md-8-10	assets/css/flexbox-frow.css	/^  .frow .col-md-8-10 {$/;"	c
+.frow .col-md-8-11	assets/css/flexbox-frow.css	/^  .frow .col-md-8-11 {$/;"	c
+.frow .col-md-8-12	assets/css/flexbox-frow.css	/^  .frow .col-md-8-12 {$/;"	c
+.frow .col-md-8-8	assets/css/flexbox-frow.css	/^  .frow .col-md-8-8 {$/;"	c
+.frow .col-md-8-9	assets/css/flexbox-frow.css	/^  .frow .col-md-8-9 {$/;"	c
+.frow .col-md-9-10	assets/css/flexbox-frow.css	/^  .frow .col-md-9-10 {$/;"	c
+.frow .col-md-9-11	assets/css/flexbox-frow.css	/^  .frow .col-md-9-11 {$/;"	c
+.frow .col-md-9-12	assets/css/flexbox-frow.css	/^  .frow .col-md-9-12 {$/;"	c
+.frow .col-md-9-9	assets/css/flexbox-frow.css	/^  .frow .col-md-9-9 {$/;"	c
+.frow .col-sm-1-1	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-1 {$/;"	c
+.frow .col-sm-1-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-10 {$/;"	c
+.frow .col-sm-1-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-11 {$/;"	c
+.frow .col-sm-1-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-12 {$/;"	c
+.frow .col-sm-1-2	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-2 {$/;"	c
+.frow .col-sm-1-3	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-3 {$/;"	c
+.frow .col-sm-1-4	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-4 {$/;"	c
+.frow .col-sm-1-5	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-5 {$/;"	c
+.frow .col-sm-1-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-6 {$/;"	c
+.frow .col-sm-1-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-7 {$/;"	c
+.frow .col-sm-1-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-8 {$/;"	c
+.frow .col-sm-1-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-1-9 {$/;"	c
+.frow .col-sm-10-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-10-10 {$/;"	c
+.frow .col-sm-10-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-10-11 {$/;"	c
+.frow .col-sm-10-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-10-12 {$/;"	c
+.frow .col-sm-11-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-11-11 {$/;"	c
+.frow .col-sm-11-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-11-12 {$/;"	c
+.frow .col-sm-12-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-12-12 {$/;"	c
+.frow .col-sm-2-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-10 {$/;"	c
+.frow .col-sm-2-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-11 {$/;"	c
+.frow .col-sm-2-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-12 {$/;"	c
+.frow .col-sm-2-2	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-2 {$/;"	c
+.frow .col-sm-2-3	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-3 {$/;"	c
+.frow .col-sm-2-4	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-4 {$/;"	c
+.frow .col-sm-2-5	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-5 {$/;"	c
+.frow .col-sm-2-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-6 {$/;"	c
+.frow .col-sm-2-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-7 {$/;"	c
+.frow .col-sm-2-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-8 {$/;"	c
+.frow .col-sm-2-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-2-9 {$/;"	c
+.frow .col-sm-3-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-10 {$/;"	c
+.frow .col-sm-3-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-11 {$/;"	c
+.frow .col-sm-3-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-12 {$/;"	c
+.frow .col-sm-3-3	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-3 {$/;"	c
+.frow .col-sm-3-4	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-4 {$/;"	c
+.frow .col-sm-3-5	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-5 {$/;"	c
+.frow .col-sm-3-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-6 {$/;"	c
+.frow .col-sm-3-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-7 {$/;"	c
+.frow .col-sm-3-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-8 {$/;"	c
+.frow .col-sm-3-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-3-9 {$/;"	c
+.frow .col-sm-4-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-10 {$/;"	c
+.frow .col-sm-4-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-11 {$/;"	c
+.frow .col-sm-4-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-12 {$/;"	c
+.frow .col-sm-4-4	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-4 {$/;"	c
+.frow .col-sm-4-5	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-5 {$/;"	c
+.frow .col-sm-4-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-6 {$/;"	c
+.frow .col-sm-4-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-7 {$/;"	c
+.frow .col-sm-4-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-8 {$/;"	c
+.frow .col-sm-4-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-4-9 {$/;"	c
+.frow .col-sm-5-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-10 {$/;"	c
+.frow .col-sm-5-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-11 {$/;"	c
+.frow .col-sm-5-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-12 {$/;"	c
+.frow .col-sm-5-5	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-5 {$/;"	c
+.frow .col-sm-5-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-6 {$/;"	c
+.frow .col-sm-5-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-7 {$/;"	c
+.frow .col-sm-5-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-8 {$/;"	c
+.frow .col-sm-5-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-5-9 {$/;"	c
+.frow .col-sm-6-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-10 {$/;"	c
+.frow .col-sm-6-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-11 {$/;"	c
+.frow .col-sm-6-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-12 {$/;"	c
+.frow .col-sm-6-6	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-6 {$/;"	c
+.frow .col-sm-6-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-7 {$/;"	c
+.frow .col-sm-6-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-8 {$/;"	c
+.frow .col-sm-6-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-6-9 {$/;"	c
+.frow .col-sm-7-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-10 {$/;"	c
+.frow .col-sm-7-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-11 {$/;"	c
+.frow .col-sm-7-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-12 {$/;"	c
+.frow .col-sm-7-7	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-7 {$/;"	c
+.frow .col-sm-7-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-8 {$/;"	c
+.frow .col-sm-7-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-7-9 {$/;"	c
+.frow .col-sm-8-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-8-10 {$/;"	c
+.frow .col-sm-8-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-8-11 {$/;"	c
+.frow .col-sm-8-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-8-12 {$/;"	c
+.frow .col-sm-8-8	assets/css/flexbox-frow.css	/^  .frow .col-sm-8-8 {$/;"	c
+.frow .col-sm-8-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-8-9 {$/;"	c
+.frow .col-sm-9-10	assets/css/flexbox-frow.css	/^  .frow .col-sm-9-10 {$/;"	c
+.frow .col-sm-9-11	assets/css/flexbox-frow.css	/^  .frow .col-sm-9-11 {$/;"	c
+.frow .col-sm-9-12	assets/css/flexbox-frow.css	/^  .frow .col-sm-9-12 {$/;"	c
+.frow .col-sm-9-9	assets/css/flexbox-frow.css	/^  .frow .col-sm-9-9 {$/;"	c
+.frow .col-xs-1-1	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-1 {$/;"	c
+.frow .col-xs-1-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-10 {$/;"	c
+.frow .col-xs-1-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-11 {$/;"	c
+.frow .col-xs-1-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-12 {$/;"	c
+.frow .col-xs-1-2	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-2 {$/;"	c
+.frow .col-xs-1-3	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-3 {$/;"	c
+.frow .col-xs-1-4	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-4 {$/;"	c
+.frow .col-xs-1-5	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-5 {$/;"	c
+.frow .col-xs-1-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-6 {$/;"	c
+.frow .col-xs-1-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-7 {$/;"	c
+.frow .col-xs-1-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-8 {$/;"	c
+.frow .col-xs-1-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-1-9 {$/;"	c
+.frow .col-xs-10-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-10-10 {$/;"	c
+.frow .col-xs-10-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-10-11 {$/;"	c
+.frow .col-xs-10-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-10-12 {$/;"	c
+.frow .col-xs-11-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-11-11 {$/;"	c
+.frow .col-xs-11-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-11-12 {$/;"	c
+.frow .col-xs-12-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-12-12 {$/;"	c
+.frow .col-xs-2-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-10 {$/;"	c
+.frow .col-xs-2-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-11 {$/;"	c
+.frow .col-xs-2-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-12 {$/;"	c
+.frow .col-xs-2-2	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-2 {$/;"	c
+.frow .col-xs-2-3	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-3 {$/;"	c
+.frow .col-xs-2-4	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-4 {$/;"	c
+.frow .col-xs-2-5	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-5 {$/;"	c
+.frow .col-xs-2-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-6 {$/;"	c
+.frow .col-xs-2-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-7 {$/;"	c
+.frow .col-xs-2-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-8 {$/;"	c
+.frow .col-xs-2-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-2-9 {$/;"	c
+.frow .col-xs-3-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-10 {$/;"	c
+.frow .col-xs-3-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-11 {$/;"	c
+.frow .col-xs-3-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-12 {$/;"	c
+.frow .col-xs-3-3	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-3 {$/;"	c
+.frow .col-xs-3-4	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-4 {$/;"	c
+.frow .col-xs-3-5	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-5 {$/;"	c
+.frow .col-xs-3-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-6 {$/;"	c
+.frow .col-xs-3-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-7 {$/;"	c
+.frow .col-xs-3-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-8 {$/;"	c
+.frow .col-xs-3-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-3-9 {$/;"	c
+.frow .col-xs-4-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-10 {$/;"	c
+.frow .col-xs-4-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-11 {$/;"	c
+.frow .col-xs-4-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-12 {$/;"	c
+.frow .col-xs-4-4	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-4 {$/;"	c
+.frow .col-xs-4-5	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-5 {$/;"	c
+.frow .col-xs-4-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-6 {$/;"	c
+.frow .col-xs-4-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-7 {$/;"	c
+.frow .col-xs-4-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-8 {$/;"	c
+.frow .col-xs-4-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-4-9 {$/;"	c
+.frow .col-xs-5-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-10 {$/;"	c
+.frow .col-xs-5-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-11 {$/;"	c
+.frow .col-xs-5-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-12 {$/;"	c
+.frow .col-xs-5-5	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-5 {$/;"	c
+.frow .col-xs-5-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-6 {$/;"	c
+.frow .col-xs-5-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-7 {$/;"	c
+.frow .col-xs-5-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-8 {$/;"	c
+.frow .col-xs-5-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-5-9 {$/;"	c
+.frow .col-xs-6-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-10 {$/;"	c
+.frow .col-xs-6-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-11 {$/;"	c
+.frow .col-xs-6-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-12 {$/;"	c
+.frow .col-xs-6-6	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-6 {$/;"	c
+.frow .col-xs-6-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-7 {$/;"	c
+.frow .col-xs-6-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-8 {$/;"	c
+.frow .col-xs-6-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-6-9 {$/;"	c
+.frow .col-xs-7-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-10 {$/;"	c
+.frow .col-xs-7-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-11 {$/;"	c
+.frow .col-xs-7-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-12 {$/;"	c
+.frow .col-xs-7-7	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-7 {$/;"	c
+.frow .col-xs-7-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-8 {$/;"	c
+.frow .col-xs-7-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-7-9 {$/;"	c
+.frow .col-xs-8-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-8-10 {$/;"	c
+.frow .col-xs-8-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-8-11 {$/;"	c
+.frow .col-xs-8-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-8-12 {$/;"	c
+.frow .col-xs-8-8	assets/css/flexbox-frow.css	/^  .frow .col-xs-8-8 {$/;"	c
+.frow .col-xs-8-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-8-9 {$/;"	c
+.frow .col-xs-9-10	assets/css/flexbox-frow.css	/^  .frow .col-xs-9-10 {$/;"	c
+.frow .col-xs-9-11	assets/css/flexbox-frow.css	/^  .frow .col-xs-9-11 {$/;"	c
+.frow .col-xs-9-12	assets/css/flexbox-frow.css	/^  .frow .col-xs-9-12 {$/;"	c
+.frow .col-xs-9-9	assets/css/flexbox-frow.css	/^  .frow .col-xs-9-9 {$/;"	c
+.frow > *	assets/css/flexbox-frow.css	/^.frow > * {$/;"	s
+.frow-container	assets/css/flexbox-frow.css	/^  .frow-container {$/;"	c
+.frow-container	assets/css/flexbox-frow.css	/^.frow-container {$/;"	c
+.frow.centered	assets/css/flexbox-frow.css	/^.frow.centered {$/;"	c
+.frow.centered-column	assets/css/flexbox-frow.css	/^.frow.centered-column {$/;"	c
+.frow.column-center	assets/css/flexbox-frow.css	/^.frow.column-center {$/;"	c
+.frow.column-end	assets/css/flexbox-frow.css	/^.frow.column-end {$/;"	c
+.frow.column-start	assets/css/flexbox-frow.css	/^.frow.column-start {$/;"	c
+.frow.content-around	assets/css/flexbox-frow.css	/^.frow.content-around {$/;"	c
+.frow.content-between	assets/css/flexbox-frow.css	/^.frow.content-between {$/;"	c
+.frow.content-center	assets/css/flexbox-frow.css	/^.frow.content-center {$/;"	c
+.frow.content-end	assets/css/flexbox-frow.css	/^.frow.content-end {$/;"	c
+.frow.content-evenly	assets/css/flexbox-frow.css	/^.frow.content-evenly {$/;"	c
+.frow.content-start	assets/css/flexbox-frow.css	/^.frow.content-start {$/;"	c
+.frow.direction-column	assets/css/flexbox-frow.css	/^.frow.direction-column {$/;"	c
+.frow.direction-column-lg	assets/css/flexbox-frow.css	/^  .frow.direction-column-lg {$/;"	c
+.frow.direction-column-md	assets/css/flexbox-frow.css	/^  .frow.direction-column-md {$/;"	c
+.frow.direction-column-reverse	assets/css/flexbox-frow.css	/^.frow.direction-column-reverse {$/;"	c
+.frow.direction-column-reverse-lg	assets/css/flexbox-frow.css	/^  .frow.direction-column-reverse-lg {$/;"	c
+.frow.direction-column-reverse-md	assets/css/flexbox-frow.css	/^  .frow.direction-column-reverse-md {$/;"	c
+.frow.direction-column-reverse-sm	assets/css/flexbox-frow.css	/^  .frow.direction-column-reverse-sm {$/;"	c
+.frow.direction-column-reverse-xs	assets/css/flexbox-frow.css	/^  .frow.direction-column-reverse-xs {$/;"	c
+.frow.direction-column-sm	assets/css/flexbox-frow.css	/^  .frow.direction-column-sm {$/;"	c
+.frow.direction-column-xs	assets/css/flexbox-frow.css	/^  .frow.direction-column-xs {$/;"	c
+.frow.direction-reverse	assets/css/flexbox-frow.css	/^.frow.direction-reverse {$/;"	c
+.frow.direction-reverse-lg	assets/css/flexbox-frow.css	/^  .frow.direction-reverse-lg {$/;"	c
+.frow.direction-reverse-md	assets/css/flexbox-frow.css	/^  .frow.direction-reverse-md {$/;"	c
+.frow.direction-reverse-sm	assets/css/flexbox-frow.css	/^  .frow.direction-reverse-sm {$/;"	c
+.frow.direction-reverse-xs	assets/css/flexbox-frow.css	/^  .frow.direction-reverse-xs {$/;"	c
+.frow.direction-row	assets/css/flexbox-frow.css	/^.frow.direction-row {$/;"	c
+.frow.direction-row-lg	assets/css/flexbox-frow.css	/^  .frow.direction-row-lg {$/;"	c
+.frow.direction-row-md	assets/css/flexbox-frow.css	/^  .frow.direction-row-md {$/;"	c
+.frow.direction-row-sm	assets/css/flexbox-frow.css	/^  .frow.direction-row-sm {$/;"	c
+.frow.direction-row-xs	assets/css/flexbox-frow.css	/^  .frow.direction-row-xs {$/;"	c
+.frow.gutters	assets/css/flexbox-frow.css	/^.frow.gutters {$/;"	c
+.frow.gutters >[class*=col-lg]	assets/css/flexbox-frow.css	/^.frow.gutters > [class*=col-xs], .frow.gutters > [class*=col-sm], .frow.gutters > [class*=col-md/;"	s
+.frow.gutters >[class*=col-md]	assets/css/flexbox-frow.css	/^.frow.gutters > [class*=col-xs], .frow.gutters > [class*=col-sm], .frow.gutters > [class*=col-md/;"	s
+.frow.gutters >[class*=col-sm]	assets/css/flexbox-frow.css	/^.frow.gutters > [class*=col-xs], .frow.gutters > [class*=col-sm], .frow.gutters > [class*=col-md/;"	s
+.frow.gutters >[class*=col-xs]	assets/css/flexbox-frow.css	/^.frow.gutters > [class*=col-xs], .frow.gutters > [class*=col-sm], .frow.gutters > [class*=col-md/;"	s
+.frow.hidden-lg	assets/css/flexbox-frow.css	/^.frow.hidden-lg {$/;"	c
+.frow.hidden-lg	assets/css/flexbox-frow.css	/^.frow.hidden-xs, .frow.hidden-sm, .frow.hidden-md, .frow.hidden-lg {$/;"	c
+.frow.hidden-md	assets/css/flexbox-frow.css	/^.frow.hidden-md {$/;"	c
+.frow.hidden-md	assets/css/flexbox-frow.css	/^.frow.hidden-xs, .frow.hidden-sm, .frow.hidden-md, .frow.hidden-lg {$/;"	c
+.frow.hidden-print	assets/css/flexbox-frow.css	/^.frow.hidden-print {$/;"	c
+.frow.hidden-sm	assets/css/flexbox-frow.css	/^.frow.hidden-sm {$/;"	c
+.frow.hidden-sm	assets/css/flexbox-frow.css	/^.frow.hidden-xs, .frow.hidden-sm, .frow.hidden-md, .frow.hidden-lg {$/;"	c
+.frow.hidden-xs	assets/css/flexbox-frow.css	/^.frow.hidden-xs {$/;"	c
+.frow.hidden-xs	assets/css/flexbox-frow.css	/^.frow.hidden-xs, .frow.hidden-sm, .frow.hidden-md, .frow.hidden-lg {$/;"	c
+.frow.inline	assets/css/flexbox-frow.css	/^.frow.inline {$/;"	c
+.frow.items-baseline	assets/css/flexbox-frow.css	/^.frow.items-baseline {$/;"	c
+.frow.items-center	assets/css/flexbox-frow.css	/^.frow.items-center {$/;"	c
+.frow.items-end	assets/css/flexbox-frow.css	/^.frow.items-end {$/;"	c
+.frow.items-start	assets/css/flexbox-frow.css	/^.frow.items-start {$/;"	c
+.frow.items-stretch	assets/css/flexbox-frow.css	/^.frow.items-stretch {$/;"	c
+.frow.justify-around	assets/css/flexbox-frow.css	/^.frow.justify-around {$/;"	c
+.frow.justify-between	assets/css/flexbox-frow.css	/^.frow.justify-between {$/;"	c
+.frow.justify-center	assets/css/flexbox-frow.css	/^.frow.justify-center {$/;"	c
+.frow.justify-end	assets/css/flexbox-frow.css	/^.frow.justify-end {$/;"	c
+.frow.justify-evenly	assets/css/flexbox-frow.css	/^.frow.justify-evenly {$/;"	c
+.frow.justify-start	assets/css/flexbox-frow.css	/^.frow.justify-start {$/;"	c
+.frow.nowrap	assets/css/flexbox-frow.css	/^.frow.nowrap {$/;"	c
+.frow.row-around	assets/css/flexbox-frow.css	/^.frow.row-around {$/;"	c
+.frow.row-between	assets/css/flexbox-frow.css	/^.frow.row-between {$/;"	c
+.frow.row-center	assets/css/flexbox-frow.css	/^.frow.row-center {$/;"	c
+.frow.row-end	assets/css/flexbox-frow.css	/^.frow.row-end {$/;"	c
+.frow.row-evenly	assets/css/flexbox-frow.css	/^.frow.row-evenly {$/;"	c
+.frow.row-start	assets/css/flexbox-frow.css	/^.frow.row-start {$/;"	c
+.frow.visible-lg	assets/css/flexbox-frow.css	/^  .frow.visible-lg {$/;"	c
+.frow.visible-md	assets/css/flexbox-frow.css	/^  .frow.visible-md {$/;"	c
+.frow.visible-print	assets/css/flexbox-frow.css	/^  .frow.visible-print {$/;"	c
+.frow.visible-print	assets/css/flexbox-frow.css	/^.frow.visible-print {$/;"	c
+.frow.visible-sm	assets/css/flexbox-frow.css	/^  .frow.visible-sm {$/;"	c
+.frow.visible-xs	assets/css/flexbox-frow.css	/^  .frow.visible-xs {$/;"	c
+.frow.wrap	assets/css/flexbox-frow.css	/^.frow.wrap {$/;"	c
+.frow.wrap-reverse	assets/css/flexbox-frow.css	/^.frow.wrap-reverse {$/;"	c
+.frow[class*=col-lg]	assets/css/flexbox-frow.css	/^.frow [class*=col-xs], .frow [class*=col-sm], .frow [class*=col-md], .frow [class*=col-lg] {$/;"	c
+.frow[class*=col-md]	assets/css/flexbox-frow.css	/^.frow [class*=col-xs], .frow [class*=col-sm], .frow [class*=col-md], .frow [class*=col-lg] {$/;"	c
+.frow[class*=col-sm]	assets/css/flexbox-frow.css	/^.frow [class*=col-xs], .frow [class*=col-sm], .frow [class*=col-md], .frow [class*=col-lg] {$/;"	c
+.frow[class*=col-xs]	assets/css/flexbox-frow.css	/^.frow [class*=col-xs], .frow [class*=col-sm], .frow [class*=col-md], .frow [class*=col-lg] {$/;"	c
+.func_c	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.function	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.global	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.goto	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.grow-0	assets/css/flexbox-frow.css	/^.grow-0 {$/;"	c
+.grow-1	assets/css/flexbox-frow.css	/^.grow-1 {$/;"	c
+.halt_compiler	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.hamburger	assets/css/hamburger.css	/^.hamburger {$/;"	c
+.hamburger .logo	assets/css/hamburger.css	/^.hamburger .logo {$/;"	c
+.hamburger .logo:hover	assets/css/hamburger.css	/^.hamburger .logo:hover {$/;"	c
+.hamburger .menu	assets/css/hamburger.css	/^	.hamburger .menu {$/;"	c
+.hamburger .menu	assets/css/hamburger.css	/^.hamburger .menu {$/;"	c
+.hamburger .menu-btn	assets/css/hamburger.css	/^.hamburger .menu-btn {$/;"	c
+.hamburger .menu-btn:checked ~ .menu	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu {$/;"	c
+.hamburger .menu-btn:checked ~ .menu-icon .navicon	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu-icon .navicon {$/;"	c
+.hamburger .menu-btn:checked ~ .menu-icon .navicon:after	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu-icon .navicon:after {$/;"	c
+.hamburger .menu-btn:checked ~ .menu-icon .navicon:before	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu-icon .navicon:before {$/;"	c
+.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {$/;"	c
+.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before	assets/css/hamburger.css	/^.hamburger .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,$/;"	c
+.hamburger .menu-btn:hover	assets/css/hamburger.css	/^.hamburger .menu-btn:hover {$/;"	c
+.hamburger .menu-icon	assets/css/hamburger.css	/^	.hamburger .menu-icon {$/;"	c
+.hamburger .menu-icon	assets/css/hamburger.css	/^.hamburger .menu-icon {$/;"	c
+.hamburger .menu-icon .navicon	assets/css/hamburger.css	/^.hamburger .menu-icon .navicon {$/;"	c
+.hamburger .menu-icon .navicon:after	assets/css/hamburger.css	/^.hamburger .menu-icon .navicon:after {$/;"	c
+.hamburger .menu-icon .navicon:before	assets/css/hamburger.css	/^.hamburger .menu-icon .navicon:before {$/;"	c
+.hamburger .menu-icon .navicon:before	assets/css/hamburger.css	/^.hamburger .menu-icon .navicon:before,$/;"	c
+.hamburger li	assets/css/hamburger.css	/^	.hamburger li {$/;"	s
+.hamburger li	assets/css/hamburger.css	/^.hamburger li {$/;"	s
+.hamburger li a	assets/css/hamburger.css	/^	.hamburger li a {$/;"	s
+.hamburger li a	assets/css/hamburger.css	/^.hamburger li a {$/;"	s
+.hamburger li a:hover	assets/css/hamburger.css	/^.hamburger li a:hover,$/;"	s
+.hamburger ul	assets/css/hamburger.css	/^.hamburger ul {$/;"	s
+.header	ui/css/theme.css	/^.header {$/;"	c
+.header img	ui/css/theme.css	/^.header img {$/;"	s
+.height-100	assets/css/flexbox-frow.css	/^.height-100 {$/;"	c
+.height-auto	assets/css/flexbox-frow.css	/^.height-auto {$/;"	c
+.hidden-lg	assets/css/flexbox-frow.css	/^  .hidden-lg,$/;"	c
+.hidden-lg	assets/css/flexbox-frow.css	/^.hidden-xs, .hidden-sm, .hidden-md, .hidden-lg {$/;"	c
+.hidden-md	assets/css/flexbox-frow.css	/^  .hidden-md,$/;"	c
+.hidden-md	assets/css/flexbox-frow.css	/^.hidden-xs, .hidden-sm, .hidden-md, .hidden-lg {$/;"	c
+.hidden-print	assets/css/flexbox-frow.css	/^  .hidden-print,$/;"	c
+.hidden-sm	assets/css/flexbox-frow.css	/^  .hidden-sm,$/;"	c
+.hidden-sm	assets/css/flexbox-frow.css	/^.hidden-xs, .hidden-sm, .hidden-md, .hidden-lg {$/;"	c
+.hidden-xs	assets/css/flexbox-frow.css	/^  .hidden-xs,$/;"	c
+.hidden-xs	assets/css/flexbox-frow.css	/^.hidden-xs, .hidden-sm, .hidden-md, .hidden-lg {$/;"	c
+.if	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.implements	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.inc	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.include	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.include_once	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ini_key	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ini_section	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ini_value	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.instanceof	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.interface	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_greater_or_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_identical	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_not_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_not_identical	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.is_smaller_or_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.isset	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.letsGo-hide	assets/css/flexbox-frow.css	/^.letsGo-hide {$/;"	c
+.line	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.list	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.lnumber	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.logical_and	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.logical_or	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.logical_xor	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.m-0	assets/css/flexbox-frow.css	/^.m-0 {$/;"	c
+.m-10	assets/css/flexbox-frow.css	/^.m-10 {$/;"	c
+.m-100	assets/css/flexbox-frow.css	/^.m-100 {$/;"	c
+.m-15	assets/css/flexbox-frow.css	/^.m-15 {$/;"	c
+.m-20	assets/css/flexbox-frow.css	/^.m-20 {$/;"	c
+.m-25	assets/css/flexbox-frow.css	/^.m-25 {$/;"	c
+.m-30	assets/css/flexbox-frow.css	/^.m-30 {$/;"	c
+.m-40	assets/css/flexbox-frow.css	/^.m-40 {$/;"	c
+.m-5	assets/css/flexbox-frow.css	/^.m-5 {$/;"	c
+.m-50	assets/css/flexbox-frow.css	/^.m-50 {$/;"	c
+.m-60	assets/css/flexbox-frow.css	/^.m-60 {$/;"	c
+.m-70	assets/css/flexbox-frow.css	/^.m-70 {$/;"	c
+.m-80	assets/css/flexbox-frow.css	/^.m-80 {$/;"	c
+.m-90	assets/css/flexbox-frow.css	/^.m-90 {$/;"	c
+.m-auto	assets/css/flexbox-frow.css	/^.m-auto {$/;"	c
+.mb-0	assets/css/flexbox-frow.css	/^.mb-0 {$/;"	c
+.mb-10	assets/css/flexbox-frow.css	/^.mb-10 {$/;"	c
+.mb-100	assets/css/flexbox-frow.css	/^.mb-100 {$/;"	c
+.mb-15	assets/css/flexbox-frow.css	/^.mb-15 {$/;"	c
+.mb-20	assets/css/flexbox-frow.css	/^.mb-20 {$/;"	c
+.mb-25	assets/css/flexbox-frow.css	/^.mb-25 {$/;"	c
+.mb-30	assets/css/flexbox-frow.css	/^.mb-30 {$/;"	c
+.mb-40	assets/css/flexbox-frow.css	/^.mb-40 {$/;"	c
+.mb-5	assets/css/flexbox-frow.css	/^.mb-5 {$/;"	c
+.mb-50	assets/css/flexbox-frow.css	/^.mb-50 {$/;"	c
+.mb-60	assets/css/flexbox-frow.css	/^.mb-60 {$/;"	c
+.mb-70	assets/css/flexbox-frow.css	/^.mb-70 {$/;"	c
+.mb-80	assets/css/flexbox-frow.css	/^.mb-80 {$/;"	c
+.mb-90	assets/css/flexbox-frow.css	/^.mb-90 {$/;"	c
+.mb-auto	assets/css/flexbox-frow.css	/^.mb-auto {$/;"	c
+.method_c	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.minus_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ml-0	assets/css/flexbox-frow.css	/^.ml-0 {$/;"	c
+.ml-10	assets/css/flexbox-frow.css	/^.ml-10 {$/;"	c
+.ml-100	assets/css/flexbox-frow.css	/^.ml-100 {$/;"	c
+.ml-15	assets/css/flexbox-frow.css	/^.ml-15 {$/;"	c
+.ml-20	assets/css/flexbox-frow.css	/^.ml-20 {$/;"	c
+.ml-25	assets/css/flexbox-frow.css	/^.ml-25 {$/;"	c
+.ml-30	assets/css/flexbox-frow.css	/^.ml-30 {$/;"	c
+.ml-40	assets/css/flexbox-frow.css	/^.ml-40 {$/;"	c
+.ml-5	assets/css/flexbox-frow.css	/^.ml-5 {$/;"	c
+.ml-50	assets/css/flexbox-frow.css	/^.ml-50 {$/;"	c
+.ml-60	assets/css/flexbox-frow.css	/^.ml-60 {$/;"	c
+.ml-70	assets/css/flexbox-frow.css	/^.ml-70 {$/;"	c
+.ml-80	assets/css/flexbox-frow.css	/^.ml-80 {$/;"	c
+.ml-90	assets/css/flexbox-frow.css	/^.ml-90 {$/;"	c
+.ml-auto	assets/css/flexbox-frow.css	/^.ml-auto {$/;"	c
+.ml_comment	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.mod_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.mr-0	assets/css/flexbox-frow.css	/^.mr-0 {$/;"	c
+.mr-10	assets/css/flexbox-frow.css	/^.mr-10 {$/;"	c
+.mr-100	assets/css/flexbox-frow.css	/^.mr-100 {$/;"	c
+.mr-15	assets/css/flexbox-frow.css	/^.mr-15 {$/;"	c
+.mr-20	assets/css/flexbox-frow.css	/^.mr-20 {$/;"	c
+.mr-25	assets/css/flexbox-frow.css	/^.mr-25 {$/;"	c
+.mr-30	assets/css/flexbox-frow.css	/^.mr-30 {$/;"	c
+.mr-40	assets/css/flexbox-frow.css	/^.mr-40 {$/;"	c
+.mr-5	assets/css/flexbox-frow.css	/^.mr-5 {$/;"	c
+.mr-50	assets/css/flexbox-frow.css	/^.mr-50 {$/;"	c
+.mr-60	assets/css/flexbox-frow.css	/^.mr-60 {$/;"	c
+.mr-70	assets/css/flexbox-frow.css	/^.mr-70 {$/;"	c
+.mr-80	assets/css/flexbox-frow.css	/^.mr-80 {$/;"	c
+.mr-90	assets/css/flexbox-frow.css	/^.mr-90 {$/;"	c
+.mr-auto	assets/css/flexbox-frow.css	/^.mr-auto {$/;"	c
+.mt-0	assets/css/flexbox-frow.css	/^.mt-0 {$/;"	c
+.mt-10	assets/css/flexbox-frow.css	/^.mt-10 {$/;"	c
+.mt-100	assets/css/flexbox-frow.css	/^.mt-100 {$/;"	c
+.mt-15	assets/css/flexbox-frow.css	/^.mt-15 {$/;"	c
+.mt-20	assets/css/flexbox-frow.css	/^.mt-20 {$/;"	c
+.mt-25	assets/css/flexbox-frow.css	/^.mt-25 {$/;"	c
+.mt-30	assets/css/flexbox-frow.css	/^.mt-30 {$/;"	c
+.mt-40	assets/css/flexbox-frow.css	/^.mt-40 {$/;"	c
+.mt-5	assets/css/flexbox-frow.css	/^.mt-5 {$/;"	c
+.mt-50	assets/css/flexbox-frow.css	/^.mt-50 {$/;"	c
+.mt-60	assets/css/flexbox-frow.css	/^.mt-60 {$/;"	c
+.mt-70	assets/css/flexbox-frow.css	/^.mt-70 {$/;"	c
+.mt-80	assets/css/flexbox-frow.css	/^.mt-80 {$/;"	c
+.mt-90	assets/css/flexbox-frow.css	/^.mt-90 {$/;"	c
+.mt-auto	assets/css/flexbox-frow.css	/^.mt-auto {$/;"	c
+.mul_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.mx-0	assets/css/flexbox-frow.css	/^.mx-0 {$/;"	c
+.mx-10	assets/css/flexbox-frow.css	/^.mx-10 {$/;"	c
+.mx-100	assets/css/flexbox-frow.css	/^.mx-100 {$/;"	c
+.mx-15	assets/css/flexbox-frow.css	/^.mx-15 {$/;"	c
+.mx-20	assets/css/flexbox-frow.css	/^.mx-20 {$/;"	c
+.mx-25	assets/css/flexbox-frow.css	/^.mx-25 {$/;"	c
+.mx-30	assets/css/flexbox-frow.css	/^.mx-30 {$/;"	c
+.mx-40	assets/css/flexbox-frow.css	/^.mx-40 {$/;"	c
+.mx-5	assets/css/flexbox-frow.css	/^.mx-5 {$/;"	c
+.mx-50	assets/css/flexbox-frow.css	/^.mx-50 {$/;"	c
+.mx-60	assets/css/flexbox-frow.css	/^.mx-60 {$/;"	c
+.mx-70	assets/css/flexbox-frow.css	/^.mx-70 {$/;"	c
+.mx-80	assets/css/flexbox-frow.css	/^.mx-80 {$/;"	c
+.mx-90	assets/css/flexbox-frow.css	/^.mx-90 {$/;"	c
+.mx-auto	assets/css/flexbox-frow.css	/^.mx-auto {$/;"	c
+.my-0	assets/css/flexbox-frow.css	/^.my-0 {$/;"	c
+.my-10	assets/css/flexbox-frow.css	/^.my-10 {$/;"	c
+.my-100	assets/css/flexbox-frow.css	/^.my-100 {$/;"	c
+.my-15	assets/css/flexbox-frow.css	/^.my-15 {$/;"	c
+.my-20	assets/css/flexbox-frow.css	/^.my-20 {$/;"	c
+.my-25	assets/css/flexbox-frow.css	/^.my-25 {$/;"	c
+.my-30	assets/css/flexbox-frow.css	/^.my-30 {$/;"	c
+.my-40	assets/css/flexbox-frow.css	/^.my-40 {$/;"	c
+.my-5	assets/css/flexbox-frow.css	/^.my-5 {$/;"	c
+.my-50	assets/css/flexbox-frow.css	/^.my-50 {$/;"	c
+.my-60	assets/css/flexbox-frow.css	/^.my-60 {$/;"	c
+.my-70	assets/css/flexbox-frow.css	/^.my-70 {$/;"	c
+.my-80	assets/css/flexbox-frow.css	/^.my-80 {$/;"	c
+.my-90	assets/css/flexbox-frow.css	/^.my-90 {$/;"	c
+.my-auto	assets/css/flexbox-frow.css	/^.my-auto {$/;"	c
+.namespace	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.new	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.nine.columns	assets/css/grid-skeleton.css	/^	.nine.columns {$/;"	c
+.nine.columns	assets/css/grid.css	/^	.nine.columns {$/;"	c
+.not-clickable	assets/css/flexbox-frow.css	/^.not-clickable, .not-clickable[onclick] {$/;"	c
+.not-clickable[onclick]	assets/css/flexbox-frow.css	/^.not-clickable, .not-clickable[onclick] {$/;"	c
+.ns_c	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ns_separator	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.object_operator	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.offset-by-eight.column	assets/css/grid-skeleton.css	/^	.offset-by-eight.column,$/;"	c
+.offset-by-eight.column	assets/css/grid.css	/^	.offset-by-eight.column,$/;"	c
+.offset-by-eight.columns	assets/css/grid-skeleton.css	/^	.offset-by-eight.columns {$/;"	c
+.offset-by-eight.columns	assets/css/grid.css	/^	.offset-by-eight.columns {$/;"	c
+.offset-by-eleven.column	assets/css/grid-skeleton.css	/^	.offset-by-eleven.column,$/;"	c
+.offset-by-eleven.column	assets/css/grid.css	/^	.offset-by-eleven.column,$/;"	c
+.offset-by-eleven.columns	assets/css/grid-skeleton.css	/^	.offset-by-eleven.columns {$/;"	c
+.offset-by-eleven.columns	assets/css/grid.css	/^	.offset-by-eleven.columns {$/;"	c
+.offset-by-five.column	assets/css/grid-skeleton.css	/^	.offset-by-five.column,$/;"	c
+.offset-by-five.column	assets/css/grid.css	/^	.offset-by-five.column,$/;"	c
+.offset-by-five.columns	assets/css/grid-skeleton.css	/^	.offset-by-five.columns {$/;"	c
+.offset-by-five.columns	assets/css/grid.css	/^	.offset-by-five.columns {$/;"	c
+.offset-by-four.column	assets/css/grid-skeleton.css	/^	.offset-by-four.column,$/;"	c
+.offset-by-four.column	assets/css/grid.css	/^	.offset-by-four.column,$/;"	c
+.offset-by-four.columns	assets/css/grid-skeleton.css	/^	.offset-by-four.columns {$/;"	c
+.offset-by-four.columns	assets/css/grid.css	/^	.offset-by-four.columns {$/;"	c
+.offset-by-nine.column	assets/css/grid-skeleton.css	/^	.offset-by-nine.column,$/;"	c
+.offset-by-nine.column	assets/css/grid.css	/^	.offset-by-nine.column,$/;"	c
+.offset-by-nine.columns	assets/css/grid-skeleton.css	/^	.offset-by-nine.columns {$/;"	c
+.offset-by-nine.columns	assets/css/grid.css	/^	.offset-by-nine.columns {$/;"	c
+.offset-by-one-half.column	assets/css/grid-skeleton.css	/^	.offset-by-one-half.column,$/;"	c
+.offset-by-one-half.column	assets/css/grid.css	/^	.offset-by-one-half.column,$/;"	c
+.offset-by-one-half.columns	assets/css/grid-skeleton.css	/^	.offset-by-one-half.columns {$/;"	c
+.offset-by-one-half.columns	assets/css/grid.css	/^	.offset-by-one-half.columns {$/;"	c
+.offset-by-one-third.column	assets/css/grid-skeleton.css	/^	.offset-by-one-third.column,$/;"	c
+.offset-by-one-third.column	assets/css/grid.css	/^	.offset-by-one-third.column,$/;"	c
+.offset-by-one-third.columns	assets/css/grid-skeleton.css	/^	.offset-by-one-third.columns {$/;"	c
+.offset-by-one-third.columns	assets/css/grid.css	/^	.offset-by-one-third.columns {$/;"	c
+.offset-by-one.column	assets/css/grid-skeleton.css	/^	.offset-by-one.column,$/;"	c
+.offset-by-one.column	assets/css/grid.css	/^	.offset-by-one.column,$/;"	c
+.offset-by-one.columns	assets/css/grid-skeleton.css	/^	.offset-by-one.columns {$/;"	c
+.offset-by-one.columns	assets/css/grid.css	/^	.offset-by-one.columns {$/;"	c
+.offset-by-seven.column	assets/css/grid-skeleton.css	/^	.offset-by-seven.column,$/;"	c
+.offset-by-seven.column	assets/css/grid.css	/^	.offset-by-seven.column,$/;"	c
+.offset-by-seven.columns	assets/css/grid-skeleton.css	/^	.offset-by-seven.columns {$/;"	c
+.offset-by-seven.columns	assets/css/grid.css	/^	.offset-by-seven.columns {$/;"	c
+.offset-by-six.column	assets/css/grid-skeleton.css	/^	.offset-by-six.column,$/;"	c
+.offset-by-six.column	assets/css/grid.css	/^	.offset-by-six.column,$/;"	c
+.offset-by-six.columns	assets/css/grid-skeleton.css	/^	.offset-by-six.columns {$/;"	c
+.offset-by-six.columns	assets/css/grid.css	/^	.offset-by-six.columns {$/;"	c
+.offset-by-ten.column	assets/css/grid-skeleton.css	/^	.offset-by-ten.column,$/;"	c
+.offset-by-ten.column	assets/css/grid.css	/^	.offset-by-ten.column,$/;"	c
+.offset-by-ten.columns	assets/css/grid-skeleton.css	/^	.offset-by-ten.columns {$/;"	c
+.offset-by-ten.columns	assets/css/grid.css	/^	.offset-by-ten.columns {$/;"	c
+.offset-by-three.column	assets/css/grid-skeleton.css	/^	.offset-by-three.column,$/;"	c
+.offset-by-three.column	assets/css/grid.css	/^	.offset-by-three.column,$/;"	c
+.offset-by-three.columns	assets/css/grid-skeleton.css	/^	.offset-by-three.columns {$/;"	c
+.offset-by-three.columns	assets/css/grid.css	/^	.offset-by-three.columns {$/;"	c
+.offset-by-two-thirds.column	assets/css/grid-skeleton.css	/^	.offset-by-two-thirds.column,$/;"	c
+.offset-by-two-thirds.column	assets/css/grid.css	/^	.offset-by-two-thirds.column,$/;"	c
+.offset-by-two-thirds.columns	assets/css/grid-skeleton.css	/^	.offset-by-two-thirds.columns {$/;"	c
+.offset-by-two-thirds.columns	assets/css/grid.css	/^	.offset-by-two-thirds.columns {$/;"	c
+.offset-by-two.column	assets/css/grid-skeleton.css	/^	.offset-by-two.column,$/;"	c
+.offset-by-two.column	assets/css/grid.css	/^	.offset-by-two.column,$/;"	c
+.offset-by-two.columns	assets/css/grid-skeleton.css	/^	.offset-by-two.columns {$/;"	c
+.offset-by-two.columns	assets/css/grid.css	/^	.offset-by-two.columns {$/;"	c
+.one-half.column	assets/css/grid-skeleton.css	/^	.one-half.column {$/;"	c
+.one-half.column	assets/css/grid.css	/^	.one-half.column {$/;"	c
+.one-third.column	assets/css/grid-skeleton.css	/^	.one-third.column {$/;"	c
+.one-third.column	assets/css/grid.css	/^	.one-third.column {$/;"	c
+.one.column	assets/css/grid-skeleton.css	/^	.one.column,$/;"	c
+.one.column	assets/css/grid.css	/^	.one.column,$/;"	c
+.one.columns	assets/css/grid-skeleton.css	/^	.one.columns {$/;"	c
+.one.columns	assets/css/grid.css	/^	.one.columns {$/;"	c
+.opacity-0	assets/css/flexbox-frow.css	/^.opacity-0 {$/;"	c
+.opacity-100	assets/css/flexbox-frow.css	/^.opacity-100 {$/;"	c
+.open_tag	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.open_tag_with_echo	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.or_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.overflow-auto	assets/css/flexbox-frow.css	/^.overflow-auto {$/;"	c
+.overflow-hidden	assets/css/flexbox-frow.css	/^.overflow-hidden {$/;"	c
+.overflow-visible	assets/css/flexbox-frow.css	/^.overflow-visible {$/;"	c
+.overflow-x-auto	assets/css/flexbox-frow.css	/^.overflow-x-auto {$/;"	c
+.overflow-x-hidden	assets/css/flexbox-frow.css	/^.overflow-x-hidden {$/;"	c
+.overflow-x-visible	assets/css/flexbox-frow.css	/^.overflow-x-visible {$/;"	c
+.overflow-y-auto	assets/css/flexbox-frow.css	/^.overflow-y-auto {$/;"	c
+.overflow-y-hidden	assets/css/flexbox-frow.css	/^.overflow-y-hidden {$/;"	c
+.overflow-y-visible	assets/css/flexbox-frow.css	/^.overflow-y-visible {$/;"	c
+.p-0	assets/css/flexbox-frow.css	/^.p-0 {$/;"	c
+.p-10	assets/css/flexbox-frow.css	/^.p-10 {$/;"	c
+.p-100	assets/css/flexbox-frow.css	/^.p-100 {$/;"	c
+.p-15	assets/css/flexbox-frow.css	/^.p-15 {$/;"	c
+.p-20	assets/css/flexbox-frow.css	/^.p-20 {$/;"	c
+.p-25	assets/css/flexbox-frow.css	/^.p-25 {$/;"	c
+.p-30	assets/css/flexbox-frow.css	/^.p-30 {$/;"	c
+.p-40	assets/css/flexbox-frow.css	/^.p-40 {$/;"	c
+.p-5	assets/css/flexbox-frow.css	/^.p-5 {$/;"	c
+.p-50	assets/css/flexbox-frow.css	/^.p-50 {$/;"	c
+.p-60	assets/css/flexbox-frow.css	/^.p-60 {$/;"	c
+.p-70	assets/css/flexbox-frow.css	/^.p-70 {$/;"	c
+.p-80	assets/css/flexbox-frow.css	/^.p-80 {$/;"	c
+.p-90	assets/css/flexbox-frow.css	/^.p-90 {$/;"	c
+.paamayim_nekudotayim	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.pb-0	assets/css/flexbox-frow.css	/^.pb-0 {$/;"	c
+.pb-10	assets/css/flexbox-frow.css	/^.pb-10 {$/;"	c
+.pb-100	assets/css/flexbox-frow.css	/^.pb-100 {$/;"	c
+.pb-15	assets/css/flexbox-frow.css	/^.pb-15 {$/;"	c
+.pb-20	assets/css/flexbox-frow.css	/^.pb-20 {$/;"	c
+.pb-25	assets/css/flexbox-frow.css	/^.pb-25 {$/;"	c
+.pb-30	assets/css/flexbox-frow.css	/^.pb-30 {$/;"	c
+.pb-40	assets/css/flexbox-frow.css	/^.pb-40 {$/;"	c
+.pb-5	assets/css/flexbox-frow.css	/^.pb-5 {$/;"	c
+.pb-50	assets/css/flexbox-frow.css	/^.pb-50 {$/;"	c
+.pb-60	assets/css/flexbox-frow.css	/^.pb-60 {$/;"	c
+.pb-70	assets/css/flexbox-frow.css	/^.pb-70 {$/;"	c
+.pb-80	assets/css/flexbox-frow.css	/^.pb-80 {$/;"	c
+.pb-90	assets/css/flexbox-frow.css	/^.pb-90 {$/;"	c
+.pl-0	assets/css/flexbox-frow.css	/^.pl-0 {$/;"	c
+.pl-10	assets/css/flexbox-frow.css	/^.pl-10 {$/;"	c
+.pl-100	assets/css/flexbox-frow.css	/^.pl-100 {$/;"	c
+.pl-15	assets/css/flexbox-frow.css	/^.pl-15 {$/;"	c
+.pl-20	assets/css/flexbox-frow.css	/^.pl-20 {$/;"	c
+.pl-25	assets/css/flexbox-frow.css	/^.pl-25 {$/;"	c
+.pl-30	assets/css/flexbox-frow.css	/^.pl-30 {$/;"	c
+.pl-40	assets/css/flexbox-frow.css	/^.pl-40 {$/;"	c
+.pl-5	assets/css/flexbox-frow.css	/^.pl-5 {$/;"	c
+.pl-50	assets/css/flexbox-frow.css	/^.pl-50 {$/;"	c
+.pl-60	assets/css/flexbox-frow.css	/^.pl-60 {$/;"	c
+.pl-70	assets/css/flexbox-frow.css	/^.pl-70 {$/;"	c
+.pl-80	assets/css/flexbox-frow.css	/^.pl-80 {$/;"	c
+.pl-90	assets/css/flexbox-frow.css	/^.pl-90 {$/;"	c
+.plus_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.pr-0	assets/css/flexbox-frow.css	/^.pr-0 {$/;"	c
+.pr-10	assets/css/flexbox-frow.css	/^.pr-10 {$/;"	c
+.pr-100	assets/css/flexbox-frow.css	/^.pr-100 {$/;"	c
+.pr-15	assets/css/flexbox-frow.css	/^.pr-15 {$/;"	c
+.pr-20	assets/css/flexbox-frow.css	/^.pr-20 {$/;"	c
+.pr-25	assets/css/flexbox-frow.css	/^.pr-25 {$/;"	c
+.pr-30	assets/css/flexbox-frow.css	/^.pr-30 {$/;"	c
+.pr-40	assets/css/flexbox-frow.css	/^.pr-40 {$/;"	c
+.pr-5	assets/css/flexbox-frow.css	/^.pr-5 {$/;"	c
+.pr-50	assets/css/flexbox-frow.css	/^.pr-50 {$/;"	c
+.pr-60	assets/css/flexbox-frow.css	/^.pr-60 {$/;"	c
+.pr-70	assets/css/flexbox-frow.css	/^.pr-70 {$/;"	c
+.pr-80	assets/css/flexbox-frow.css	/^.pr-80 {$/;"	c
+.pr-90	assets/css/flexbox-frow.css	/^.pr-90 {$/;"	c
+.print	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.private	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.protected	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.pt-0	assets/css/flexbox-frow.css	/^.pt-0 {$/;"	c
+.pt-10	assets/css/flexbox-frow.css	/^.pt-10 {$/;"	c
+.pt-100	assets/css/flexbox-frow.css	/^.pt-100 {$/;"	c
+.pt-15	assets/css/flexbox-frow.css	/^.pt-15 {$/;"	c
+.pt-20	assets/css/flexbox-frow.css	/^.pt-20 {$/;"	c
+.pt-25	assets/css/flexbox-frow.css	/^.pt-25 {$/;"	c
+.pt-30	assets/css/flexbox-frow.css	/^.pt-30 {$/;"	c
+.pt-40	assets/css/flexbox-frow.css	/^.pt-40 {$/;"	c
+.pt-5	assets/css/flexbox-frow.css	/^.pt-5 {$/;"	c
+.pt-50	assets/css/flexbox-frow.css	/^.pt-50 {$/;"	c
+.pt-60	assets/css/flexbox-frow.css	/^.pt-60 {$/;"	c
+.pt-70	assets/css/flexbox-frow.css	/^.pt-70 {$/;"	c
+.pt-80	assets/css/flexbox-frow.css	/^.pt-80 {$/;"	c
+.pt-90	assets/css/flexbox-frow.css	/^.pt-90 {$/;"	c
+.public	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.px-0	assets/css/flexbox-frow.css	/^.px-0 {$/;"	c
+.px-10	assets/css/flexbox-frow.css	/^.px-10 {$/;"	c
+.px-100	assets/css/flexbox-frow.css	/^.px-100 {$/;"	c
+.px-15	assets/css/flexbox-frow.css	/^.px-15 {$/;"	c
+.px-20	assets/css/flexbox-frow.css	/^.px-20 {$/;"	c
+.px-25	assets/css/flexbox-frow.css	/^.px-25 {$/;"	c
+.px-30	assets/css/flexbox-frow.css	/^.px-30 {$/;"	c
+.px-40	assets/css/flexbox-frow.css	/^.px-40 {$/;"	c
+.px-5	assets/css/flexbox-frow.css	/^.px-5 {$/;"	c
+.px-50	assets/css/flexbox-frow.css	/^.px-50 {$/;"	c
+.px-60	assets/css/flexbox-frow.css	/^.px-60 {$/;"	c
+.px-70	assets/css/flexbox-frow.css	/^.px-70 {$/;"	c
+.px-80	assets/css/flexbox-frow.css	/^.px-80 {$/;"	c
+.px-90	assets/css/flexbox-frow.css	/^.px-90 {$/;"	c
+.py-0	assets/css/flexbox-frow.css	/^.py-0 {$/;"	c
+.py-10	assets/css/flexbox-frow.css	/^.py-10 {$/;"	c
+.py-100	assets/css/flexbox-frow.css	/^.py-100 {$/;"	c
+.py-15	assets/css/flexbox-frow.css	/^.py-15 {$/;"	c
+.py-20	assets/css/flexbox-frow.css	/^.py-20 {$/;"	c
+.py-25	assets/css/flexbox-frow.css	/^.py-25 {$/;"	c
+.py-30	assets/css/flexbox-frow.css	/^.py-30 {$/;"	c
+.py-40	assets/css/flexbox-frow.css	/^.py-40 {$/;"	c
+.py-5	assets/css/flexbox-frow.css	/^.py-5 {$/;"	c
+.py-50	assets/css/flexbox-frow.css	/^.py-50 {$/;"	c
+.py-60	assets/css/flexbox-frow.css	/^.py-60 {$/;"	c
+.py-70	assets/css/flexbox-frow.css	/^.py-70 {$/;"	c
+.py-80	assets/css/flexbox-frow.css	/^.py-80 {$/;"	c
+.py-90	assets/css/flexbox-frow.css	/^.py-90 {$/;"	c
+.require	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.require_once	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.return	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.right	ui/css/theme.css	/^.right {$/;"	c
+.row:after	assets/css/clearing.css	/^.row:after,$/;"	c
+.section	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.seven.columns	assets/css/grid-skeleton.css	/^	.seven.columns {$/;"	c
+.seven.columns	assets/css/grid.css	/^	.seven.columns {$/;"	c
+.shadow-dark	assets/css/flexbox-frow.css	/^.shadow-dark {$/;"	c
+.shadow-light	assets/css/flexbox-frow.css	/^.shadow-light {$/;"	c
+.shrink-0	assets/css/flexbox-frow.css	/^.shrink-0 {$/;"	c
+.shrink-1	assets/css/flexbox-frow.css	/^.shrink-1 {$/;"	c
+.six.columns	assets/css/grid-skeleton.css	/^	.six.columns {$/;"	c
+.six.columns	assets/css/grid.css	/^	.six.columns {$/;"	c
+.sl	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.sl_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.sr	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.sr_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.start_heredoc	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.static	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.string	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.switch	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.ten.columns	assets/css/grid-skeleton.css	/^	.ten.columns {$/;"	c
+.ten.columns	assets/css/grid.css	/^	.ten.columns {$/;"	c
+.text-capitalize	assets/css/flexbox-frow.css	/^.text-capitalize {$/;"	c
+.text-center	assets/css/flexbox-frow.css	/^.text-center {$/;"	c
+.text-ellipsis	assets/css/flexbox-frow.css	/^.text-ellipsis {$/;"	c
+.text-italic	assets/css/flexbox-frow.css	/^.text-italic {$/;"	c
+.text-justify	assets/css/flexbox-frow.css	/^.text-justify {$/;"	c
+.text-left	assets/css/flexbox-frow.css	/^.text-left {$/;"	c
+.text-line-through	assets/css/flexbox-frow.css	/^.text-line-through {$/;"	c
+.text-lowercase	assets/css/flexbox-frow.css	/^.text-lowercase {$/;"	c
+.text-right	assets/css/flexbox-frow.css	/^.text-right {$/;"	c
+.text-underline	assets/css/flexbox-frow.css	/^.text-underline {$/;"	c
+.text-uppercase	assets/css/flexbox-frow.css	/^.text-uppercase {$/;"	c
+.three.columns	assets/css/grid-skeleton.css	/^	.three.columns {$/;"	c
+.three.columns	assets/css/grid.css	/^	.three.columns {$/;"	c
+.throw	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.try	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.twelve.columns	assets/css/grid-skeleton.css	/^	.twelve.columns {$/;"	c
+.twelve.columns	assets/css/grid.css	/^	.twelve.columns {$/;"	c
+.two-thirds.column	assets/css/grid-skeleton.css	/^	.two-thirds.column {$/;"	c
+.two-thirds.column	assets/css/grid.css	/^	.two-thirds.column {$/;"	c
+.two.columns	assets/css/grid-skeleton.css	/^	.two.columns {$/;"	c
+.two.columns	assets/css/grid.css	/^	.two.columns {$/;"	c
+.u-cf	assets/css/clearing.css	/^.u-cf {$/;"	c
+.u-full-width	assets/css/skeleton.css	/^.u-full-width {$/;"	c
+.u-max-full-width	assets/css/skeleton.css	/^.u-max-full-width {$/;"	c
+.u-pull-left	assets/css/skeleton.css	/^.u-pull-left {$/;"	c
+.u-pull-right	assets/css/skeleton.css	/^.u-pull-right {$/;"	c
+.unset	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.use	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.var	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.variable	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.visible-lg	assets/css/flexbox-frow.css	/^  .visible-lg {$/;"	c
+.visible-lg	assets/css/flexbox-frow.css	/^.visible-xs, .visible-sm, .visible-md, .visible-lg {$/;"	c
+.visible-md	assets/css/flexbox-frow.css	/^  .visible-md {$/;"	c
+.visible-md	assets/css/flexbox-frow.css	/^.visible-xs, .visible-sm, .visible-md, .visible-lg {$/;"	c
+.visible-print	assets/css/flexbox-frow.css	/^  .visible-print {$/;"	c
+.visible-print	assets/css/flexbox-frow.css	/^.visible-print,$/;"	c
+.visible-sm	assets/css/flexbox-frow.css	/^  .visible-sm {$/;"	c
+.visible-sm	assets/css/flexbox-frow.css	/^.visible-xs, .visible-sm, .visible-md, .visible-lg {$/;"	c
+.visible-sr	assets/css/flexbox-frow.css	/^.visible-sr,$/;"	c
+.visible-sr-focusable:not(:focus)	assets/css/flexbox-frow.css	/^.visible-sr-focusable:not(:focus) {$/;"	c
+.visible-xs	assets/css/flexbox-frow.css	/^  .visible-xs {$/;"	c
+.visible-xs	assets/css/flexbox-frow.css	/^.visible-xs, .visible-sm, .visible-md, .visible-lg {$/;"	c
+.while	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.width-100	assets/css/flexbox-frow.css	/^.width-100 {$/;"	c
+.width-auto	assets/css/flexbox-frow.css	/^.width-auto {$/;"	c
+.xml_attr	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.xml_data	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.xml_tag	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+.xor_equal	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	c
+0	public/composer.json	/^		"files": ["lib\/base.php"]$/;"	s	array:autoload.files
+0	public/composer.json	/^		{$/;"	o	array:repositories
+:-moz-focusring	assets/css/normalize.css	/^[type="button"]:-moz-focusring,$/;"	s
+:-moz-focusring	assets/css/normalize.css	/^[type="reset"]:-moz-focusring,$/;"	s
+:-moz-focusring	assets/css/normalize.css	/^[type="submit"]:-moz-focusring {$/;"	s
+::-moz-focus-inner	assets/css/normalize.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	assets/css/normalize.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+::-moz-focus-inner	assets/css/normalize.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
+::-webkit-file-upload-button	assets/css/normalize.css	/^::-webkit-file-upload-button {$/;"	s
+::-webkit-inner-spin-button	assets/css/normalize.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+::-webkit-outer-spin-button	assets/css/normalize.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+::-webkit-search-decoration	assets/css/normalize.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+:not([disabled] )	assets/css/flexbox-frow.css	/^.clickable:not([disabled]), [onclick]:not([disabled]) {$/;"	s
+:root	assets/css/palette.css	/^:root {$/;"	s
+A Quick Look at the F3 Template Language	public/readme.md	/^### A Quick Look at the F3 Template Language$/;"	S	section:Views and Templates
+AJAX and Synchronous Requests	public/readme.md	/^### AJAX and Synchronous Requests$/;"	S	section:Routing Engine
+API Documentation	public/readme.md	/^### API Documentation$/;"	S	section:Quick Reference
+About F3 Plug-ins	public/readme.md	/^### About F3 Plug-ins$/;"	S	section:Plug-Ins
+About the F3 Error Handler	public/readme.md	/^### About the F3 Error Handler$/;"	S	section:Framework Variables
+Agent	lib/cli/ws.php	/^class Agent {$/;"	c	namespace:CLI
+All Kinds of Templates	public/readme.md	/^### All Kinds of Templates$/;"	S	section:Views and Templates
+Audit	lib/audit.php	/^class Audit extends Prefab {$/;"	c
+Auth	lib/auth.php	/^class Auth {$/;"	c
+Bandwidth Throttling	public/readme.md	/^### Bandwidth Throttling$/;"	S	section:Optimization
+Base	lib/base.php	/^final class Base extends Prefab implements ArrayAccess {$/;"	c
+Basic Use	public/readme.md	/^### Basic Use$/;"	S	section:Framework Variables
+Basket	lib/basket.php	/^class Basket extends Magic {$/;"	c
+Bcrypt	lib/bcrypt.php	/^class Bcrypt extends Prefab {$/;"	c
+Beyond CRUD	public/readme.md	/^### Beyond CRUD$/;"	S	section:Databases
+Bullet-Proof Code	public/readme.md	/^### Bullet-Proof Code$/;"	S	section:Unit Testing
+CAPTCHA Images	public/readme.md	/^### CAPTCHA Images$/;"	S	section:Plug-Ins
+CC_af	lib/base.php	/^		CC_af='Afghanistan',$/;"	d	class:ISO
+CLI	lib/cli/ws.php	/^namespace CLI;$/;"	n
+COST	lib/bcrypt.php	/^		COST=10;$/;"	d	class:Bcrypt
+CRUD (But With a Lot of Style)	public/readme.md	/^### CRUD (But With a Lot of Style)$/;"	S	section:Databases
+Cache	lib/base.php	/^class Cache extends Prefab {$/;"	c
+Cache Engine	public/readme.md	/^### Cache Engine$/;"	S	section:Optimization
+Caveat for SQL Tables	public/readme.md	/^### Caveat for SQL Tables$/;"	S	section:Databases
+Client-Side Caching	public/readme.md	/^### Client-Side Caching$/;"	S	section:Optimization
+Conditional Segments	public/readme.md	/^### Conditional Segments$/;"	S	section:Views and Templates
+Configuration Files	public/readme.md	/^### Configuration Files$/;"	S	section:Framework Variables
+Connecting to a Database Engine	public/readme.md	/^### Connecting to a Database Engine$/;"	S	section:Databases
+Credits	public/readme.md	/^### Credits$/;"	S	section:Support and Licensing
+Cursor	lib/db/cursor.php	/^abstract class Cursor extends \\Magic implements \\IteratorAggregate {$/;"	c	namespace:DB
+DB	lib/db/cursor.php	/^namespace DB;$/;"	n
+DB	lib/db/jig.php	/^namespace DB;$/;"	n
+DB	lib/db/mongo.php	/^namespace DB;$/;"	n
+DB	lib/db/sql.php	/^namespace DB;$/;"	n
+DB\\Jig	lib/db/jig/mapper.php	/^namespace DB\\Jig;$/;"	n
+DB\\Jig	lib/db/jig/session.php	/^namespace DB\\Jig;$/;"	n
+DB\\Mongo	lib/db/mongo/mapper.php	/^namespace DB\\Mongo;$/;"	n
+DB\\Mongo	lib/db/mongo/session.php	/^namespace DB\\Mongo;$/;"	n
+DB\\SQL	lib/db/sql/mapper.php	/^namespace DB\\SQL;$/;"	n
+DB\\SQL	lib/db/sql/session.php	/^namespace DB\\SQL;$/;"	n
+DEBUG	public/config.ini	/^DEBUG=3$/;"	k	section:globals
+Data Sanitation	public/readme.md	/^### Data Sanitation$/;"	S	section:Views and Templates
+Databases	public/readme.md	/^## Databases$/;"	s
+Do-It-Yourself Directory Structures	public/readme.md	/^### Do-It-Yourself Directory Structures$/;"	S	section:Framework Variables
+Document Encoding	public/readme.md	/^### Document Encoding$/;"	S	section:Views and Templates
+Dynamic Route Handlers	public/readme.md	/^### Dynamic Route Handlers$/;"	S	section:Routing Engine
+Dynamic Web Sites	public/readme.md	/^### Dynamic Web Sites$/;"	S	section:Routing Engine
+E_Color	lib/image.php	/^		E_Color='Invalid color specified: %s',$/;"	d	class:Image
+E_CostArg	lib/bcrypt.php	/^		E_CostArg='Invalid cost parameter',$/;"	d	class:Bcrypt
+E_Field	lib/basket.php	/^		E_Field='Undefined field %s';$/;"	d	class:Basket
+E_Field	lib/db/cursor.php	/^		E_Field='Undefined field %s';$/;"	d	class:DB\\Cursor
+E_Header	lib/smtp.php	/^		E_Header='%s: header is required',$/;"	d	class:SMTP
+E_LDAP	lib/auth.php	/^		E_LDAP='LDAP connection failure',$/;"	d	class:Auth
+E_Method	lib/template.php	/^		E_Method='Call to undefined method %s()';$/;"	d	class:Template
+E_PKey	lib/db/sql.php	/^		E_PKey='Table %s does not have a primary key';$/;"	d	class:DB\\SQL
+E_PKey	lib/db/sql/mapper.php	/^		E_PKey='Table %s does not have a primary key';$/;"	d	class:DB\\SQL\\Mapper
+E_Pattern	lib/base.php	/^		E_Pattern='Invalid routing pattern: %s',$/;"	d	class:Base
+E_Profiler	lib/db/mongo.php	/^		E_Profiler='MongoDB profiler is disabled';$/;"	d	class:DB\\Mongo
+E_Request	lib/web.php	/^		E_Request='No suitable HTTP request engine found';$/;"	d	class:Web
+Embedding Javascript and CSS	public/readme.md	/^### Embedding Javascript and CSS$/;"	S	section:Views and Templates
+Enough Said - See For Yourself	public/readme.md	/^### Enough Said - See For Yourself$/;"	S	section:Getting Started
+Event Handlers	public/readme.md	/^### Event Handlers$/;"	S	section:Routing Engine
+Exclusion of Segments	public/readme.md	/^### Exclusion of Segments$/;"	S	section:Views and Templates
+Expecting the Worst that can Happen	public/readme.md	/^### Expecting the Worst that can Happen$/;"	S	section:Unit Testing
+F3	lib/f3.php	/^class F3 {$/;"	c
+FLAG_False	lib/test.php	/^		FLAG_False=0,$/;"	d	class:Test
+FORMAT_JSON	lib/db/jig.php	/^		FORMAT_JSON=0,$/;"	d	class:DB\\Jig
+Fair Licensing	public/readme.md	/^### Fair Licensing$/;"	S	section:Support and Licensing
+Fair Licensing	ui/welcome.htm	/^	<h2>Fair Licensing<\/h2>$/;"	i
+Framework Variables	public/readme.md	/^## Framework Variables$/;"	s
+GLOBALS	lib/base.php	/^		GLOBALS='GET|POST|COOKIE|REQUEST|SESSION|FILES|SERVER|ENV',$/;"	d	class:Base
+Geo	lib/web/geo.php	/^class Geo extends \\Prefab {$/;"	c	namespace:Web
+Get the latest release!	public/readme.md	/^### Get the latest release!$/;"	S	section:Table of Contents
+Getting Started	public/readme.md	/^## Getting Started$/;"	s
+Globals	public/readme.md	/^### Globals$/;"	S	section:Framework Variables
+Grabbing Data from Another Site	public/readme.md	/^### Grabbing Data from Another Site$/;"	S	section:Plug-Ins
+HTTP_100	lib/base.php	/^		HTTP_100='Continue',$/;"	d	class:Base
+Handling File Downloads	public/readme.md	/^### Handling File Downloads$/;"	S	section:Plug-Ins
+Hello, World: The Less-Than-A-Minute Fat-Free Recipe	public/readme.md	/^### Hello, World: The Less-Than-A-Minute Fat-Free Recipe$/;"	S	section:Getting Started
+ISO	lib/base.php	/^class ISO extends Prefab {$/;"	c
+Image	lib/image.php	/^class Image {$/;"	c
+Jig	lib/db/jig.php	/^class Jig {$/;"	c	namespace:DB
+Keeping Javascript and CSS on a Healthy Diet	public/readme.md	/^### Keeping Javascript and CSS on a Healthy Diet$/;"	S	section:Optimization
+LC_af	lib/base.php	/^		LC_af='Afrikaans',$/;"	d	class:ISO
+Legal notice	public/readme.md	/^### Legal notice$/;"	S	section:Support and Licensing
+Length	lib/cli/ws.php	/^		Length=0x7f;$/;"	d	class:CLI\\WS
+Log	lib/log.php	/^class Log {$/;"	c
+Magic	lib/cli/ws.php	/^		Magic='258EAFA5-E914-47DA-95CA-C5AB0DC85B11',$/;"	d	class:CLI\\WS
+Magic	lib/magic.php	/^abstract class Magic implements ArrayAccess {$/;"	c
+Mapper	lib/db/jig/mapper.php	/^class Mapper extends \\DB\\Cursor {$/;"	c	namespace:DB\\Jig
+Mapper	lib/db/mongo/mapper.php	/^class Mapper extends \\DB\\Cursor {$/;"	c	namespace:DB\\Mongo
+Mapper	lib/db/sql/mapper.php	/^class Mapper extends \\DB\\Cursor {$/;"	c	namespace:DB\\SQL
+Markdown	lib/markdown.php	/^class Markdown extends Prefab {$/;"	c
+Matrix	lib/matrix.php	/^class Matrix extends Prefab {$/;"	c
+Mocking HTTP Requests	public/readme.md	/^### Mocking HTTP Requests$/;"	S	section:Unit Testing
+Mongo	lib/db/mongo.php	/^class Mongo {$/;"	c	namespace:DB
+Multilingual Support	public/readme.md	/^### Multilingual Support$/;"	S	section:Views and Templates
+Named Routes	public/readme.md	/^### Named Routes$/;"	S	section:Routing Engine
+Naming Rules	public/readme.md	/^### Naming Rules$/;"	S	section:Framework Variables
+Navigation and Pagination	public/readme.md	/^### Navigation and Pagination$/;"	S	section:Databases
+Need Help?	ui/welcome.htm	/^	<h2>Need Help?<\/h2>$/;"	i
+Nightly Builds	public/readme.md	/^### Nightly Builds$/;"	S	section:Support and Licensing
+OAuth2	lib/web/oauth2.php	/^class OAuth2 extends \\Magic {$/;"	c	namespace:Web
+OpenID	lib/web/openid.php	/^class OpenID extends \\Magic {$/;"	c	namespace:Web
+Optimization	public/readme.md	/^## Optimization$/;"	s
+Overview	public/readme.md	/^### Overview$/;"	S	section:Routing Engine
+PACKAGE	lib/base.php	/^		PACKAGE='Fat-Free Framework',$/;"	d	class:Base
+PARAM_FLOAT	lib/db/sql.php	/^		PARAM_FLOAT='float';$/;"	d	class:DB\\SQL
+PHP 5.4's Built-In Web Server	public/readme.md	/^### PHP 5.4's Built-In Web Server$/;"	S	section:Routing Engine
+PHP Code Acceleration	public/readme.md	/^### PHP Code Acceleration$/;"	S	section:Optimization
+PHP Dependencies	ui/welcome.htm	/^	<h2>PHP Dependencies<\/h2>$/;"	i
+PHP as a Template Engine	public/readme.md	/^### PHP as a Template Engine$/;"	S	section:Views and Templates
+POS_Left	lib/image.php	/^		POS_Left=1,$/;"	d	class:Image
+Parameterized Queries	public/readme.md	/^### Parameterized Queries$/;"	S	section:Databases
+Pingback	lib/web/pingback.php	/^class Pingback extends \\Prefab {$/;"	c	namespace:Web
+Please visit FatFreeFramework.com	public/readme.md	/^## Please visit FatFreeFramework.com$/;"	s
+Plug-Ins	public/readme.md	/^## Plug-Ins$/;"	s
+Prefab	lib/base.php	/^abstract class Prefab {$/;"	c
+Preview	lib/base.php	/^class Preview extends View {$/;"	c
+Profiling	public/readme.md	/^### Profiling$/;"	S	section:Databases
+Pros and Cons	public/readme.md	/^### Pros and Cons$/;"	S	section:Databases
+Querying the Database	public/readme.md	/^### Querying the Database$/;"	S	section:Databases
+Quick Reference	public/readme.md	/^## Quick Reference$/;"	s
+REQ_SYNC	lib/base.php	/^		REQ_SYNC=1,$/;"	d	class:Base
+Recaptcha	lib/web/google/recaptcha.php	/^class Recaptcha {$/;"	c	namespace:Web\\Google
+Registry	lib/base.php	/^final class Registry {$/;"	c
+Remoting and Distributed Applications	public/readme.md	/^### Remoting and Distributed Applications$/;"	S	section:Plug-Ins
+Repeating Segments	public/readme.md	/^### Repeating Segments$/;"	S	section:Views and Templates
+Representational State Transfer (ReST)	public/readme.md	/^### Representational State Transfer (ReST)$/;"	S	section:Routing Engine
+Rerouting	public/readme.md	/^### Rerouting$/;"	S	section:Routing Engine
+Routes and Tokens	public/readme.md	/^### Routes and Tokens$/;"	S	section:Routing Engine
+Routing Engine	public/readme.md	/^## Routing Engine$/;"	s
+Routing to a Namespaced Class	public/readme.md	/^### Routing to a Namespaced Class$/;"	S	section:Routing Engine
+SMTP	lib/smtp.php	/^class SMTP extends Magic {$/;"	c
+SQL	lib/db/sql.php	/^class SQL {$/;"	c	namespace:DB
+Sample Apache Configuration	public/readme.md	/^### Sample Apache Configuration$/;"	S	section:Routing Engine
+Sample IIS Configuration	public/readme.md	/^### Sample IIS Configuration$/;"	S	section:Routing Engine
+Sample Lighttpd Configuration	public/readme.md	/^### Sample Lighttpd Configuration$/;"	S	section:Routing Engine
+Sample Nginx Configuration	public/readme.md	/^### Sample Nginx Configuration$/;"	S	section:Routing Engine
+Seek and You Shall Find	public/readme.md	/^### Seek and You Shall Find$/;"	S	section:Databases
+Separation of Concerns	public/readme.md	/^### Separation of Concerns$/;"	S	section:Views and Templates
+Session	lib/db/jig/session.php	/^class Session extends Mapper {$/;"	c	namespace:DB\\Jig
+Session	lib/db/mongo/session.php	/^class Session extends Mapper {$/;"	c	namespace:DB\\Mongo
+Session	lib/db/sql/session.php	/^class Session extends Mapper {$/;"	c	namespace:DB\\SQL
+Session	lib/session.php	/^class Session {$/;"	c
+Sometimes It Just Ain't Enough	public/readme.md	/^### Sometimes It Just Ain't Enough$/;"	S	section:Databases
+StaticMap	lib/web/google/staticmap.php	/^class StaticMap {$/;"	c	namespace:Web\\Google
+Support F3	ui/welcome.htm	/^	<h2>Support F3<\/h2>$/;"	i
+Support and Licensing	public/readme.md	/^## Support and Licensing$/;"	s
+Support on Beerpay	public/readme.md	/^## Support on Beerpay$/;"	s
+System Variables	public/readme.md	/^### System Variables$/;"	S	section:Quick Reference
+Table of Contents	public/readme.md	/^## Table of Contents$/;"	s
+Template	lib/template.php	/^class Template extends Preview {$/;"	c
+Template Directives	public/readme.md	/^### Template Directives$/;"	S	section:Quick Reference
+Templates Within Templates	public/readme.md	/^### Templates Within Templates$/;"	S	section:Views and Templates
+Test	lib/test.php	/^class Test {$/;"	c
+Text	lib/cli/ws.php	/^		Text=0x01,$/;"	d	class:CLI\\WS
+The F3 Autoloader	public/readme.md	/^### The F3 Autoloader$/;"	S	section:Routing Engine
+The Smart SQL ORM	public/readme.md	/^### The Smart SQL ORM$/;"	S	section:Databases
+The Weather Report	public/readme.md	/^### The Weather Report$/;"	S	section:Databases
+Transactions	public/readme.md	/^### Transactions$/;"	S	section:Databases
+Triggering a 404	public/readme.md	/^### Triggering a 404$/;"	S	section:Routing Engine
+UA_Mobile	lib/audit.php	/^		UA_Mobile='android|blackberry|phone|ipod|palm|windows\\s+ce',$/;"	d	class:Audit
+UI	public/config.ini	/^UI=ui\/$/;"	k	section:globals
+URL_Recaptcha	lib/web/google/recaptcha.php	/^		URL_Recaptcha='https:\/\/www.google.com\/recaptcha\/api\/siteverify';$/;"	d	class:Web\\Google\\Recaptcha
+URL_Static	lib/web/google/staticmap.php	/^		URL_Static='http:\/\/maps.googleapis.com\/maps\/api\/staticmap';$/;"	d	class:Web\\Google\\StaticMap
+UTF	lib/utf.php	/^class UTF extends Prefab {$/;"	c
+Unit Testing	public/readme.md	/^## Unit Testing$/;"	s
+View	lib/base.php	/^class View extends Prefab {$/;"	c
+Views and Templates	public/readme.md	/^## Views and Templates$/;"	s
+Virtual Fields	public/readme.md	/^### Virtual Fields$/;"	S	section:Databases
+WS	lib/cli/ws.php	/^class WS {$/;"	c	namespace:CLI
+Web	lib/web.php	/^class Web extends Prefab {$/;"	c
+Web	lib/web/geo.php	/^namespace Web;$/;"	n
+Web	lib/web/oauth2.php	/^namespace Web;$/;"	n
+Web	lib/web/openid.php	/^namespace Web;$/;"	n
+Web	lib/web/pingback.php	/^namespace Web;$/;"	n
+WebPage	classes/Coffee/CoffeeRoutes.php	/^class WebPage {$/;"	c
+Web\\Google	lib/web/google/recaptcha.php	/^namespace Web\\Google;$/;"	n
+Web\\Google	lib/web/google/staticmap.php	/^namespace Web\\Google;$/;"	n
+Working with Namespaces	public/readme.md	/^### Working with Namespaces$/;"	S	section:Routing Engine
+Working with String and Array Variables	public/readme.md	/^### Working with String and Array Variables$/;"	S	section:Framework Variables
+__call	lib/base.php	/^	function __call($key,array $args) {$/;"	f	class:Base
+__call	lib/db/mongo.php	/^	function __call($func,array $args) {$/;"	f	class:DB\\Mongo
+__call	lib/db/sql.php	/^	function __call($func,array $args) {$/;"	f	class:DB\\SQL
+__call	lib/db/sql/mapper.php	/^	function __call($func,$args) {$/;"	f	class:DB\\SQL\\Mapper
+__call	lib/template.php	/^	function __call($func,array $args) {$/;"	f	class:Template
+__call	lib/web/google/staticmap.php	/^	function __call($func,array $args) {$/;"	f	class:Web\\Google\\StaticMap
+__callstatic	lib/f3.php	/^	static function __callstatic($func,array $args) {$/;"	f	class:F3
+__clone	lib/base.php	/^	private function __clone() {$/;"	f	class:Base
+__clone	lib/base.php	/^	private function __clone() {$/;"	f	class:Registry
+__clone	lib/db/jig.php	/^	private function __clone() {$/;"	f	class:DB\\Jig
+__clone	lib/db/mongo.php	/^	private function __clone() {$/;"	f	class:DB\\Mongo
+__clone	lib/db/sql.php	/^	private function __clone() {$/;"	f	class:DB\\SQL
+__construct	lib/auth.php	/^	function __construct($storage,array $args=NULL,$func=NULL) {$/;"	f	class:Auth
+__construct	lib/base.php	/^	function __construct($dsn=FALSE) {$/;"	f	class:Cache
+__construct	lib/base.php	/^	function __construct() {$/;"	f	class:Base
+__construct	lib/base.php	/^	function __construct() {$/;"	f	class:View
+__construct	lib/base.php	/^	private function __construct() {$/;"	f	class:Registry
+__construct	lib/basket.php	/^	function __construct($key='basket') {$/;"	f	class:Basket
+__construct	lib/cli/ws.php	/^	function __construct($addr,$ctx=NULL,$wait=60) {$/;"	f	class:CLI\\WS
+__construct	lib/cli/ws.php	/^	function __construct($server,$socket,$verb,$uri,array $hdrs) {$/;"	f	class:CLI\\Agent
+__construct	lib/db/jig.php	/^	function __construct($dir=NULL,$format=self::FORMAT_JSON,$lazy=FALSE) {$/;"	f	class:DB\\Jig
+__construct	lib/db/jig/mapper.php	/^	function __construct(\\DB\\Jig $db,$file) {$/;"	f	class:DB\\Jig\\Mapper
+__construct	lib/db/jig/session.php	/^	function __construct(\\DB\\Jig $db,$file='sessions',$onsuspect=NULL,$key=NULL) {$/;"	f	class:DB\\Jig\\Session
+__construct	lib/db/mongo.php	/^	function __construct($dsn,$dbname,array $options=NULL) {$/;"	f	class:DB\\Mongo
+__construct	lib/db/mongo/mapper.php	/^	function __construct(\\DB\\Mongo $db,$collection,$fields=NULL) {$/;"	f	class:DB\\Mongo\\Mapper
+__construct	lib/db/mongo/session.php	/^	function __construct(\\DB\\Mongo $db,$table='sessions',$onsuspect=NULL,$key=NULL) {$/;"	f	class:DB\\Mongo\\Session
+__construct	lib/db/sql.php	/^	function __construct($dsn,$user=NULL,$pw=NULL,array $options=NULL) {$/;"	f	class:DB\\SQL
+__construct	lib/db/sql/mapper.php	/^	function __construct(\\DB\\SQL $db,$table,$fields=NULL,$ttl=60) {$/;"	f	class:DB\\SQL\\Mapper
+__construct	lib/db/sql/session.php	/^	function __construct(\\DB\\SQL $db,$table='sessions',$force=TRUE,$onsuspect=NULL,$key=NULL,$typ/;"	f	class:DB\\SQL\\Session
+__construct	lib/image.php	/^	function __construct($file=NULL,$flag=FALSE,$path=NULL) {$/;"	f	class:Image
+__construct	lib/log.php	/^	function __construct($file) {$/;"	f	class:Log
+__construct	lib/session.php	/^	function __construct($onsuspect=NULL,$key=NULL,$cache=null) {$/;"	f	class:Session
+__construct	lib/smtp.php	/^	function __construct($/;"	f	class:SMTP
+__construct	lib/template.php	/^	function __construct() {$/;"	f	class:Template
+__construct	lib/test.php	/^	function __construct($level=self::FLAG_Both) {$/;"	f	class:Test
+__construct	lib/web/pingback.php	/^	function __construct() {$/;"	f	class:Web\\Pingback
+__destruct	lib/cli/ws.php	/^	function __destruct() {$/;"	f	class:CLI\\Agent
+__destruct	lib/db/jig.php	/^	function __destruct() {$/;"	f	class:DB\\Jig
+__destruct	lib/image.php	/^	function __destruct() {$/;"	f	class:Image
+__get	lib/base.php	/^	function &__get($key) {$/;"	f	class:Base
+__get	lib/magic.php	/^	function &__get($key) {$/;"	f	class:Magic
+__isset	lib/base.php	/^	function __isset($key) {$/;"	f	class:Base
+__isset	lib/magic.php	/^	function __isset($key) {$/;"	f	class:Magic
+__set	lib/base.php	/^	function __set($key,$val) {$/;"	f	class:Base
+__set	lib/magic.php	/^	function __set($key,$val) {$/;"	f	class:Magic
+__unset	lib/base.php	/^	function __unset($key) {$/;"	f	class:Base
+__unset	lib/magic.php	/^	function __unset($key) {$/;"	f	class:Magic
+_a	lib/markdown.php	/^	protected function _a($str) {$/;"	f	class:Markdown
+_atx	lib/markdown.php	/^	protected function _atx($type,$str) {$/;"	f	class:Markdown
+_auto	lib/markdown.php	/^	protected function _auto($str) {$/;"	f	class:Markdown
+_blockquote	lib/markdown.php	/^	protected function _blockquote($str) {$/;"	f	class:Markdown
+_cache	lib/session.php	/^		$_cache;$/;"	v	class:Session
+_case	lib/template.php	/^	protected function _case(array $node) {$/;"	f	class:Template
+_check	lib/template.php	/^	protected function _check(array $node) {$/;"	f	class:Template
+_code	lib/markdown.php	/^	protected function _code($str) {$/;"	f	class:Markdown
+_curl	lib/web.php	/^	protected function _curl($url,$options) {$/;"	f	class:Web
+_default	lib/template.php	/^	protected function _default(array $node) {$/;"	f	class:Template
+_exclude	lib/template.php	/^	protected function _exclude() {$/;"	f	class:Template
+_false	lib/template.php	/^	protected function _false(array $node) {$/;"	f	class:Template
+_fence	lib/markdown.php	/^	protected function _fence($hint,$str) {$/;"	f	class:Markdown
+_hr	lib/markdown.php	/^	protected function _hr() {$/;"	f	class:Markdown
+_ignore	lib/template.php	/^	protected function _ignore(array $node) {$/;"	f	class:Template
+_img	lib/markdown.php	/^	protected function _img($str) {$/;"	f	class:Markdown
+_include	lib/template.php	/^	protected function _include(array $node) {$/;"	f	class:Template
+_jig	lib/auth.php	/^	protected function _jig($id,$pw,$realm) {$/;"	f	class:Auth
+_ldap	lib/auth.php	/^	protected function _ldap($id,$pw) {$/;"	f	class:Auth
+_li	lib/markdown.php	/^	protected function _li($str) {$/;"	f	class:Markdown
+_loop	lib/template.php	/^	protected function _loop(array $node) {$/;"	f	class:Template
+_mongo	lib/auth.php	/^	protected function _mongo($id,$pw,$realm) {$/;"	f	class:Auth
+_p	lib/markdown.php	/^	protected function _p($str) {$/;"	f	class:Markdown
+_pre	lib/markdown.php	/^	protected function _pre($str) {$/;"	f	class:Markdown
+_raw	lib/markdown.php	/^	protected function _raw($str) {$/;"	f	class:Markdown
+_reduce	lib/db/jig/mapper.php	/^		$_reduce;$/;"	v	class:DB\\Jig\\Mapper
+_repeat	lib/template.php	/^	protected function _repeat(array $node) {$/;"	f	class:Template
+_set	lib/template.php	/^	protected function _set(array $node) {$/;"	f	class:Template
+_setext	lib/markdown.php	/^	protected function _setext($str,$type) {$/;"	f	class:Markdown
+_smtp	lib/auth.php	/^	protected function _smtp($id,$pw) {$/;"	f	class:Auth
+_socket	lib/web.php	/^	protected function _socket($url,$options) {$/;"	f	class:Web
+_sql	lib/auth.php	/^	protected function _sql($id,$pw,$realm) {$/;"	f	class:Auth
+_stream	lib/web.php	/^	protected function _stream($url,$options) {$/;"	f	class:Web
+_switch	lib/template.php	/^	protected function _switch(array $node) {$/;"	f	class:Template
+_text	lib/markdown.php	/^	protected function _text($str) {$/;"	f	class:Markdown
+_true	lib/template.php	/^	protected function _true(array $node) {$/;"	f	class:Template
+a	assets/css/base.css	/^a {$/;"	s
+a	assets/css/normalize.css	/^a {$/;"	s
+a	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+a	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+a	ui/css/theme.css	/^a {$/;"	s
+a img	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+a:hover	assets/css/base.css	/^a:hover {$/;"	s
+a:hover	ui/css/theme.css	/^a:hover {$/;"	s
+abbr	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+abbr[title]	assets/css/normalize.css	/^abbr[title] {$/;"	s
+abbr[title]	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+abort	lib/base.php	/^	function abort() {$/;"	f	class:Base
+acceptable	lib/web.php	/^	function acceptable($list=NULL) {$/;"	f	class:Web
+address	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+adhoc	lib/db/sql/mapper.php	/^		$adhoc=[],$/;"	v	class:DB\\SQL\\Mapper
+aftererase	lib/db/cursor.php	/^	function aftererase($func) {$/;"	f	class:DB\\Cursor
+afterinsert	lib/db/cursor.php	/^	function afterinsert($func) {$/;"	f	class:DB\\Cursor
+afterrender	lib/base.php	/^	function afterrender($func) {$/;"	f	class:View
+aftersave	lib/db/cursor.php	/^	function aftersave($func) {$/;"	f	class:DB\\Cursor
+afterupdate	lib/db/cursor.php	/^	function afterupdate($func) {$/;"	f	class:DB\\Cursor
+agent	lib/base.php	/^	function agent() {$/;"	f	class:Base
+agent	lib/db/jig/session.php	/^	function agent() {$/;"	f	class:DB\\Jig\\Session
+agent	lib/db/mongo/session.php	/^	function agent() {$/;"	f	class:DB\\Mongo\\Session
+agent	lib/db/sql/session.php	/^	function agent() {$/;"	f	class:DB\\SQL\\Session
+agent	lib/session.php	/^	function agent() {$/;"	f	class:Session
+agents	lib/cli/ws.php	/^		$agents=[],$/;"	v	class:CLI\\WS
+agents	lib/cli/ws.php	/^	function agents($uri=NULL) {$/;"	f	class:CLI\\WS
+ajax	lib/base.php	/^	function ajax() {$/;"	f	class:Base
+alias	lib/base.php	/^	function alias($name,$params=[],$query=NULL,$fragment=NULL) {$/;"	f	class:Base
+alias	lib/db/sql/mapper.php	/^	function alias($alias) {$/;"	f	class:DB\\SQL\\Mapper
+alloc	lib/cli/ws.php	/^	function alloc($socket) {$/;"	f	class:CLI\\WS
+args	lib/web/oauth2.php	/^		$args=[],$/;"	v	class:Web\\OAuth2
+args	lib/web/openid.php	/^		$args=[];$/;"	v	class:Web\\OpenID
+article	assets/css/base.css	/^article {$/;"	s
+article	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+article p	assets/css/base.css	/^article p{$/;"	s
+aside	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+attach	lib/smtp.php	/^	function attach($file,$alias=NULL,$cid=NULL) {$/;"	f	class:SMTP
+audio	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+auth	lib/web/openid.php	/^	function auth($proxy=NULL,$attr=[],array $reqd=NULL) {$/;"	f	class:Web\\OpenID
+autoload	lib/base.php	/^	protected function autoload($class) {$/;"	f	class:Base
+autoload	public/composer.json	/^	"autoload": {$/;"	o
+b	assets/css/normalize.css	/^b,$/;"	s
+b	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+b64url	lib/web/oauth2.php	/^	function b64url($data) {$/;"	f	class:Web\\OAuth2
+banner	assets/css/images.css	/^banner {$/;"	s
+base64	lib/base.php	/^	function base64($data,$mime) {$/;"	f	class:Base
+basic	lib/auth.php	/^	function basic($func=NULL) {$/;"	f	class:Auth
+beforeerase	lib/db/cursor.php	/^	function beforeerase($func) {$/;"	f	class:DB\\Cursor
+beforeinsert	lib/db/cursor.php	/^	function beforeinsert($func) {$/;"	f	class:DB\\Cursor
+beforerender	lib/base.php	/^	function beforerender($func) {$/;"	f	class:Preview
+beforesave	lib/db/cursor.php	/^	function beforesave($func) {$/;"	f	class:DB\\Cursor
+beforeupdate	lib/db/cursor.php	/^	function beforeupdate($func) {$/;"	f	class:DB\\Cursor
+begin	lib/db/sql.php	/^	function begin() {$/;"	f	class:DB\\SQL
+blacklisted	lib/base.php	/^	function blacklisted($ip) {$/;"	f	class:Base
+blockquote	assets/css/skeleton.css	/^blockquote,$/;"	s
+blockquote	assets/css/spacing.css	/^blockquote,$/;"	s
+blockquote	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+blockquote	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+blockquote code	ui/css/theme.css	/^blockquote pre,blockquote code {$/;"	s
+blockquote pre	ui/css/theme.css	/^blockquote pre,blockquote code {$/;"	s
+blockquote:after	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+blockquote:before	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+blur	lib/image.php	/^	function blur($selective=FALSE) {$/;"	f	class:Image
+body	assets/css/base.css	/^body {$/;"	s
+body	assets/css/base.css	/^html,body {$/;"	s
+body	assets/css/flexbox-minimal-original.css	/^body {$/;"	s
+body	assets/css/flexbox-minimal.css	/^body {$/;"	s
+body	assets/css/normalize.css	/^body {$/;"	s
+body	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+body	ui/css/base.css	/^@media screen and (max-width:960px){body{font-size:0.81255em}}/;"	s
+body	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+body	ui/css/theme.css	/^	body {$/;"	s
+body	ui/css/theme.css	/^body {$/;"	s
+bom	lib/utf.php	/^	function bom() {$/;"	f	class:UTF
+brightness	lib/image.php	/^	function brightness($level) {$/;"	f	class:Image
+build	lib/base.php	/^	function build($url,$args=[]) {$/;"	f	class:Base
+build	lib/base.php	/^	protected function build($node) {$/;"	f	class:Preview
+build	lib/markdown.php	/^	protected function build($str) {$/;"	f	class:Markdown
+build	lib/template.php	/^	function build($node) {$/;"	f	class:Template
+button	assets/css/buttons-skeleton.css	/^button,$/;"	s
+button	assets/css/normalize.css	/^button,$/;"	s
+button	assets/css/skeleton.css	/^button,$/;"	s
+button	assets/css/spacing.css	/^button,$/;"	s
+button	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+button.button-primary	assets/css/buttons-skeleton.css	/^button.button-primary,$/;"	c
+button.button-primary:focus	assets/css/buttons-skeleton.css	/^button.button-primary:focus,$/;"	c
+button.button-primary:hover	assets/css/buttons-skeleton.css	/^button.button-primary:hover,$/;"	c
+button:-moz-focusring	assets/css/normalize.css	/^button:-moz-focusring,$/;"	s
+button::-moz-focus-inner	assets/css/normalize.css	/^button::-moz-focus-inner,$/;"	s
+button:focus	assets/css/buttons-skeleton.css	/^button:focus,$/;"	s
+button:hover	assets/css/buttons-skeleton.css	/^button:hover,$/;"	s
+c	lib/base.php	/^	function c($val) {$/;"	f	class:Preview
+calendar	lib/matrix.php	/^	function calendar($date='now',$first=0) {$/;"	f	class:Matrix
+call	lib/base.php	/^	function call($func,$args=NULL,$hooks='') {$/;"	f	class:Base
+camelcase	lib/base.php	/^	function camelcase($str) {$/;"	f	class:Base
+canvas	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+captcha	lib/image.php	/^	function captcha($font,$size=24,$len=5,$/;"	f	class:Image
+caption	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+caption	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+card	assets/css/cards.css	/^card {$/;"	s
+card	lib/audit.php	/^	function card($id) {$/;"	f	class:Audit
+card p	assets/css/cards.css	/^card p{$/;"	s
+card.item	assets/css/cards.css	/^card.item {$/;"	c
+card.main	assets/css/cards.css	/^card.main {$/;"	c
+cast	lib/base.php	/^	function cast($val) {$/;"	f	class:Base
+cast	lib/db/cursor.php	/^	abstract function cast($obj=NULL);$/;"	f	class:DB\\Cursor
+cast	lib/db/jig/mapper.php	/^	function cast($obj=NULL) {$/;"	f	class:DB\\Jig\\Mapper
+cast	lib/db/mongo/mapper.php	/^	function cast($obj=NULL) {$/;"	f	class:DB\\Mongo\\Mapper
+cast	lib/db/sql/mapper.php	/^	function cast($obj=NULL) {$/;"	f	class:DB\\SQL\\Mapper
+chain	lib/base.php	/^	function chain($funcs,$args=NULL) {$/;"	f	class:Base
+changed	lib/db/sql/mapper.php	/^	function changed($key=NULL) {$/;"	f	class:DB\\SQL\\Mapper
+changekey	lib/matrix.php	/^	function changekey(array &$var,$old,$new) {$/;"	f	class:Matrix
+checked	lib/base.php	/^	function checked($key) {$/;"	f	class:Base
+checkout	lib/basket.php	/^	function checkout() {$/;"	f	class:Basket
+cite	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+clean	lib/base.php	/^	function clean($arg,$tags=NULL) {$/;"	f	class:Base
+cleanup	lib/db/jig/session.php	/^	function cleanup($max) {$/;"	f	class:DB\\Jig\\Session
+cleanup	lib/db/mongo/session.php	/^	function cleanup($max) {$/;"	f	class:DB\\Mongo\\Session
+cleanup	lib/db/sql/session.php	/^	function cleanup($max) {$/;"	f	class:DB\\SQL\\Session
+cleanup	lib/session.php	/^	function cleanup($max) {$/;"	f	class:Session
+clear	lib/base.php	/^	function clear($key) {$/;"	f	class:Base
+clear	lib/base.php	/^	function clear($key) {$/;"	f	class:Cache
+clear	lib/base.php	/^	static function clear($key) {$/;"	f	class:Registry
+clear	lib/basket.php	/^	function clear($key) {$/;"	f	class:Basket
+clear	lib/db/jig/mapper.php	/^	function clear($key) {$/;"	f	class:DB\\Jig\\Mapper
+clear	lib/db/mongo/mapper.php	/^	function clear($key) {$/;"	f	class:DB\\Mongo\\Mapper
+clear	lib/db/sql/mapper.php	/^	function clear($key) {$/;"	f	class:DB\\SQL\\Mapper
+clear	lib/magic.php	/^	abstract function clear($key);$/;"	f	class:Magic
+clear	lib/smtp.php	/^	function clear($key) {$/;"	f	class:SMTP
+clear	lib/web/oauth2.php	/^	function clear($key=NULL) {$/;"	f	class:Web\\OAuth2
+clear	lib/web/openid.php	/^	function clear($key) {$/;"	f	class:Web\\OpenID
+close	lib/cli/ws.php	/^	function close($socket) {$/;"	f	class:CLI\\WS
+close	lib/db/jig/session.php	/^	function close() {$/;"	f	class:DB\\Jig\\Session
+close	lib/db/mongo/session.php	/^	function close() {$/;"	f	class:DB\\Mongo\\Session
+close	lib/db/sql/session.php	/^	function close() {$/;"	f	class:DB\\SQL\\Session
+close	lib/session.php	/^	function close() {$/;"	f	class:Session
+code	assets/css/codeblock.css	/^code {$/;"	s
+code	assets/css/normalize.css	/^code,$/;"	s
+code	lib/code.css	/^code{word-wrap:break-word;color:black}.comment,.doc_comment,.ml_comment{color:dimgray;font-style/;"	s
+code	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+code	ui/css/theme.css	/^code {$/;"	s
+commit	lib/db/sql.php	/^	function commit() {$/;"	f	class:DB\\SQL
+compile	lib/base.php	/^	function compile($str) {$/;"	f	class:Base
+concat	lib/base.php	/^	function concat($key,$val) {$/;"	f	class:Base
+config	lib/base.php	/^	function config($source,$allow=FALSE) {$/;"	f	class:Base
+constants	lib/base.php	/^	function constants($class,$prefix='') {$/;"	f	class:Base
+container	assets/css/grid.css	/^	container {$/;"	s
+container	assets/css/grid.css	/^container {$/;"	s
+contrast	lib/image.php	/^	function contrast($level) {$/;"	f	class:Image
+convert	lib/markdown.php	/^	function convert($txt) {$/;"	f	class:Markdown
+copy	lib/base.php	/^	function copy($src,$dst) {$/;"	f	class:Base
+copyfrom	lib/basket.php	/^	function copyfrom($var) {$/;"	f	class:Basket
+copyfrom	lib/db/cursor.php	/^	abstract function copyfrom($var,$func=NULL);$/;"	f	class:DB\\Cursor
+copyfrom	lib/db/jig/mapper.php	/^	function copyfrom($var,$func=NULL) {$/;"	f	class:DB\\Jig\\Mapper
+copyfrom	lib/db/mongo/mapper.php	/^	function copyfrom($var,$func=NULL) {$/;"	f	class:DB\\Mongo\\Mapper
+copyfrom	lib/db/sql/mapper.php	/^	function copyfrom($var,$func=NULL) {$/;"	f	class:DB\\SQL\\Mapper
+copyto	lib/basket.php	/^	function copyto($key) {$/;"	f	class:Basket
+copyto	lib/db/cursor.php	/^	abstract function copyto($key);$/;"	f	class:DB\\Cursor
+copyto	lib/db/jig/mapper.php	/^	function copyto($key) {$/;"	f	class:DB\\Jig\\Mapper
+copyto	lib/db/mongo/mapper.php	/^	function copyto($key) {$/;"	f	class:DB\\Mongo\\Mapper
+copyto	lib/db/sql/mapper.php	/^	function copyto($key) {$/;"	f	class:DB\\SQL\\Mapper
+count	lib/basket.php	/^	function count() {$/;"	f	class:Basket
+count	lib/db/cursor.php	/^	abstract function count($filter=NULL,array $options=NULL,$ttl=0);$/;"	f	class:DB\\Cursor
+count	lib/db/jig/mapper.php	/^	function count($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Jig\\Mapper
+count	lib/db/mongo/mapper.php	/^	function count($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Mongo\\Mapper
+count	lib/db/sql.php	/^	function count() {$/;"	f	class:DB\\SQL
+count	lib/db/sql/mapper.php	/^	function count($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\SQL\\Mapper
+count	lib/image.php	/^		$count=0;$/;"	v	class:Image
+countries	lib/base.php	/^	function countries() {$/;"	f	class:ISO
+crop	lib/image.php	/^	function crop($x1,$y1,$x2,$y2) {$/;"	f	class:Image
+csrf	lib/db/jig/session.php	/^	function csrf() {$/;"	f	class:DB\\Jig\\Session
+csrf	lib/db/mongo/session.php	/^	function csrf() {$/;"	f	class:DB\\Mongo\\Session
+csrf	lib/db/sql/session.php	/^	function csrf() {$/;"	f	class:DB\\SQL\\Session
+csrf	lib/session.php	/^	function csrf() {$/;"	f	class:Session
+csv	lib/base.php	/^	function csv(array $args) {$/;"	f	class:Base
+cursor	lib/db/mongo/mapper.php	/^	function cursor() {$/;"	f	class:DB\\Mongo\\Mapper
+custom	lib/template.php	/^		$custom=[];$/;"	v	class:Template
+cut	lib/base.php	/^	private function cut($key) {$/;"	f	class:Base
+data	lib/image.php	/^	function data() {$/;"	f	class:Image
+data	lib/test.php	/^		$data=[],$/;"	v	class:Test
+dbtype	lib/db/cursor.php	/^	abstract function dbtype();$/;"	f	class:DB\\Cursor
+dbtype	lib/db/jig/mapper.php	/^	function dbtype() {$/;"	f	class:DB\\Jig\\Mapper
+dbtype	lib/db/mongo/mapper.php	/^	function dbtype() {$/;"	f	class:DB\\Mongo\\Mapper
+dbtype	lib/db/sql/mapper.php	/^	function dbtype() {$/;"	f	class:DB\\SQL\\Mapper
+dd	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+dd	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+decode	lib/base.php	/^	function decode($str) {$/;"	f	class:Base
+del	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+description	public/composer.json	/^	"description": "A powerful yet easy-to-use PHP micro-framework designed to help you build dynam/;"	s
+destroy	lib/db/jig/session.php	/^	function destroy($id) {$/;"	f	class:DB\\Jig\\Session
+destroy	lib/db/mongo/session.php	/^	function destroy($id) {$/;"	f	class:DB\\Mongo\\Session
+destroy	lib/db/sql/session.php	/^	function destroy($id) {$/;"	f	class:DB\\SQL\\Session
+destroy	lib/session.php	/^	function destroy($id) {$/;"	f	class:Session
+details	assets/css/normalize.css	/^details {$/;"	s
+details	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+devoid	lib/base.php	/^	function devoid($key,&$val=NULL) {$/;"	f	class:Base
+dfn	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+dfn[title]	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+diacritics	lib/web.php	/^	function diacritics() {$/;"	f	class:Web
+dialog	lib/smtp.php	/^	protected function dialog($cmd=NULL,$log=TRUE,$mock=FALSE) {$/;"	f	class:SMTP
+dir	lib/db/jig.php	/^	function dir() {$/;"	f	class:DB\\Jig
+dir	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+dir	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+discover	lib/web/openid.php	/^	protected function discover($proxy) {$/;"	f	class:Web\\OpenID
+display	classes/Coffee/CoffeeRoutes.php	/^  function  display() {$/;"	f	class:WebPage
+div	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+div	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+dl	assets/css/skeleton.css	/^dl,$/;"	s
+dl	assets/css/spacing.css	/^dl,$/;"	s
+dl	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+document	lib/db/jig/mapper.php	/^		$document=[],$/;"	v	class:DB\\Jig\\Mapper
+document	lib/db/mongo/mapper.php	/^		$document=[],$/;"	v	class:DB\\Mongo\\Mapper
+driver	lib/db/sql.php	/^	function driver() {$/;"	f	class:DB\\SQL
+drop	lib/basket.php	/^	function drop() {$/;"	f	class:Basket
+drop	lib/db/jig.php	/^	function drop() {$/;"	f	class:DB\\Jig
+drop	lib/db/mongo.php	/^	function drop() {$/;"	f	class:DB\\Mongo
+dry	lib/basket.php	/^	function dry() {$/;"	f	class:Basket
+dry	lib/db/cursor.php	/^	function dry() {$/;"	f	class:DB\\Cursor
+dsn	lib/db/mongo.php	/^	function dsn() {$/;"	f	class:DB\\Mongo
+dt	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+dump	lib/base.php	/^	function dump($expr) {$/;"	f	class:Base
+dump	lib/image.php	/^	function dump() {$/;"	f	class:Image
+dump	lib/web/google/staticmap.php	/^	function dump() {$/;"	f	class:Web\\Google\\StaticMap
+em	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+email	lib/audit.php	/^	function email($str,$mx=TRUE) {$/;"	f	class:Audit
+emboss	lib/image.php	/^	function emboss() {$/;"	f	class:Image
+emojify	lib/utf.php	/^	function emojify($str) {$/;"	f	class:UTF
+enabled	lib/web/pingback.php	/^	protected function enabled($url) {$/;"	f	class:Web\\Pingback
+enc_type	lib/web/oauth2.php	/^		$enc_type = PHP_QUERY_RFC1738;$/;"	v	class:Web\\OAuth2
+encode	lib/base.php	/^	function encode($str) {$/;"	f	class:Base
+engine	lib/web.php	/^	function engine($arg='curl') {$/;"	f	class:Web
+entropy	lib/audit.php	/^	function entropy($str) {$/;"	f	class:Audit
+erase	lib/basket.php	/^	function erase($key,$val) {$/;"	f	class:Basket
+erase	lib/db/cursor.php	/^	function erase() {$/;"	f	class:DB\\Cursor
+erase	lib/db/jig/mapper.php	/^	function erase($filter=NULL,$quick=FALSE) {$/;"	f	class:DB\\Jig\\Mapper
+erase	lib/db/mongo/mapper.php	/^	function erase($filter=NULL,$quick=TRUE) {$/;"	f	class:DB\\Mongo\\Mapper
+erase	lib/db/sql/mapper.php	/^	function erase($filter=NULL,$quick=TRUE) {$/;"	f	class:DB\\SQL\\Mapper
+erase	lib/log.php	/^	function erase() {$/;"	f	class:Log
+error	lib/base.php	/^	function error($code,$text='',array $trace=NULL,$level=0) {$/;"	f	class:Base
+esc	lib/base.php	/^	function esc($arg) {$/;"	f	class:View
+esc	lib/markdown.php	/^	function esc($str) {$/;"	f	class:Markdown
+events	lib/cli/ws.php	/^		$events;$/;"	v	class:CLI\\Agent
+events	lib/cli/ws.php	/^		$events=[];$/;"	v	class:CLI\\WS
+events	lib/cli/ws.php	/^	function events() {$/;"	f	class:CLI\\WS
+exec	lib/db/sql.php	/^	function exec($cmds,$args=NULL,$ttl=0,$log=TRUE,$stamp=FALSE) {$/;"	f	class:DB\\SQL
+exists	lib/base.php	/^	function exists($key,&$val=NULL) {$/;"	f	class:Base
+exists	lib/base.php	/^	function exists($key,&$val=NULL) {$/;"	f	class:Cache
+exists	lib/base.php	/^	static function exists($key) {$/;"	f	class:Registry
+exists	lib/basket.php	/^	function exists($key) {$/;"	f	class:Basket
+exists	lib/db/jig/mapper.php	/^	function exists($key) {$/;"	f	class:DB\\Jig\\Mapper
+exists	lib/db/mongo/mapper.php	/^	function exists($key) {$/;"	f	class:DB\\Mongo\\Mapper
+exists	lib/db/sql.php	/^	function exists($table) {$/;"	f	class:DB\\SQL
+exists	lib/db/sql/mapper.php	/^	function exists($key) {$/;"	f	class:DB\\SQL\\Mapper
+exists	lib/magic.php	/^	abstract function exists($key);$/;"	f	class:Magic
+exists	lib/smtp.php	/^	function exists($key) {$/;"	f	class:SMTP
+exists	lib/web/oauth2.php	/^	function exists($key) {$/;"	f	class:Web\\OAuth2
+exists	lib/web/openid.php	/^	function exists($key) {$/;"	f	class:Web\\OpenID
+expect	lib/test.php	/^	function expect($cond,$text=NULL) {$/;"	f	class:Test
+expire	lib/base.php	/^	function expire($secs=0) {$/;"	f	class:Base
+export	lib/base.php	/^	function export($expr) {$/;"	f	class:Base
+extend	lib/base.php	/^	function extend($key,$src,$keep=FALSE) {$/;"	f	class:Base
+extend	lib/template.php	/^	function extend($tag,$func) {$/;"	f	class:Template
+extract	lib/base.php	/^	function extract($arr,$prefix) {$/;"	f	class:Base
+f3	public/index.php	/^$f3 = require __DIR__.'\/..\/lib\/base.php';$/;"	v
+factory	lib/db/jig/mapper.php	/^	function factory($id,$row) {$/;"	f	class:DB\\Jig\\Mapper
+factory	lib/db/mongo/mapper.php	/^	function factory($row) {$/;"	f	class:DB\\Mongo\\Mapper
+factory	lib/db/sql/mapper.php	/^	function factory($row) {$/;"	f	class:DB\\SQL\\Mapper
+fallback	lib/base.php	/^		$fallback='en';$/;"	v	class:Base
+fetch	lib/cli/ws.php	/^	function fetch() {$/;"	f	class:CLI\\Agent
+fields	lib/db/cursor.php	/^	abstract function fields();$/;"	f	class:DB\\Cursor
+fields	lib/db/jig/mapper.php	/^	function fields() {$/;"	f	class:DB\\Jig\\Mapper
+fields	lib/db/mongo/mapper.php	/^		$fields;$/;"	v	class:DB\\Mongo\\Mapper
+fields	lib/db/mongo/mapper.php	/^	function fields() {$/;"	f	class:DB\\Mongo\\Mapper
+fields	lib/db/sql/mapper.php	/^	function fields($adhoc=TRUE) {$/;"	f	class:DB\\SQL\\Mapper
+fieldset	assets/css/forms-skeleton.css	/^fieldset {$/;"	s
+fieldset	assets/css/normalize.css	/^fieldset {$/;"	s
+fieldset	assets/css/skeleton.css	/^fieldset {$/;"	s
+fieldset	assets/css/spacing.css	/^fieldset {$/;"	s
+fieldset	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+fieldset	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+figcaption	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+figure	assets/css/skeleton.css	/^figure,$/;"	s
+figure	assets/css/spacing.css	/^figure,$/;"	s
+figure	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+file	lib/log.php	/^		$file;$/;"	v	class:Log
+files	public/composer.json	/^		"files": ["lib\/base.php"]$/;"	a	object:autoload
+filler	lib/web.php	/^	function filler($count=1,$max=20,$std=TRUE) {$/;"	f	class:Web
+filter	lib/base.php	/^		$filter=[$/;"	v	class:Preview
+filter	lib/base.php	/^	function filter($key=NULL,$func=NULL) {$/;"	f	class:Preview
+find	lib/basket.php	/^	function find($key=NULL,$val=NULL) {$/;"	f	class:Basket
+find	lib/db/cursor.php	/^	abstract function find($filter=NULL,array $options=NULL,$ttl=0);$/;"	f	class:DB\\Cursor
+find	lib/db/jig/mapper.php	/^	function find($filter=NULL,array $options=NULL,$ttl=0,$log=TRUE) {$/;"	f	class:DB\\Jig\\Mapper
+find	lib/db/mongo/mapper.php	/^	function find($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Mongo\\Mapper
+find	lib/db/sql/mapper.php	/^	function find($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\SQL\\Mapper
+findone	lib/basket.php	/^	function findone($key,$val) {$/;"	f	class:Basket
+findone	lib/db/cursor.php	/^	function findone($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Cursor
+first	lib/db/cursor.php	/^	function first() {$/;"	f	class:DB\\Cursor
+fixheader	lib/smtp.php	/^	protected function fixheader($key) {$/;"	f	class:SMTP
+fixslashes	lib/base.php	/^	function fixslashes($str) {$/;"	f	class:Base
+flag	lib/image.php	/^		$flag=FALSE,$/;"	v	class:Image
+flexbox	assets/css/flexbox-minimal.css	/^    flexbox,$/;"	s
+flexbox	assets/css/flexbox-minimal.css	/^flexbox {$/;"	s
+flexbox .col	assets/css/flexbox-minimal.css	/^    flexbox .col,$/;"	c
+flexbox .col	assets/css/flexbox-minimal.css	/^flexbox .col {$/;"	c
+flexbox-thirds	assets/css/flexbox-minimal.css	/^    flexbox-thirds {$/;"	s
+flexbox-thirds	assets/css/flexbox-minimal.css	/^flexbox-thirds {$/;"	s
+flexbox-thirds .col	assets/css/flexbox-minimal.css	/^    flexbox-thirds .col {$/;"	c
+flexbox-thirds .col	assets/css/flexbox-minimal.css	/^flexbox-thirds .col {$/;"	c
+flip	lib/base.php	/^	function flip($key) {$/;"	f	class:Base
+footer	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+form	assets/css/skeleton.css	/^form {$/;"	s
+form	assets/css/spacing.css	/^form {$/;"	s
+form	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+format	lib/base.php	/^	function format() {$/;"	f	class:Base
+func	lib/auth.php	/^		$func;$/;"	v	class:Auth
+fw	lib/base.php	/^	protected $fw;$/;"	v	class:View
+fw	lib/f3.php	/^		$fw;$/;"	v	class:F3
+get	lib/base.php	/^	function get($key) {$/;"	f	class:Cache
+get	lib/base.php	/^	function get($key,$args=NULL) {$/;"	f	class:Base
+get	lib/base.php	/^	static function get($key) {$/;"	f	class:Registry
+get	lib/basket.php	/^	function &get($key) {$/;"	f	class:Basket
+get	lib/db/jig/mapper.php	/^	function &get($key) {$/;"	f	class:DB\\Jig\\Mapper
+get	lib/db/mongo/mapper.php	/^	function &get($key) {$/;"	f	class:DB\\Mongo\\Mapper
+get	lib/db/sql/mapper.php	/^	function &get($key) {$/;"	f	class:DB\\SQL\\Mapper
+get	lib/magic.php	/^	abstract function &get($key);$/;"	f	class:Magic
+get	lib/smtp.php	/^	function &get($key) {$/;"	f	class:SMTP
+get	lib/web/oauth2.php	/^	function &get($key) {$/;"	f	class:Web\\OAuth2
+get	lib/web/openid.php	/^	function &get($key) {$/;"	f	class:Web\\OpenID
+getiterator	lib/db/cursor.php	/^	abstract function getiterator();$/;"	f	class:DB\\Cursor
+getiterator	lib/db/jig/mapper.php	/^	function getiterator() {$/;"	f	class:DB\\Jig\\Mapper
+getiterator	lib/db/mongo/mapper.php	/^	function getiterator() {$/;"	f	class:DB\\Mongo\\Mapper
+getiterator	lib/db/sql/mapper.php	/^	function getiterator() {$/;"	f	class:DB\\SQL\\Mapper
+globals	public/config.ini	/^[globals]$/;"	s
+grab	lib/base.php	/^	function grab($func,$args=NULL) {$/;"	f	class:Base
+grayscale	lib/image.php	/^	function grayscale() {$/;"	f	class:Image
+gzdecode	lib/web.php	/^	function gzdecode($str) {$/;"	f
+h1	assets/css/normalize.css	/^h1 {$/;"	s
+h1	assets/css/typography.css	/^	h1 {$/;"	s
+h1	assets/css/typography.css	/^h1 {$/;"	s
+h1	assets/css/typography.css	/^h1,$/;"	s
+h1	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h1	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h1	ui/css/theme.css	/^h1 {$/;"	s
+h2	assets/css/typography.css	/^	h2 {$/;"	s
+h2	assets/css/typography.css	/^h2 {$/;"	s
+h2	assets/css/typography.css	/^h2,$/;"	s
+h2	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h2	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h2	ui/css/theme.css	/^h2 {$/;"	s
+h3	assets/css/typography.css	/^	h3 {$/;"	s
+h3	assets/css/typography.css	/^h3 {$/;"	s
+h3	assets/css/typography.css	/^h3,$/;"	s
+h3	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h3	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h3	ui/css/theme.css	/^h3 {$/;"	s
+h4	assets/css/typography.css	/^	h4 {$/;"	s
+h4	assets/css/typography.css	/^h4 {$/;"	s
+h4	assets/css/typography.css	/^h4,$/;"	s
+h4	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h4	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h4	ui/css/theme.css	/^h4 {$/;"	s
+h5	assets/css/typography.css	/^	h5 {$/;"	s
+h5	assets/css/typography.css	/^h5 {$/;"	s
+h5	assets/css/typography.css	/^h5,$/;"	s
+h5	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h5	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h5	ui/css/theme.css	/^h5 {$/;"	s
+h6	assets/css/typography.css	/^	h6 {$/;"	s
+h6	assets/css/typography.css	/^h6 {$/;"	s
+h6	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+h6	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+h6	ui/css/theme.css	/^h6 {$/;"	s
+hash	lib/base.php	/^	function hash($str) {$/;"	f	class:Base
+hash	lib/bcrypt.php	/^	function hash($pw,$salt=NULL,$cost=self::COST) {$/;"	f	class:Bcrypt
+header	assets/css/base.css	/^header {$/;"	s
+header	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+headers	lib/cli/ws.php	/^	function headers() {$/;"	f	class:CLI\\Agent
+height	lib/image.php	/^	function height() {$/;"	f	class:Image
+hflip	lib/image.php	/^	function hflip() {$/;"	f	class:Image
+hgroup	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+hidden	assets/css/normalize.css	/^[hidden] {$/;"	s
+highlight	lib/base.php	/^	function highlight($text) {$/;"	f	class:Base
+hive	lib/base.php	/^	function hive() {$/;"	f	class:Base
+homepage	public/composer.json	/^	"homepage": "http:\/\/fatfreeframework.com\/",$/;"	s
+hr	assets/css/normalize.css	/^hr {$/;"	s
+hr	assets/css/skeleton.css	/^hr {$/;"	s
+hr	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+html	assets/css/base.css	/^html {$/;"	s
+html	assets/css/base.css	/^html,body {$/;"	s
+html	assets/css/normalize.css	/^html {$/;"	s
+html	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+html	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+i	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+id	lib/cli/ws.php	/^	function id() {$/;"	f	class:CLI\\Agent
+identicon	lib/image.php	/^	function identicon($str,$size=64,$blocks=4) {$/;"	f	class:Image
+iframe	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+img	assets/css/images.css	/^img {$/;"	s
+img	assets/css/normalize.css	/^img {$/;"	s
+img	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+img	ui/css/theme.css	/^img {$/;"	s
+img.card	assets/css/cards.css	/^img.card {$/;"	c
+img.card:hover	assets/css/cards.css	/^img.card:hover {$/;"	c
+img.full	assets/css/images.css	/^img.full{ \/* careful, it's actually full res *\/$/;"	c
+img.large	assets/css/images.css	/^img.large {$/;"	c
+img.medium	assets/css/images.css	/^img.medium {$/;"	c
+img.small	assets/css/images.css	/^img.small {$/;"	c
+img.thumb	assets/css/images.css	/^img.thumb {$/;"	c
+img.thumb:hover	assets/css/images.css	/^img.thumb:hover { \/* play around with for pleasure *\/$/;"	c
+input	assets/css/normalize.css	/^input { \/* 1 *\/$/;"	s
+input	assets/css/normalize.css	/^input,$/;"	s
+input	assets/css/skeleton.css	/^input,$/;"	s
+input	assets/css/spacing.css	/^input,$/;"	s
+input	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+input[type="button"]	assets/css/buttons-skeleton.css	/^input[type="button"] {$/;"	s
+input[type="button"] .button-primary	assets/css/buttons-skeleton.css	/^input[type="button"].button-primary {$/;"	c
+input[type="button"] .button-primary:focus	assets/css/buttons-skeleton.css	/^input[type="button"].button-primary:focus {$/;"	c
+input[type="button"] .button-primary:hover	assets/css/buttons-skeleton.css	/^input[type="button"].button-primary:hover,$/;"	c
+input[type="button"] :focus	assets/css/buttons-skeleton.css	/^input[type="button"]:focus {$/;"	s
+input[type="button"] :hover	assets/css/buttons-skeleton.css	/^input[type="button"]:hover,$/;"	s
+input[type="checkbox"]	assets/css/slide-in-out.css	/^input[type="checkbox"] {$/;"	s
+input[type="checkbox"]	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input[type="checkbox"] :checked + label	assets/css/slide-in-out.css	/^input[type="checkbox"]:checked + label {$/;"	s
+input[type="checkbox"] :checked ~ ul li	assets/css/slide-in-out.css	/^input[type="checkbox"]:checked ~ ul li {$/;"	s
+input[type="checkbox"] :not(:checked)	assets/css/slide-in-out.css	/^input[type="checkbox"]:not(:checked) {$/;"	s
+input[type="email"]	assets/css/forms-skeleton.css	/^input[type="email"],$/;"	s
+input[type="email"] :focus	assets/css/forms-skeleton.css	/^input[type="email"]:focus,$/;"	s
+input[type="file"]	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input[type="number"]	assets/css/forms-skeleton.css	/^input[type="number"],$/;"	s
+input[type="number"] :focus	assets/css/forms-skeleton.css	/^input[type="number"]:focus,$/;"	s
+input[type="password"]	assets/css/forms-skeleton.css	/^input[type="password"],$/;"	s
+input[type="password"]	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input[type="password"] :focus	assets/css/forms-skeleton.css	/^input[type="password"]:focus,$/;"	s
+input[type="radio"]	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input[type="reset"]	assets/css/buttons-skeleton.css	/^input[type="reset"],$/;"	s
+input[type="reset"] .button-primary	assets/css/buttons-skeleton.css	/^input[type="reset"].button-primary,$/;"	c
+input[type="reset"] .button-primary:focus	assets/css/buttons-skeleton.css	/^input[type="reset"].button-primary:focus,$/;"	c
+input[type="reset"] .button-primary:hover	assets/css/buttons-skeleton.css	/^input[type="reset"].button-primary:hover,$/;"	c
+input[type="reset"] :focus	assets/css/buttons-skeleton.css	/^input[type="reset"]:focus,$/;"	s
+input[type="reset"] :hover	assets/css/buttons-skeleton.css	/^input[type="reset"]:hover,$/;"	s
+input[type="search"]	assets/css/forms-skeleton.css	/^input[type="search"],$/;"	s
+input[type="search"] :focus	assets/css/forms-skeleton.css	/^input[type="search"]:focus,$/;"	s
+input[type="submit"]	assets/css/buttons-skeleton.css	/^input[type="submit"],$/;"	s
+input[type="submit"] .button-primary	assets/css/buttons-skeleton.css	/^input[type="submit"].button-primary,$/;"	c
+input[type="submit"] .button-primary:focus	assets/css/buttons-skeleton.css	/^input[type="submit"].button-primary:focus,$/;"	c
+input[type="submit"] .button-primary:hover	assets/css/buttons-skeleton.css	/^input[type="submit"].button-primary:hover,$/;"	c
+input[type="submit"] :focus	assets/css/buttons-skeleton.css	/^input[type="submit"]:focus,$/;"	s
+input[type="submit"] :hover	assets/css/buttons-skeleton.css	/^input[type="submit"]:hover,$/;"	s
+input[type="tel"]	assets/css/forms-skeleton.css	/^input[type="tel"],$/;"	s
+input[type="tel"] :focus	assets/css/forms-skeleton.css	/^input[type="tel"]:focus,$/;"	s
+input[type="text"]	assets/css/forms-skeleton.css	/^input[type="text"],$/;"	s
+input[type="text"]	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+input[type="text"] :focus	assets/css/forms-skeleton.css	/^input[type="text"]:focus,$/;"	s
+input[type="url"]	assets/css/forms-skeleton.css	/^input[type="url"],$/;"	s
+input[type="url"] :focus	assets/css/forms-skeleton.css	/^input[type="url"]:focus,$/;"	s
+ins	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+insert	lib/db/cursor.php	/^	abstract function insert();$/;"	f	class:DB\\Cursor
+insert	lib/db/jig/mapper.php	/^	function insert() {$/;"	f	class:DB\\Jig\\Mapper
+insert	lib/db/mongo/mapper.php	/^	function insert() {$/;"	f	class:DB\\Mongo\\Mapper
+insert	lib/db/sql/mapper.php	/^	function insert() {$/;"	f	class:DB\\SQL\\Mapper
+inspect	lib/web/pingback.php	/^	function inspect($source) {$/;"	f	class:Web\\Pingback
+instance	lib/base.php	/^	static function instance() {$/;"	f	class:Prefab
+interferes with slidey input[type="radio"]	assets/css/forms-skeleton.css	/^input[type="radio"] {$/;"	s
+interpolation	lib/base.php	/^		$interpolation=true;$/;"	v	class:Preview
+interpolation	lib/base.php	/^	function interpolation($bool) {$/;"	f	class:Preview
+invert	lib/image.php	/^	function invert() {$/;"	f	class:Image
+ip	lib/base.php	/^	function ip() {$/;"	f	class:Base
+ip	lib/db/jig/session.php	/^	function ip() {$/;"	f	class:DB\\Jig\\Session
+ip	lib/db/mongo/session.php	/^	function ip() {$/;"	f	class:DB\\Mongo\\Session
+ip	lib/db/sql/session.php	/^	function ip() {$/;"	f	class:DB\\SQL\\Session
+ip	lib/session.php	/^	function ip() {$/;"	f	class:Session
+ipv4	lib/audit.php	/^	function ipv4($addr) {$/;"	f	class:Audit
+ipv6	lib/audit.php	/^	function ipv6($addr) {$/;"	f	class:Audit
+isbot	lib/audit.php	/^	function isbot($agent=NULL) {$/;"	f	class:Audit
+isdesktop	lib/audit.php	/^	function isdesktop($agent=NULL) {$/;"	f	class:Audit
+ismobile	lib/audit.php	/^	function ismobile($agent=NULL) {$/;"	f	class:Audit
+isprivate	lib/audit.php	/^	function isprivate($addr) {$/;"	f	class:Audit
+ispublic	lib/audit.php	/^	function ispublic($addr) {$/;"	f	class:Audit
+isreserved	lib/audit.php	/^	function isreserved($addr) {$/;"	f	class:Audit
+item	lib/basket.php	/^		$item=[];$/;"	v	class:Basket
+jot	lib/db/jig.php	/^	function jot($frame) {$/;"	f	class:DB\\Jig
+jwt	lib/web/oauth2.php	/^	function jwt($token) {$/;"	f	class:Web\\OAuth2
+kbd	assets/css/normalize.css	/^kbd,$/;"	s
+kbd	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+kill	lib/cli/ws.php	/^	function kill() {$/;"	f	class:CLI\\WS
+label	assets/css/forms-skeleton.css	/^label,$/;"	s
+label	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+label	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+label > .label-body	assets/css/forms-skeleton.css	/^label > .label-body {$/;"	c
+language	lib/base.php	/^	function language($code) {$/;"	f	class:Base
+languages	lib/base.php	/^	function languages() {$/;"	f	class:ISO
+last	lib/db/cursor.php	/^	function last() {$/;"	f	class:DB\\Cursor
+lazy	lib/db/jig.php	/^		$lazy;$/;"	v	class:DB\\Jig
+legacy	lib/db/mongo.php	/^	function legacy() {$/;"	f	class:DB\\Mongo
+legend	assets/css/forms-skeleton.css	/^legend {$/;"	s
+legend	assets/css/normalize.css	/^legend {$/;"	s
+legend	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+level	lib/base.php	/^		$level=0;$/;"	v	class:View
+lexicon	lib/base.php	/^	function lexicon($path,$ttl=0) {$/;"	f	class:Base
+li	assets/css/lists.css	/^li {$/;"	s
+li	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+license	public/composer.json	/^	"license": "GPL-3.0",$/;"	s
+listen	lib/web/pingback.php	/^	function listen($func,$path=NULL) {$/;"	f	class:Web\\Pingback
+load	lib/base.php	/^	function load($dsn,$seed=NULL) {$/;"	f	class:Cache
+load	lib/basket.php	/^	function load($key,$val) {$/;"	f	class:Basket
+load	lib/db/cursor.php	/^	function load($filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Cursor
+load	lib/image.php	/^	function load($str) {$/;"	f	class:Image
+loaded	lib/db/cursor.php	/^	function loaded() {$/;"	f	class:DB\\Cursor
+location	lib/web/geo.php	/^	function location($ip=NULL) {$/;"	f	class:Web\\Geo
+locks	lib/base.php	/^		$locks=[],$/;"	v	class:Base
+log	lib/db/jig.php	/^	function log($flag=TRUE) {$/;"	f	class:DB\\Jig
+log	lib/db/mongo.php	/^		$log;$/;"	v	class:DB\\Mongo
+log	lib/db/mongo.php	/^	function log($flag=TRUE) {$/;"	f	class:DB\\Mongo
+log	lib/db/sql.php	/^		$log;$/;"	v	class:DB\\SQL
+log	lib/db/sql.php	/^	function log($flag=TRUE) {$/;"	f	class:DB\\SQL
+log	lib/smtp.php	/^		$log;$/;"	v	class:SMTP
+log	lib/smtp.php	/^	function log() {$/;"	f	class:SMTP
+log	lib/web/pingback.php	/^		$log;$/;"	v	class:Web\\Pingback
+log	lib/web/pingback.php	/^	function log() {$/;"	f	class:Web\\Pingback
+login	lib/auth.php	/^	function login($id,$pw,$realm=NULL) {$/;"	f	class:Auth
+ltrim	lib/utf.php	/^	function ltrim($str) {$/;"	f	class:UTF
+main	assets/css/normalize.css	/^main {$/;"	s
+map	lib/base.php	/^	function map($url,$class,$ttl=0,$kbps=0) {$/;"	f	class:Base
+mark	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+mask	lib/base.php	/^	function mask($pattern,$url=NULL) {$/;"	f	class:Base
+menu	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+menu	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+merge	lib/base.php	/^	function merge($key,$src,$keep=FALSE) {$/;"	f	class:Base
+message	lib/test.php	/^	function message($text) {$/;"	f	class:Test
+mime	lib/web.php	/^	function mime($file, $inspect=FALSE) {$/;"	f	class:Web
+minify	lib/web.php	/^	function minify($files,$mime=NULL,$header=TRUE,$path=NULL) {$/;"	f	class:Web
+mock	lib/base.php	/^	function mock($pattern,$/;"	f	class:Base
+mod10	lib/audit.php	/^	function mod10($id) {$/;"	f	class:Audit
+mset	lib/base.php	/^	function mset(array $vars,$prefix='',$ttl=0) {$/;"	f	class:Base
+mutex	lib/base.php	/^	function mutex($id,$func,$args=NULL) {$/;"	f	class:Base
+name	lib/db/sql.php	/^	function name() {$/;"	f	class:DB\\SQL
+name	public/composer.json	/^	"name": "bcosca\/fatfree",$/;"	s
+nav	assets/css/base.css	/^nav {$/;"	s
+nav	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+nav ul	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+needs_rehash	lib/bcrypt.php	/^	function needs_rehash($hash,$cost=self::COST) {$/;"	f	class:Bcrypt
+next	lib/db/cursor.php	/^	function next() {$/;"	f	class:DB\\Cursor
+object	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+offsetexists	lib/base.php	/^	function offsetexists($key) {$/;"	f	class:Base
+offsetexists	lib/magic.php	/^	function offsetexists($key) {$/;"	f	class:Magic
+offsetget	lib/base.php	/^	function &offsetget($key) {$/;"	f	class:Base
+offsetget	lib/magic.php	/^	function &offsetget($key) {$/;"	f	class:Magic
+offsetset	lib/base.php	/^	function offsetset($key,$val) {$/;"	f	class:Base
+offsetset	lib/magic.php	/^	function offsetset($key,$val) {$/;"	f	class:Magic
+offsetunset	lib/base.php	/^	function offsetunset($key) {$/;"	f	class:Base
+offsetunset	lib/magic.php	/^	function offsetunset($key) {$/;"	f	class:Magic
+ol	assets/css/lists.css	/^ol {$/;"	s
+ol	assets/css/lists.css	/^ol,$/;"	s
+ol	assets/css/skeleton.css	/^ol,$/;"	s
+ol	assets/css/spacing.css	/^ol,$/;"	s
+ol	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+ol	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+ol ol	assets/css/lists.css	/^ol ol,$/;"	s
+ol ul	assets/css/lists.css	/^ol ul {$/;"	s
+olay	assets/css/base.css	/^olay {$/;"	s
+olay:before	assets/css/base.css	/^olay:before {$/;"	s
+on	lib/cli/ws.php	/^	function on($event,$func) {$/;"	f	class:CLI\\WS
+onclick	assets/css/flexbox-frow.css	/^.clickable:not([disabled]), [onclick]:not([disabled]) {$/;"	s
+onerase	lib/db/cursor.php	/^	function onerase($func) {$/;"	f	class:DB\\Cursor
+oninsert	lib/db/cursor.php	/^	function oninsert($func) {$/;"	f	class:DB\\Cursor
+onload	lib/db/cursor.php	/^	function onload($func) {$/;"	f	class:DB\\Cursor
+onsave	lib/db/cursor.php	/^	function onsave($func) {$/;"	f	class:DB\\Cursor
+onsuspect	lib/db/jig/session.php	/^		$onsuspect;$/;"	v	class:DB\\Jig\\Session
+onsuspect	lib/db/mongo/session.php	/^		$onsuspect;$/;"	v	class:DB\\Mongo\\Session
+onsuspect	lib/db/sql/session.php	/^		$onsuspect;$/;"	v	class:DB\\SQL\\Session
+onupdate	lib/db/cursor.php	/^	function onupdate($func) {$/;"	f	class:DB\\Cursor
+open	lib/db/jig/session.php	/^	function open($path,$name) {$/;"	f	class:DB\\Jig\\Session
+open	lib/db/mongo/session.php	/^	function open($path,$name) {$/;"	f	class:DB\\Mongo\\Session
+open	lib/db/sql/session.php	/^	function open($path,$name) {$/;"	f	class:DB\\SQL\\Session
+open	lib/session.php	/^	function open($path,$name) {$/;"	f	class:Session
+optgroup	assets/css/normalize.css	/^optgroup,$/;"	s
+overlay	lib/image.php	/^	function overlay(Image $img,$align=NULL,$alpha=100) {$/;"	f	class:Image
+p	assets/css/skeleton.css	/^p,$/;"	s
+p	assets/css/spacing.css	/^p,$/;"	s
+p	assets/css/typography.css	/^p {$/;"	s
+p	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+p	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+p	ui/css/theme.css	/^ul,p {$/;"	s
+p code	ui/css/theme.css	/^p code,ul code {$/;"	s
+paginate	lib/db/cursor.php	/^	function paginate($/;"	f	class:DB\\Cursor
+parse	lib/base.php	/^	function parse($str) {$/;"	f	class:Base
+parse	lib/base.php	/^	function parse($text) {$/;"	f	class:Preview
+parse	lib/template.php	/^	function parse($text) {$/;"	f	class:Template
+passed	lib/test.php	/^		$passed=TRUE;$/;"	v	class:Test
+passed	lib/test.php	/^	function passed() {$/;"	f	class:Test
+pdo	lib/db/sql.php	/^	function pdo() {$/;"	f	class:DB\\SQL
+php	public/composer.json	/^		"php": ">=5.4"$/;"	s	object:require
+pick	lib/matrix.php	/^	function pick(array $var,$col) {$/;"	f	class:Matrix
+pixelate	lib/image.php	/^	function pixelate($size) {$/;"	f	class:Image
+pop	lib/base.php	/^	function pop($key) {$/;"	f	class:Base
+pre	assets/css/normalize.css	/^pre {$/;"	s
+pre	assets/css/skeleton.css	/^pre,$/;"	s
+pre	assets/css/spacing.css	/^pre,$/;"	s
+pre	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+pre	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+pre	ui/css/theme.css	/^pre {$/;"	s
+pre > code	assets/css/codeblock.css	/^pre > code {$/;"	s
+prev	lib/db/cursor.php	/^	function prev() {$/;"	f	class:DB\\Cursor
+progress	assets/css/normalize.css	/^progress {$/;"	s
+progress	lib/web.php	/^	function progress($id) {$/;"	f	class:Web
+props	lib/db/sql/mapper.php	/^		$props=[];$/;"	v	class:DB\\SQL\\Mapper
+ptr	lib/db/cursor.php	/^		$ptr=0,$/;"	v	class:DB\\Cursor
+push	lib/base.php	/^	function push($key,$val) {$/;"	f	class:Base
+q	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+q:after	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+q:before	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+query	lib/db/cursor.php	/^		$query=[],$/;"	v	class:DB\\Cursor
+query	lib/web/google/staticmap.php	/^		$query=array();$/;"	v	class:Web\\Google\\StaticMap
+quote	lib/db/sql.php	/^	function quote($val,$type=\\PDO::PARAM_STR) {$/;"	f	class:DB\\SQL
+quotekey	lib/db/sql.php	/^	function quotekey($key, $split=TRUE) {$/;"	f	class:DB\\SQL
+raw	lib/base.php	/^	function raw($arg) {$/;"	f	class:View
+read	lib/base.php	/^	function read($file,$lf=FALSE) {$/;"	f	class:Base
+read	lib/cli/ws.php	/^	function read($socket,$len=0) {$/;"	f	class:CLI\\WS
+read	lib/db/jig.php	/^	function &read($file) {$/;"	f	class:DB\\Jig
+read	lib/db/jig/session.php	/^	function read($id) {$/;"	f	class:DB\\Jig\\Session
+read	lib/db/mongo/session.php	/^	function read($id) {$/;"	f	class:DB\\Mongo\\Session
+read	lib/db/sql/session.php	/^	function read($id) {$/;"	f	class:DB\\SQL\\Session
+read	lib/session.php	/^	function read($id) {$/;"	f	class:Session
+receive	lib/web.php	/^	function receive($func=NULL,$overwrite=FALSE,$slug=TRUE) {$/;"	f	class:Web
+recursive	lib/base.php	/^	function recursive($arg,$func,$stack=[]) {$/;"	f	class:Base
+redirect	lib/base.php	/^	function redirect($pattern,$url,$permanent=TRUE) {$/;"	f	class:Base
+reduce	lib/db/jig/mapper.php	/^	function reduce($key,$handler,$finalize=null){$/;"	f	class:DB\\Jig\\Mapper
+ref	lib/base.php	/^		$ref;$/;"	v	class:Cache
+ref	lib/base.php	/^	function &ref($key,$add=TRUE,&$var=NULL) {$/;"	f	class:Base
+rel	lib/base.php	/^	function rel($url) {$/;"	f	class:Base
+relay	lib/base.php	/^	function relay($funcs,$args=NULL) {$/;"	f	class:Base
+render	lib/base.php	/^	function render($file,$mime='text\/html',array $hive=NULL,$ttl=0) {$/;"	f	class:Preview
+render	lib/base.php	/^	function render($file,$mime='text\/html',array $hive=NULL,$ttl=0) {$/;"	f	class:View
+render	lib/image.php	/^	function render() {$/;"	f	class:Image
+repositories	public/composer.json	/^	"repositories": [$/;"	a
+request	lib/web.php	/^	function request($url,array $options=NULL) {$/;"	f	class:Web
+request	lib/web/oauth2.php	/^	function request($uri,$method,$token=NULL) {$/;"	f	class:Web\\OAuth2
+require	public/composer.json	/^	"require": {$/;"	o
+required	lib/db/sql/mapper.php	/^	function required($field) {$/;"	f	class:DB\\SQL\\Mapper
+reroute	lib/base.php	/^	function reroute($url=NULL,$permanent=FALSE,$die=TRUE) {$/;"	f	class:Base
+reset	lib/base.php	/^	function reset($suffix=NULL) {$/;"	f	class:Cache
+reset	lib/basket.php	/^	function reset() {$/;"	f	class:Basket
+reset	lib/db/cursor.php	/^	function reset() {$/;"	f	class:DB\\Cursor
+reset	lib/db/jig/mapper.php	/^	function reset() {$/;"	f	class:DB\\Jig\\Mapper
+reset	lib/db/mongo/mapper.php	/^	function reset() {$/;"	f	class:DB\\Mongo\\Mapper
+reset	lib/db/sql/mapper.php	/^	function reset() {$/;"	f	class:DB\\SQL\\Mapper
+resize	lib/image.php	/^	function resize($width=NULL,$height=NULL,$crop=TRUE,$enlarge=TRUE) {$/;"	f	class:Image
+resolve	lib/base.php	/^	function resolve($node,array $hive=NULL,$ttl=0,$persist=FALSE,$escape=NULL) {$/;"	f	class:Preview
+response	lib/web/openid.php	/^	function response() {$/;"	f	class:Web\\OpenID
+restore	lib/image.php	/^	function restore($state=1) {$/;"	f	class:Image
+results	lib/test.php	/^	function results() {$/;"	f	class:Test
+rgb	lib/image.php	/^	function rgb($color) {$/;"	f	class:Image
+rollback	lib/db/sql.php	/^	function rollback() {$/;"	f	class:DB\\SQL
+rotate	lib/image.php	/^	function rotate($angle) {$/;"	f	class:Image
+route	lib/base.php	/^	function route($pattern,$handler,$ttl=0,$kbps=0) {$/;"	f	class:Base
+rows	lib/db/sql.php	/^		$rows=0,$/;"	v	class:DB\\SQL
+rss	lib/web.php	/^	function rss($url,$max=10,$tags=NULL) {$/;"	f	class:Web
+rtrim	lib/utf.php	/^	function rtrim($str) {$/;"	f	class:UTF
+run	lib/base.php	/^	function run() {$/;"	f	class:Base
+run	lib/cli/ws.php	/^	function run() {$/;"	f	class:CLI\\WS
+samp	assets/css/normalize.css	/^samp {$/;"	s
+samp	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+sandbox	lib/base.php	/^	protected function sandbox(array $hive=NULL,$mime=NULL) {$/;"	f	class:View
+save	lib/basket.php	/^	function save() {$/;"	f	class:Basket
+save	lib/db/cursor.php	/^	function save() {$/;"	f	class:DB\\Cursor
+save	lib/image.php	/^	function save() {$/;"	f	class:Image
+scan	lib/markdown.php	/^	function scan($str) {$/;"	f	class:Markdown
+schema	lib/db/sql.php	/^	function schema($table,$fields=NULL,$ttl=0) {$/;"	f	class:DB\\SQL
+schema	lib/db/sql/mapper.php	/^	function schema($fields=null) {$/;"	f	class:DB\\SQL\\Mapper
+scrub	lib/base.php	/^	function scrub(&$var,$tags=NULL) {$/;"	f	class:Base
+section	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+select	assets/css/forms-skeleton.css	/^select {$/;"	s
+select	assets/css/normalize.css	/^select { \/* 1 *\/$/;"	s
+select	assets/css/normalize.css	/^select,$/;"	s
+select	assets/css/skeleton.css	/^select,$/;"	s
+select	assets/css/spacing.css	/^select,$/;"	s
+select	lib/db/mongo/mapper.php	/^	function select($fields=NULL,$filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\Mongo\\Mapper
+select	lib/db/sql/mapper.php	/^	function select($fields,$filter=NULL,array $options=NULL,$ttl=0) {$/;"	f	class:DB\\SQL\\Mapper
+select	lib/matrix.php	/^	function select($fields, $data) {$/;"	f	class:Matrix
+select	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+select	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+select:focus	assets/css/forms-skeleton.css	/^select:focus {$/;"	s
+send	lib/cli/ws.php	/^	function send($op,$data='') {$/;"	f	class:CLI\\Agent
+send	lib/smtp.php	/^	function send($message,$log=TRUE,$mock=FALSE) {$/;"	f	class:SMTP
+send	lib/web.php	/^	function send($file,$mime=NULL,$kbps=0,$force=TRUE,$name=NULL,$flush=TRUE) {$/;"	f	class:Web
+sepia	lib/image.php	/^	function sepia() {$/;"	f	class:Image
+serialize	lib/base.php	/^	function serialize($arg) {$/;"	f	class:Base
+server	lib/cli/ws.php	/^	function server() {$/;"	f	class:CLI\\Agent
+set	lib/base.php	/^	function set($key,$val,$ttl=0) {$/;"	f	class:Base
+set	lib/base.php	/^	function set($key,$val,$ttl=0) {$/;"	f	class:Cache
+set	lib/base.php	/^	static function set($key,$obj) {$/;"	f	class:Registry
+set	lib/basket.php	/^	function set($key,$val) {$/;"	f	class:Basket
+set	lib/db/jig/mapper.php	/^	function set($key,$val) {$/;"	f	class:DB\\Jig\\Mapper
+set	lib/db/mongo/mapper.php	/^	function set($key,$val) {$/;"	f	class:DB\\Mongo\\Mapper
+set	lib/db/sql/mapper.php	/^	function set($key,$val) {$/;"	f	class:DB\\SQL\\Mapper
+set	lib/magic.php	/^	abstract function set($key,$val);$/;"	f	class:Magic
+set	lib/smtp.php	/^	function set($key,$val) {$/;"	f	class:SMTP
+set	lib/web/oauth2.php	/^	function set($key,$val) {$/;"	f	class:Web\\OAuth2
+set	lib/web/openid.php	/^	function set($key,$val) {$/;"	f	class:Web\\OpenID
+setEncoding	lib/web/oauth2.php	/^	function setEncoding($type) {$/;"	f	class:Web\\OAuth2
+shift	lib/base.php	/^	function shift($key) {$/;"	f	class:Base
+sid	lib/db/jig/session.php	/^	function sid() {$/;"	f	class:DB\\Jig\\Session
+sid	lib/db/mongo/session.php	/^	function sid() {$/;"	f	class:DB\\Mongo\\Session
+sid	lib/db/sql/session.php	/^	function sid() {$/;"	f	class:DB\\SQL\\Session
+sid	lib/session.php	/^	function sid() {$/;"	f	class:Session
+sign	lib/base.php	/^	function sign($num) {$/;"	f	class:Base
+sketch	lib/image.php	/^	function sketch() {$/;"	f	class:Image
+skip	lib/db/cursor.php	/^	function skip($ofs=1) {$/;"	f	class:DB\\Cursor
+skip	lib/db/jig/mapper.php	/^	function skip($ofs=1) {$/;"	f	class:DB\\Jig\\Mapper
+skip	lib/db/mongo/mapper.php	/^	function skip($ofs=1) {$/;"	f	class:DB\\Mongo\\Mapper
+skip	lib/db/sql/mapper.php	/^	function skip($ofs=1) {$/;"	f	class:DB\\SQL\\Mapper
+slug	lib/web.php	/^	function slug($text) {$/;"	f	class:Web
+small	assets/css/normalize.css	/^small {$/;"	s
+small	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+small	ui/css/theme.css	/^small {$/;"	s
+smooth	lib/image.php	/^	function smooth($level) {$/;"	f	class:Image
+snakecase	lib/base.php	/^	function snakecase($str) {$/;"	f	class:Base
+snip	lib/markdown.php	/^	protected function snip($str) {$/;"	f	class:Markdown
+socket	lib/cli/ws.php	/^	function socket() {$/;"	f	class:CLI\\Agent
+sort	lib/db/jig/mapper.php	/^	protected function sort($data,$cond) {$/;"	f	class:DB\\Jig\\Mapper
+sort	lib/matrix.php	/^	function sort(array &$var,$col,$order=SORT_ASC) {$/;"	f	class:Matrix
+span	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+special	lib/markdown.php	/^		$special;$/;"	v	class:Markdown
+split	lib/base.php	/^	function split($str,$noempty=TRUE) {$/;"	f	class:Base
+stamp	lib/db/jig/session.php	/^	function stamp() {$/;"	f	class:DB\\Jig\\Session
+stamp	lib/db/mongo/session.php	/^	function stamp() {$/;"	f	class:DB\\Mongo\\Session
+stamp	lib/db/sql/session.php	/^	function stamp() {$/;"	f	class:DB\\SQL\\Session
+stamp	lib/session.php	/^	function stamp() {$/;"	f	class:Session
+status	lib/base.php	/^	function status($code) {$/;"	f	class:Base
+stringify	lib/base.php	/^	function stringify($arg,array $stack=NULL) {$/;"	f	class:Base
+stringify	lib/db/sql/mapper.php	/^	function stringify($fields,$filter=NULL,array $options=NULL) {$/;"	f	class:DB\\SQL\\Mapper
+stripos	lib/utf.php	/^	function stripos($stack,$needle,$ofs=0) {$/;"	f	class:UTF
+stristr	lib/utf.php	/^	function stristr($stack,$needle,$before=FALSE) {$/;"	f	class:UTF
+strlen	lib/utf.php	/^	function strlen($str) {$/;"	f	class:UTF
+strong	assets/css/normalize.css	/^strong {$/;"	s
+strong	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+strpos	lib/utf.php	/^	function strpos($stack,$needle,$ofs=0,$case=FALSE) {$/;"	f	class:UTF
+strrev	lib/utf.php	/^	function strrev($str) {$/;"	f	class:UTF
+strstr	lib/utf.php	/^	function strstr($stack,$needle,$before=FALSE,$case=FALSE) {$/;"	f	class:UTF
+sub	assets/css/normalize.css	/^sub {$/;"	s
+sub	assets/css/normalize.css	/^sub,$/;"	s
+sub	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+sub	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+subst	lib/web.php	/^	function subst(array &$old,$new) {$/;"	f	class:Web
+substr	lib/utf.php	/^	function substr($str,$start,$len=0) {$/;"	f	class:UTF
+substr_count	lib/utf.php	/^	function substr_count($stack,$needle) {$/;"	f	class:UTF
+summary	assets/css/normalize.css	/^summary {$/;"	s
+summary	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+sup	assets/css/normalize.css	/^sup {$/;"	s
+sup	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+sup	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+sync	lib/base.php	/^	function sync($key) {$/;"	f	class:Base
+table	assets/css/skeleton.css	/^table,$/;"	s
+table	assets/css/spacing.css	/^table,$/;"	s
+table	lib/base.php	/^		$table;$/;"	v	class:Registry
+table	lib/db/sql/mapper.php	/^	function table() {$/;"	f	class:DB\\SQL\\Mapper
+table	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+table	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+table	ui/css/theme.css	/^table {$/;"	s
+table code	ui/css/theme.css	/^table code {$/;"	s
+tbody	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+td	assets/css/tables.css	/^td {$/;"	s
+td	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+td	ui/css/theme.css	/^th,td {$/;"	s
+td:first-child	assets/css/tables.css	/^td:first-child {$/;"	s
+td:first-child	ui/css/theme.css	/^td:first-child {$/;"	s
+td:last-child	assets/css/tables.css	/^td:last-child {$/;"	s
+temp	lib/base.php	/^		$temp;$/;"	v	class:View
+template	assets/css/normalize.css	/^template {$/;"	s
+textarea	assets/css/forms-skeleton.css	/^textarea {$/;"	s
+textarea	assets/css/forms-skeleton.css	/^textarea,$/;"	s
+textarea	assets/css/normalize.css	/^textarea {$/;"	s
+textarea	assets/css/skeleton.css	/^textarea,$/;"	s
+textarea	assets/css/spacing.css	/^textarea,$/;"	s
+textarea	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+textarea:focus	assets/css/forms-skeleton.css	/^textarea:focus,$/;"	s
+tfoot	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+th	assets/css/tables.css	/^th,$/;"	s
+th	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+th	ui/css/theme.css	/^th {$/;"	s
+th	ui/css/theme.css	/^th,td {$/;"	s
+th a	ui/css/theme.css	/^th a {$/;"	s
+th:first-child	assets/css/tables.css	/^th:first-child,$/;"	s
+th:first-child	ui/css/theme.css	/^th:first-child,$/;"	s
+th:last-child	assets/css/tables.css	/^th:last-child,$/;"	s
+thead	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+time	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+token	lib/base.php	/^	function token($str) {$/;"	f	class:Preview
+token	lib/db/jig/mapper.php	/^	function token($str) {$/;"	f	class:DB\\Jig\\Mapper
+tr	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+tr	ui/css/theme.css	/^tr {$/;"	s
+tr:last-child	ui/css/theme.css	/^tr:last-child {$/;"	s
+trace	lib/base.php	/^	function trace(array $trace=NULL,$format=TRUE) {$/;"	f	class:Base
+trans	lib/db/sql.php	/^		$trans=FALSE,$/;"	v	class:DB\\SQL
+trans	lib/db/sql.php	/^	function trans() {$/;"	f	class:DB\\SQL
+translate	lib/utf.php	/^	function translate($str) {$/;"	f	class:UTF
+transpose	lib/matrix.php	/^	function transpose(array &$var) {$/;"	f	class:Matrix
+trigger	lib/db/cursor.php	/^		$trigger=[];$/;"	v	class:DB\\Cursor
+trim	lib/utf.php	/^	function trim($str) {$/;"	f	class:UTF
+type	assets/css/normalize.css	/^[type="button"],$/;"	s
+type	assets/css/normalize.css	/^[type="button"]:-moz-focusring,$/;"	s
+type	assets/css/normalize.css	/^[type="button"]::-moz-focus-inner,$/;"	s
+type	assets/css/normalize.css	/^[type="checkbox"],$/;"	s
+type	assets/css/normalize.css	/^[type="number"]::-webkit-inner-spin-button,$/;"	s
+type	assets/css/normalize.css	/^[type="number"]::-webkit-outer-spin-button {$/;"	s
+type	assets/css/normalize.css	/^[type="radio"] {$/;"	s
+type	assets/css/normalize.css	/^[type="reset"],$/;"	s
+type	assets/css/normalize.css	/^[type="reset"]:-moz-focusring,$/;"	s
+type	assets/css/normalize.css	/^[type="reset"]::-moz-focus-inner,$/;"	s
+type	assets/css/normalize.css	/^[type="search"] {$/;"	s
+type	assets/css/normalize.css	/^[type="search"]::-webkit-search-decoration {$/;"	s
+type	assets/css/normalize.css	/^[type="submit"] {$/;"	s
+type	assets/css/normalize.css	/^[type="submit"]:-moz-focusring {$/;"	s
+type	assets/css/normalize.css	/^[type="submit"]::-moz-focus-inner {$/;"	s
+type	lib/db/sql.php	/^	function type($val) {$/;"	f	class:DB\\SQL
+type	public/composer.json	/^			"type": "vcs",$/;"	s	object:repositories.0
+tzinfo	lib/web/geo.php	/^	function tzinfo($zone) {$/;"	f	class:Web\\Geo
+ul	assets/css/lists.css	/^ul {$/;"	s
+ul	assets/css/skeleton.css	/^ul,$/;"	s
+ul	assets/css/spacing.css	/^ul,$/;"	s
+ul	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
+ul	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+ul	ui/css/theme.css	/^ul,p {$/;"	s
+ul code	ui/css/theme.css	/^p code,ul code {$/;"	s
+ul ol	assets/css/lists.css	/^ul ol,$/;"	s
+ul ul	assets/css/lists.css	/^ul ul,$/;"	s
+ul ul	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+ul.slidel li	assets/css/slide-in-out.css	/^ul.slidel li {$/;"	s
+ul.slider li	assets/css/slide-in-out.css	/^ul.slider li {$/;"	s
+undo	lib/image.php	/^	function undo() {$/;"	f	class:Image
+unload	lib/base.php	/^	function unload($cwd) {$/;"	f	class:Base
+unserialize	lib/base.php	/^	function unserialize($arg) {$/;"	f	class:Base
+unshift	lib/base.php	/^	function unshift($key,$val) {$/;"	f	class:Base
+until	lib/base.php	/^	function until($func,$args=NULL,$timeout=60) {$/;"	f	class:Base
+update	lib/db/cursor.php	/^	abstract function update();$/;"	f	class:DB\\Cursor
+update	lib/db/jig/mapper.php	/^	function update() {$/;"	f	class:DB\\Jig\\Mapper
+update	lib/db/mongo/mapper.php	/^	function update() {$/;"	f	class:DB\\Mongo\\Mapper
+update	lib/db/sql/mapper.php	/^	function update() {$/;"	f	class:DB\\SQL\\Mapper
+updateAll	lib/db/sql/mapper.php	/^	function updateAll($filter=NULL) {$/;"	f	class:DB\\SQL\\Mapper
+uri	lib/cli/ws.php	/^	function uri() {$/;"	f	class:CLI\\Agent
+uri	lib/web/oauth2.php	/^	function uri($endpoint,$query=TRUE) {$/;"	f	class:Web\\OAuth2
+url	lib/audit.php	/^	function url($str) {$/;"	f	class:Audit
+url	public/composer.json	/^			"url": "https:\/\/github.com\/bcosca\/fatfree"$/;"	s	object:repositories.0
+uuid	lib/db/jig.php	/^	function uuid() {$/;"	f	class:DB\\Jig
+uuid	lib/db/mongo.php	/^	function uuid() {$/;"	f	class:DB\\Mongo
+uuid	lib/db/sql.php	/^	function uuid() {$/;"	f	class:DB\\SQL
+valid	lib/db/cursor.php	/^	function valid() {$/;"	f	class:DB\\Cursor
+value	lib/db/sql.php	/^	function value($type,$val) {$/;"	f	class:DB\\SQL
+var	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+verb	lib/cli/ws.php	/^	function verb() {$/;"	f	class:CLI\\Agent
+verified	lib/web/openid.php	/^	function verified($proxy=NULL) {$/;"	f	class:Web\\OpenID
+verify	lib/bcrypt.php	/^	function verify($pw,$hash) {$/;"	f	class:Bcrypt
+verify	lib/web/google/recaptcha.php	/^	static function verify($secret,$response=NULL) {$/;"	f	class:Web\\Google\\Recaptcha
+version	lib/db/sql.php	/^	function version() {$/;"	f	class:DB\\SQL
+vflip	lib/image.php	/^	function vflip() {$/;"	f	class:Image
+video	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
+visible	lib/base.php	/^	function visible($obj,$key) {$/;"	f	class:Base
+walk	lib/matrix.php	/^	function walk($fields, $data, $callback) {$/;"	f	class:Matrix
+weather	lib/web/geo.php	/^	function weather($latitude,$longitude,$key) {$/;"	f	class:Web\\Geo
+whois	lib/web.php	/^	function whois($addr,$server='whois.internic.net') {$/;"	f	class:Web
+width	lib/image.php	/^	function width() {$/;"	f	class:Image
+wrapper	lib/web.php	/^		$wrapper;$/;"	v	class:Web
+write	lib/base.php	/^	function write($file,$data,$append=FALSE) {$/;"	f	class:Base
+write	lib/cli/ws.php	/^	function write($socket,$buf) {$/;"	f	class:CLI\\WS
+write	lib/db/jig.php	/^	function write($file,array $data=NULL) {$/;"	f	class:DB\\Jig
+write	lib/db/jig/session.php	/^	function write($id,$data) {$/;"	f	class:DB\\Jig\\Session
+write	lib/db/mongo/session.php	/^	function write($id,$data) {$/;"	f	class:DB\\Mongo\\Session
+write	lib/db/sql/session.php	/^	function write($id,$data) {$/;"	f	class:DB\\SQL\\Session
+write	lib/log.php	/^	function write($text,$format='r') {$/;"	f	class:Log
+write	lib/session.php	/^	function write($id,$data) {$/;"	f	class:Session

@@ -1,0 +1,26 @@
+/* This is a custom minimalistic, slightly modular, semantically based css framework, use and abuse as you will, something something licence, i'll figure it out one day */
+
+/* Import modules
+ *
+ * to import modules comment//uncomment
+========================================================================== */
+
+@import "palette.css";
+@import "normalize.css";
+@import "base.css";
+@import "hamburger.css"; /* use a responsive hamburger navigation menu */
+@import "slide-in-out.css"; /* simple slide in-out class */
+@import "images.css"; /* images classification and decoration */
+@import "typography.css"; /* font scalings and other shit */
+@import "lists.css"; /* well...lists */
+/* @import "grid.css"; /1* custom scaled grid N/A *1/ */
+/* @import "grid-skeleton.css"; /1* grid style from skeleton.css *1/ */
+@import "grid.css"; /* grid style from skeleton.css */
+@import "buttons-skeleton.css"; /* yup, skeleton again alright */
+@import "codeblock.css"; /* for code embeds */
+@import "spacing.css"; /* skeleton had this, will figure out if actually needed or should be redistributed */
+/* @import "flexbox-minimal.css"; /1* custom minimal flexbox for messing around *1/ */
+@import "flexbox-frow.css"; /* frow based flexbox */
+/* @import "flexbox.css"; /1* custom flexbox *1/ */
+/* @import "carousel.css"; /1* currently a class, modify later *1/ */
+@import "cards.css" /* cards to be placed around */

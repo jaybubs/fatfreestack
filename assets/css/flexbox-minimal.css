@@ -1,0 +1,48 @@
+/* base is 12 */
+
+flexbox {
+    display: flex;
+}
+
+flexbox .col {
+    flex: 1;
+    justify-content: space-around;
+}
+
+flexbox-thirds {
+    display: flex;
+    justify-content: space-between;
+}
+
+flexbox-thirds .col {
+    width: 32%;
+}
+
+@media (max-width: 400px) {
+    flexbox,
+    flexbox-thirds {
+        display: block;
+    }
+    flexbox .col,
+    flexbox-thirds .col {
+        width: 100%;
+        margin: 0 0 10px 0;
+    }
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px;
+}
+
+flexbox {
+    margin: 0 0 20px 0;
+}
+
+.col {
+    background: var(--purple-grey-soft);
+    padding: 20px;
+}
+

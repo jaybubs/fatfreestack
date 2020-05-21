@@ -1,0 +1,73 @@
+/* Cards
+ *
+ * visible blocks of containers to be placed around
+ ========================================================================== */
+
+card {
+  display: block;
+  /* box-shadow: 10px 10px 10px 1px var(--transparent-soft); */
+  background-color: var(--coffee1);
+  margin: 5px;
+}
+
+card.main {
+  display: inline-flex;
+  text-align: center;
+  align-content: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  /* min-width: 380px; */
+  border-radius: 8px;
+}
+
+card.main.home {
+  margin: 10vh 0 0 0;
+  padding: 10px 10px 10px 10px;
+}
+
+card.main.article {
+  /* margin: 1vh 0 0 0; */
+  padding: 10px 10px 10px 10px;
+  background: linear-gradient(45deg, var(--coffee1t), var(--coffee2t));
+  border-style: solid;
+  border-width: 1px;
+  border-color: var(--white-soft);
+  max-width: 100%;
+  display: block;
+  text-align: left;
+  overflow: hidden;
+}
+
+card.item {
+  flex: 1;
+  margin: 10px;
+  max-width: 30%;
+  min-height: 40vh;
+  max-height: 50vh;
+  border-radius: 5px;
+  background-color: var(--coffee1);
+  box-shadow: 10px 10px 10px 1px var(--transparent-soft);
+}
+
+img.card {
+  height: 70%; 
+  width: 70%;
+  min-height: 30%; 
+  min-width: 30%;
+  object-fit: cover;
+  position: relative;
+  padding-top: 0px;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+img.card:hover {
+  opacity: 0.7;
+}
+card.item p{
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-bottom: 0;
+}
+

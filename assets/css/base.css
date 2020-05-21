@@ -1,0 +1,66 @@
+/* Base Styles
+ *
+ * this section contains elements pertaining to the basic shit every html page has
+========================================================================== */
+
+html {
+	font-size: 62.5%; /* based on 10px size, this makes rem scaling easy 1.0rem=10px, taken from skeleton */
+}
+
+body {
+	font-size: 1.5em; 
+	text-align: left;
+	line-height: 1.5;
+	font-weight: 400;
+	font-family: "Cascadia", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #222;
+	background: linear-gradient(to left top, var(--black-soft), var(--black-black)) fixed;
+    padding-top: 5em;
+}
+html,body {
+    height: 100%;
+}
+header {
+	background-color: var(--black-soft);
+	box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.1);
+	position: fixed;
+    top: 0;
+	width: 100%;
+    z-index: 3;
+}
+footer {
+  color: #fff;
+}
+nav {
+    font-size: 1em;
+}
+
+article {
+  background-color: var(--coffee2);
+  background: linear-gradient(45deg, var(--coffee2), var(--coffee3));
+  border-radius: 8px;
+  min-height: 60vh;
+  margin: auto;
+}
+article p{
+  margin: 1em 1em 1em 1em;
+}
+/* Links */
+a {
+	color: #111edb;
+}
+a:hover {
+	color: #0fa0ce;
+}
+
+/* Overlays */
+olay {
+    display: block;
+    font-family: cascadia;
+}
+olay:before {
+    content: " ";
+    background-color: #fff;
+    opacity: 0.5;
+    z-index: -1;
+}
