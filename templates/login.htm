@@ -1,0 +1,20 @@
+<container class="carousel">
+  <card class="main home">
+    <card class="item form">
+      <form action="/loginSubmit" method="post" accept-charset="utf-8">
+        <label for="username">username</label><input type="text" name="username" value="" id="username"></br>
+        <label for="password">password</label><input type="text" name="password" value="" id="password"></br>
+        <p>
+        <input type="submit" value="Login" name="submit" id="submit"/>
+        </p>
+      </form>
+    </card>
+  <check if="{{ @errorMessage }}">
+    <card class="item">
+      <p>
+      <true>{{ @errorMessage | raw }}</true>
+      </p>
+    </card>
+  </check>
+</card>
+</container>

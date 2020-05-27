@@ -3,6 +3,13 @@ namespace Cofdb\Controllers;
 
 class WebPage {
 
+  private $accountAccess;
+
+  public function __construct($f3)
+  {
+    global $f3;
+  }
+  
   private function renderTemplate($templateName) {
   echo \Template::instance()->render($templateName);
   }
@@ -11,13 +18,7 @@ class WebPage {
     $this->renderTemplate('layout.htm');
 
   }
-  public function home($f3) {
-    $f3->set('bannerText', 'Home');
-    $f3->set('output', 'home.htm');
-    $f3->set('articleText', 'Placeholder text for articleText');
-    $this->display($f3);
 
-  }
   public function about($f3) {
     $f3->set('bannerText', 'About');
     $f3->set('output', 'about.htm');

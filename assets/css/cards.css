@@ -48,6 +48,9 @@ card.item {
   background-color: var(--coffee1);
   box-shadow: 10px 10px 10px 1px var(--transparent-soft);
 }
+.form {
+  text-align: right;
+}
 
 img.card {
   height: 70%; 

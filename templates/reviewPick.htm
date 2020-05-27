@@ -1,0 +1,7 @@
+<container>
+  <card class="main article">
+  <repeat group="{{ @reviewItems }}" value="{{ @reviewItem }}">
+  <li><a href="/review/{{ @reviewItem['review_id'] }}">{{ @reviewItem['review_title'] }}</a></li>
+  </repeat>
+  </card>
+</container>

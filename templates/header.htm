@@ -5,10 +5,13 @@
         <label for="menu-btn" class="menu-icon"><span class="navicon"></span></label>
         <ul class="menu">
           <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="{{ @testpage }}">Test Page</a></li>
-          <li><a href="Sign Up">Get Started</a></li>
-          <li><a href="Log In">Log In</a></li>
+          <li><a href="{{ 'about' | alias }}">About</a></li>
+          <li><a href="{{ 'review' | alias }}">Reviews</a></li>
+          <li><a href="{{ 'register' | alias }}">Get Started</a></li>
+          <check if="{{ @SESSION.username }}">
+          <true><li><a href="{{ 'logout' | alias}}">Log Out</a></li></true>
+          <false><li><a href="{{ 'login' | alias}}">Log In</a></li></false>
+          </check>
         </ul>
         </menu>
     </header>
