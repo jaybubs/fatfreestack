@@ -8,6 +8,8 @@ $f3->set('UI', __DIR__.'/../templates/');
 $f3->set('DEBUG', 1);
 $f3->set('CC', 'Cofdb\Controllers\\');
 $f3->set('AUTOLOAD', __DIR__.'/../classes/', __DIR__.'/../lib/');
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 // deal with later:
 // $f3->config(__DIR__.'/../includes/routes.ini');
 

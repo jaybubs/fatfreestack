@@ -1,0 +1,22 @@
+<container class="carousel">
+  <card class="main home">
+    <card class="item form">
+      <form action="/reviewSubmit" method="post" accept-charset="utf-8">
+        <label for="beansId">beans Id</label><input type="text" name="beansId" value="" id="beansId"></br>
+        <label for="reviewTitle">Review Title</label><input type="text" name="reviewTitle" value="" id="reviewTitle"></br>
+        <label for="rating">rating</label><input type="text" name="rating" value="" id="rating"></br>
+        <label for="reviewText">Review Text</label><input type="text" name="reviewText" value="" id="reviewText"></br>
+        <p>
+        <input type="submit" value="Submit Review" name="submit" id="submit"/>
+        </p>
+      </form>
+    </card>
+  <check if="{{ isset(@errorMessage) }}">
+    <card class="item">
+      <p>
+      <true>{{ @errorMessage | raw }}</true>
+      </p>
+    </card>
+  </check>
+</card>
+</container>

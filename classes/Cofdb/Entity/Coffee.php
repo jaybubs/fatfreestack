@@ -63,7 +63,6 @@ class Coffee
   public function topFour($f3)
   {
     $db = $f3->get('DB');
-    //the absolute fucking state of sql statements
     //average review rating per bean_id to find the top four, group by the bean_id itself and find the matching bean_name from the beans table
     $rows = $db->exec('SELECT review.beans_id, review.review_id, avg(review.rating), beans.beans_name FROM review LEFT JOIN beans on review.beans_id=beans.beans_id GROUP BY review.beans_id ORDER BY avg(review.rating) DESC LIMIT 4 ');
     return $rows;

@@ -7,10 +7,15 @@
           <li><a href="/">Home</a></li>
           <li><a href="{{ 'about' | alias }}">About</a></li>
           <li><a href="{{ 'review' | alias }}">Reviews</a></li>
-          <li><a href="{{ 'register' | alias }}">Get Started</a></li>
           <check if="{{ @SESSION.username }}">
-          <true><li><a href="{{ 'logout' | alias}}">Log Out</a></li></true>
-          <false><li><a href="{{ 'login' | alias}}">Log In</a></li></false>
+          <true>
+          <li><a href="{{ 'addReview' | alias }}">Add Review</a></li>
+          <li><a href="{{ 'logout' | alias }}">Log Out</a></li>
+          </true>
+          <false>
+          <li><a href="{{ 'register' | alias }}">Get Started</a></li>
+          <li><a href="{{ 'login' | alias }}">Log In</a></li>
+          </false>
           </check>
         </ul>
         </menu>

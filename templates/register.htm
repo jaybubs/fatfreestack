@@ -12,7 +12,7 @@
         </p>
       </form>
     </card>
-  <check if="{{ @errorMessage }}">
+  <check if="{{ isset(@errorMessage) }}">
     <card class="item">
       <p>
       <true>{{ @errorMessage | raw }}</true>
