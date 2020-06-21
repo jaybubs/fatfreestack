@@ -19,7 +19,7 @@ class User
 
   public function checkUser($username) {
     $this->userMap->load(array('username=?', $username));
-    if ($this->userMap->username == $username) {
+    if ($this->userMap->username === $username) {
       return True;
     } 
   }

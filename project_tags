@@ -964,12 +964,15 @@ Cofdb\\Controllers	classes/Cofdb/Controllers/AccountAccess.php	/^namespace Cofdb
 Cofdb\\Controllers	classes/Cofdb/Controllers/Animal.php	/^namespace Cofdb\\Controllers;$/;"	n
 Cofdb\\Controllers	classes/Cofdb/Controllers/Coffee.php	/^namespace Cofdb\\Controllers;$/;"	n
 Cofdb\\Controllers	classes/Cofdb/Controllers/Review.php	/^namespace Cofdb\\Controllers;$/;"	n
-Cofdb\\Controllers	classes/Cofdb/Controllers/Reviews.php	/^namespace Cofdb\\Controllers;$/;"	n
 Cofdb\\Controllers	classes/Cofdb/Controllers/WebPage.php	/^namespace Cofdb\\Controllers;$/;"	n
 Cofdb\\Entity	classes/Cofdb/Entity/Account.php	/^namespace Cofdb\\Entity;$/;"	n
 Cofdb\\Entity	classes/Cofdb/Entity/Author.php	/^namespace Cofdb\\Entity;$/;"	n
 Cofdb\\Entity	classes/Cofdb/Entity/Coffee.php	/^namespace Cofdb\\Entity;$/;"	n
 Cofdb\\Entity	classes/Cofdb/Entity/User.php	/^namespace Cofdb\\Entity;$/;"	n
+Cofdb\\Models	classes/Cofdb/Models/Home.php	/^namespace Cofdb\\Models;$/;"	n
+Cofdb\\Views	classes/Cofdb/Views/Home.php	/^namespace Cofdb\\Views;$/;"	n
+Cofdb\\Views	classes/Cofdb/Views/Review.php	/^namespace Cofdb\\Views;$/;"	n
+Cofdb\\Views	classes/Cofdb/Views/WebPage.php	/^namespace Cofdb\\Views;$/;"	n
 Coffee	classes/Cofdb/Controllers/Coffee.php	/^class Coffee$/;"	c	namespace:Cofdb\\Controllers
 Coffee	classes/Cofdb/Entity/Coffee.php	/^class Coffee$/;"	c	namespace:Cofdb\\Entity
 Conditional Segments	public/readme.md	/^### Conditional Segments$/;"	S	section:Views and Templates
@@ -981,6 +984,7 @@ DB	classes/Cofdb/Controllers/AccountAccess.php	/^use DB;$/;"	a	namespace:Cofdb\\
 DB	classes/Cofdb/Controllers/Coffee.php	/^use DB;$/;"	a	namespace:Cofdb\\Controllers	typeref:unknown:DB
 DB	classes/Cofdb/Entity/Coffee.php	/^use DB;$/;"	a	namespace:Cofdb\\Entity	typeref:unknown:DB
 DB	classes/Cofdb/Entity/User.php	/^use DB;$/;"	a	namespace:Cofdb\\Entity	typeref:unknown:DB
+DB	classes/Cofdb/Models/Home.php	/^use DB;$/;"	a	namespace:Cofdb\\Models	typeref:unknown:DB
 DB	classes/General/DbTable.php	/^use DB;$/;"	a	namespace:General	typeref:unknown:DB
 DB	lib/db/cursor.php	/^namespace DB;$/;"	n
 DB	lib/db/jig.php	/^namespace DB;$/;"	n
@@ -1036,6 +1040,8 @@ Grabbing Data from Another Site	public/readme.md	/^### Grabbing Data from Anothe
 HTTP_100	lib/base.php	/^		HTTP_100='Continue',$/;"	d	class:Base
 Handling File Downloads	public/readme.md	/^### Handling File Downloads$/;"	S	section:Plug-Ins
 Hello, World: The Less-Than-A-Minute Fat-Free Recipe	public/readme.md	/^### Hello, World: The Less-Than-A-Minute Fat-Free Recipe$/;"	S	section:Getting Started
+Home	classes/Cofdb/Models/Home.php	/^class Home$/;"	c	namespace:Cofdb\\Models
+Home	classes/Cofdb/Views/Home.php	/^class Home$/;"	c	namespace:Cofdb\\Views
 ISO	lib/base.php	/^class ISO extends Prefab {$/;"	c
 Image	lib/image.php	/^class Image {$/;"	c
 Jig	lib/db/jig.php	/^class Jig {$/;"	c	namespace:DB
@@ -1088,7 +1094,7 @@ Repeating Segments	public/readme.md	/^### Repeating Segments$/;"	S	section:Views
 Representational State Transfer (ReST)	public/readme.md	/^### Representational State Transfer (ReST)$/;"	S	section:Routing Engine
 Rerouting	public/readme.md	/^### Rerouting$/;"	S	section:Routing Engine
 Review	classes/Cofdb/Controllers/Review.php	/^class Review$/;"	c	namespace:Cofdb\\Controllers
-Reviews	classes/Cofdb/Controllers/Reviews.php	/^class Reviews$/;"	c	namespace:Cofdb\\Controllers
+Review	classes/Cofdb/Views/Review.php	/^class Review$/;"	c	namespace:Cofdb\\Views
 Routes and Tokens	public/readme.md	/^### Routes and Tokens$/;"	S	section:Routing Engine
 Routing Engine	public/readme.md	/^## Routing Engine$/;"	s
 Routing to a Namespaced Class	public/readme.md	/^### Routing to a Namespaced Class$/;"	S	section:Routing Engine
@@ -1138,6 +1144,7 @@ Web	lib/web/oauth2.php	/^namespace Web;$/;"	n
 Web	lib/web/openid.php	/^namespace Web;$/;"	n
 Web	lib/web/pingback.php	/^namespace Web;$/;"	n
 WebPage	classes/Cofdb/Controllers/WebPage.php	/^class WebPage {$/;"	c	namespace:Cofdb\\Controllers
+WebPage	classes/Cofdb/Views/WebPage.php	/^class WebPage {$/;"	c	namespace:Cofdb\\Views
 Web\\Google	lib/web/google/recaptcha.php	/^namespace Web\\Google;$/;"	n
 Web\\Google	lib/web/google/staticmap.php	/^namespace Web\\Google;$/;"	n
 Working with Namespaces	public/readme.md	/^### Working with Namespaces$/;"	S	section:Routing Engine
@@ -1158,10 +1165,13 @@ __construct	classes/Cofdb/Controllers/AccountAccess.php	/^  public function __co
 __construct	classes/Cofdb/Controllers/Animal.php	/^  public function __construct($name, $age, bool $grillable)$/;"	f	class:Cofdb\\Controllers\\Animal
 __construct	classes/Cofdb/Controllers/Coffee.php	/^  public function __construct($display)$/;"	f	class:Cofdb\\Controllers\\Coffee
 __construct	classes/Cofdb/Controllers/Review.php	/^  public function __construct($f3, $beans, $user)$/;"	f	class:Cofdb\\Controllers\\Review
-__construct	classes/Cofdb/Controllers/Reviews.php	/^  public function __construct($f3, $user)$/;"	f	class:Cofdb\\Controllers\\Reviews
 __construct	classes/Cofdb/Controllers/WebPage.php	/^  public function __construct($f3)$/;"	f	class:Cofdb\\Controllers\\WebPage
 __construct	classes/Cofdb/Entity/Coffee.php	/^  public function __construct()$/;"	f	class:Cofdb\\Entity\\Coffee
 __construct	classes/Cofdb/Entity/User.php	/^  public function __construct()$/;"	f	class:Cofdb\\Entity\\User
+__construct	classes/Cofdb/Models/Home.php	/^  public function __construct($display)$/;"	f	class:Cofdb\\Models\\Home
+__construct	classes/Cofdb/Views/Home.php	/^  public function __construct($display)$/;"	f	class:Cofdb\\Views\\Home
+__construct	classes/Cofdb/Views/Review.php	/^  public function __construct($f3, $beans, $user)$/;"	f	class:Cofdb\\Views\\Review
+__construct	classes/Cofdb/Views/WebPage.php	/^  public function __construct($f3)$/;"	f	class:Cofdb\\Views\\WebPage
 __construct	lib/auth.php	/^	function __construct($storage,array $args=NULL,$func=NULL) {$/;"	f	class:Auth
 __construct	lib/base.php	/^	function __construct($dsn=FALSE) {$/;"	f	class:Cache
 __construct	lib/base.php	/^	function __construct() {$/;"	f	class:Base
@@ -1246,13 +1256,16 @@ abbr[title]	assets/css/normalize.css	/^abbr[title] {$/;"	s
 abbr[title]	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
 abort	lib/base.php	/^	function abort() {$/;"	f	class:Base
 about	classes/Cofdb/Controllers/WebPage.php	/^  public function about($f3) {$/;"	f	class:Cofdb\\Controllers\\WebPage
+about	classes/Cofdb/Views/WebPage.php	/^  public function about($f3) {$/;"	f	class:Cofdb\\Views\\WebPage
 about	includes/routes.ini	/^GET \/about = classes\\Cofdb\\controllers\\WebPage->about$/;"	k	section:routes
 acceptable	lib/web.php	/^	function acceptable($list=NULL) {$/;"	f	class:Web
 accountAccess	classes/Cofdb/Controllers/Coffee.php	/^  private $accountAccess;$/;"	v	class:Cofdb\\Controllers\\Coffee
 accountAccess	classes/Cofdb/Controllers/WebPage.php	/^  private $accountAccess;$/;"	v	class:Cofdb\\Controllers\\WebPage
+accountAccess	classes/Cofdb/Models/Home.php	/^  private $accountAccess;$/;"	v	class:Cofdb\\Models\\Home
+accountAccess	classes/Cofdb/Views/Home.php	/^  private $accountAccess;$/;"	v	class:Cofdb\\Views\\Home
+accountAccess	classes/Cofdb/Views/WebPage.php	/^  private $accountAccess;$/;"	v	class:Cofdb\\Views\\WebPage
 add	classes/Cofdb/Controllers/Review.php	/^  public function add($f3, $beansId) {$/;"	f	class:Cofdb\\Controllers\\Review
 addCoffee	classes/Cofdb/Entity/Author.php	/^  public function addCoffee()$/;"	f	class:Cofdb\\Entity\\Author
-addReview	classes/Cofdb/Controllers/Reviews.php	/^public function addReview($f3) {$/;"	f	namespace:Cofdb\\Controllers
 addReview	classes/Cofdb/Entity/Author.php	/^  public function addReview()$/;"	f	class:Cofdb\\Entity\\Author
 addReview	classes/Cofdb/Entity/User.php	/^  public function addReview($f3) {$/;"	f	class:Cofdb\\Entity\\User
 addUser	classes/Cofdb/Entity/User.php	/^  public function addUser($f3)$/;"	f	class:Cofdb\\Entity\\User
@@ -1295,6 +1308,9 @@ base64	lib/base.php	/^	function base64($data,$mime) {$/;"	f	class:Base
 basic	lib/auth.php	/^	function basic($func=NULL) {$/;"	f	class:Auth
 beans	classes/Cofdb/Controllers/Coffee.php	/^  private $beans;$/;"	v	class:Cofdb\\Controllers\\Coffee
 beans	classes/Cofdb/Controllers/Review.php	/^  private $beans;$/;"	v	class:Cofdb\\Controllers\\Review
+beans	classes/Cofdb/Models/Home.php	/^  private $beans;$/;"	v	class:Cofdb\\Models\\Home
+beans	classes/Cofdb/Views/Home.php	/^  private $beans;$/;"	v	class:Cofdb\\Views\\Home
+beans	classes/Cofdb/Views/Review.php	/^  private $beans;$/;"	v	class:Cofdb\\Views\\Review
 beansId	templates/addReview.htm	/^        <label for="beansId">beans Id<\/label><input type="text" name="beansId" value="" id="bea/;"	I
 beansMap	classes/Cofdb/Entity/Coffee.php	/^  private $beansMap;$/;"	v	class:Cofdb\\Entity\\Coffee
 beforeerase	lib/db/cursor.php	/^	function beforeerase($func) {$/;"	f	class:DB\\Cursor
@@ -1465,6 +1481,10 @@ display	classes/Cofdb/Controllers/AccountAccess.php	/^  private $display;$/;"	v	
 display	classes/Cofdb/Controllers/Coffee.php	/^  private $display;$/;"	v	class:Cofdb\\Controllers\\Coffee
 display	classes/Cofdb/Controllers/Review.php	/^  private $display;$/;"	v	class:Cofdb\\Controllers\\Review
 display	classes/Cofdb/Controllers/WebPage.php	/^  public function display($f3) {$/;"	f	class:Cofdb\\Controllers\\WebPage
+display	classes/Cofdb/Models/Home.php	/^  private $display;$/;"	v	class:Cofdb\\Models\\Home
+display	classes/Cofdb/Views/Home.php	/^  private $display;$/;"	v	class:Cofdb\\Views\\Home
+display	classes/Cofdb/Views/Review.php	/^  private $display;$/;"	v	class:Cofdb\\Views\\Review
+display	classes/Cofdb/Views/WebPage.php	/^  public function display($f3) {$/;"	f	class:Cofdb\\Views\\WebPage
 div	ui/css/base.css	/^*{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;max-width:100%}/;"	s
 div	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
 dl	assets/css/skeleton.css	/^dl,$/;"	s
@@ -1527,7 +1547,6 @@ export	lib/base.php	/^	function export($expr) {$/;"	f	class:Base
 extend	lib/base.php	/^	function extend($key,$src,$keep=FALSE) {$/;"	f	class:Base
 extend	lib/template.php	/^	function extend($tag,$func) {$/;"	f	class:Template
 extract	lib/base.php	/^	function extract($arr,$prefix) {$/;"	f	class:Base
-f3	classes/Cofdb/Controllers/Reviews.php	/^  global $f3;$/;"	v	class:Cofdb\\Controllers\\Reviews
 f3	classes/General/ErrorHandling.php	/^$f3 = Base::instance();$/;"	v	namespace:General
 f3	public/index.php	/^$f3 = require __DIR__.'\/..\/lib\/base.php';$/;"	v
 factory	lib/db/jig/mapper.php	/^	function factory($id,$row) {$/;"	f	class:DB\\Jig\\Mapper
@@ -1656,6 +1675,9 @@ hidden	assets/css/normalize.css	/^[hidden] {$/;"	s
 highlight	lib/base.php	/^	function highlight($text) {$/;"	f	class:Base
 hive	lib/base.php	/^	function hive() {$/;"	f	class:Base
 home	classes/Cofdb/Controllers/Coffee.php	/^  public function home($f3) {$/;"	f	class:Cofdb\\Controllers\\Coffee
+home	classes/Cofdb/Models/Home.php	/^  public function home($f3) {$/;"	f	class:Cofdb\\Models\\Home
+home	classes/Cofdb/Views/Home.php	/^  public $home;$/;"	v	class:Cofdb\\Views\\Home
+home	classes/Cofdb/Views/Home.php	/^  public function home($f3) {$/;"	f	class:Cofdb\\Views\\Home
 homepage	public/composer.json	/^	"homepage": "http:\/\/fatfreeframework.com\/",$/;"	s
 hr	assets/css/normalize.css	/^hr {$/;"	s
 hr	assets/css/skeleton.css	/^hr {$/;"	s
@@ -1777,6 +1799,7 @@ li	assets/css/lists.css	/^li {$/;"	s
 li	ui/css/base.css	/^html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,d/;"	s
 license	public/composer.json	/^	"license": "GPL-3.0",$/;"	s
 list	classes/Cofdb/Controllers/Review.php	/^  public function list($f3,$beansId=[])$/;"	f	class:Cofdb\\Controllers\\Review
+list	classes/Cofdb/Views/Review.php	/^  public function list($f3,$beansId=[])$/;"	f	class:Cofdb\\Views\\Review
 listReviews	classes/Cofdb/Entity/Coffee.php	/^  public function listReviews($f3, $beansId=[])$/;"	f	class:Cofdb\\Entity\\Coffee
 listen	lib/web/pingback.php	/^	function listen($func,$path=NULL) {$/;"	f	class:Web\\Pingback
 load	lib/base.php	/^	function load($dsn,$seed=NULL) {$/;"	f	class:Cache
@@ -1920,6 +1943,7 @@ render	lib/base.php	/^	function render($file,$mime='text\/html',array $hive=NULL
 render	lib/base.php	/^	function render($file,$mime='text\/html',array $hive=NULL,$ttl=0) {$/;"	f	class:View
 render	lib/image.php	/^	function render() {$/;"	f	class:Image
 renderTemplate	classes/Cofdb/Controllers/WebPage.php	/^  private function renderTemplate($templateName) {$/;"	f	class:Cofdb\\Controllers\\WebPage
+renderTemplate	classes/Cofdb/Views/WebPage.php	/^  private function renderTemplate($templateName) {$/;"	f	class:Cofdb\\Views\\WebPage
 repositories	public/composer.json	/^	"repositories": [$/;"	a
 request	lib/web.php	/^	function request($url,array $options=NULL) {$/;"	f	class:Web
 request	lib/web/oauth2.php	/^	function request($uri,$method,$token=NULL) {$/;"	f	class:Web\\OAuth2
@@ -1938,7 +1962,6 @@ response	lib/web/openid.php	/^	function response() {$/;"	f	class:Web\\OpenID
 restore	lib/image.php	/^	function restore($state=1) {$/;"	f	class:Image
 results	lib/test.php	/^	function results() {$/;"	f	class:Test
 reviewMap	classes/Cofdb/Entity/Coffee.php	/^  private $reviewMap;$/;"	v	class:Cofdb\\Entity\\Coffee
-reviewPick	classes/Cofdb/Controllers/Reviews.php	/^  public function reviewPick($f3,$beansId=[])$/;"	f	class:Cofdb\\Controllers\\Reviews
 reviewText	templates/addReview.htm	/^        <label for="reviewText">Review Text<\/label><input type="text" name="reviewText" value="/;"	I
 reviewTitle	templates/addReview.htm	/^        <label for="reviewTitle">Review Title<\/label><input type="text" name="reviewTitle" valu/;"	I
 rgb	lib/image.php	/^	function rgb($color) {$/;"	f	class:Image
@@ -1993,7 +2016,6 @@ set	lib/web/openid.php	/^	function set($key,$val) {$/;"	f	class:Web\\OpenID
 setEncoding	lib/web/oauth2.php	/^	function setEncoding($type) {$/;"	f	class:Web\\OAuth2
 shift	lib/base.php	/^	function shift($key) {$/;"	f	class:Base
 show	classes/Cofdb/Controllers/Review.php	/^  public function show($f3, $reviewId)$/;"	f	class:Cofdb\\Controllers\\Review
-show	classes/Cofdb/Controllers/Reviews.php	/^  public function show($f3, $reviewId)$/;"	f	class:Cofdb\\Controllers\\Reviews
 showLoginForm	classes/Cofdb/Controllers/AccountAccess.php	/^  public function showLoginForm($f3)$/;"	f	class:Cofdb\\Controllers\\AccountAccess
 showRegisterForm	classes/Cofdb/Controllers/AccountAccess.php	/^  public function showRegisterForm($f3)$/;"	f	class:Cofdb\\Controllers\\AccountAccess
 showReviewForm	classes/Cofdb/Controllers/Review.php	/^  public function showReviewForm($f3)$/;"	f	class:Cofdb\\Controllers\\Review
@@ -2148,6 +2170,7 @@ url	lib/audit.php	/^	function url($str) {$/;"	f	class:Audit
 url	public/composer.json	/^			"url": "https:\/\/github.com\/bcosca\/fatfree"$/;"	s	object:repositories.0
 user	classes/Cofdb/Controllers/AccountAccess.php	/^  private $user;$/;"	v	class:Cofdb\\Controllers\\AccountAccess
 user	classes/Cofdb/Controllers/Review.php	/^  private $user;$/;"	v	class:Cofdb\\Controllers\\Review
+user	classes/Cofdb/Views/Review.php	/^  private $user;$/;"	v	class:Cofdb\\Views\\Review
 userMap	classes/Cofdb/Controllers/AccountAccess.php	/^  private $userMap;$/;"	v	class:Cofdb\\Controllers\\AccountAccess
 userMap	classes/Cofdb/Entity/User.php	/^  private $userMap;$/;"	v	class:Cofdb\\Entity\\User
 username	templates/login.htm	/^        <label for="username">username<\/label><input type="text" name="username" value="" id="u/;"	I
