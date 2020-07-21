@@ -1,0 +1,23 @@
+<container>
+  <card class="main article">
+    <h2>
+        {{ @title }}</br>
+    </h2>
+    <p>
+    <script src="../assets/js/vega/vega.min.js"></script>
+    <script src="../assets/js/vega/vega-embed.6.js"></script>
+    <!-- <button onclick="update(data1)">Dataset 1</button> -->
+    <!-- <button onclick="update(data2)">Dataset 2</button> -->
+    <div id="view"> </div>
+    <script charset="utf-8">
+      vegaEmbed(
+      '#view',
+      'chart.json'
+      );
+    </script>
+    <!-- <script src="../assets/js/d3/d3.js"></script> -->
+    <!-- <script src="../assets/js/chart.js"></script> -->
+    </p>
+  </br>
+</card>
+</container>

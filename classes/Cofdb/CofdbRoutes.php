@@ -9,6 +9,7 @@ $f3->route('GET @about: /about', function($f3) { echo phpinfo(); });
 $f3->route('GET /coffee/@beansId', $CC.'Review->list');
 $f3->route('GET /review/@reviewId', $CC.'Review->show');
 $f3->route('GET @review: /review', $CC.'Review->list');
+$f3->route('GET @chart: /chart', $CC.'Chart->showChart');
 $f3->route('GET @addReview: /addReview', $CC.'Review->showReviewForm');
 $f3->route('GET @register: /register', $CC.'AccountAccess->showRegisterForm');
 $f3->route('GET @login: /login', $CC.'AccountAccess->showLoginForm');
