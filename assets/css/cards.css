@@ -2,6 +2,9 @@
  *
  * visible blocks of containers to be placed around
  ========================================================================== */
+/* flex-basis: what i want my ideal width to be */
+/* flex-shrink: default 1 you're allowed to shrink on resize */
+/* flex-grow: default 1 you're not allowed to grow on resize, set to 1 will let columns be next to each other */
 
 card {
   display: block;

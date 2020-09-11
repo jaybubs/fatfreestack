@@ -85,13 +85,15 @@ class AccountAccess
         'email' => $email,
         'password' => password_hash($password, PASSWORD_DEFAULT),
       ));
-      $f3->set('bannerText', 'Welcome '.$username);
-      $f3->set('articleText', 'Your account has been registered');
-      $f3->set('output', 'home.htm');
+      $f3->set('bannerText', 'Account '.$username.' registered, please log in');
+      $f3->set('title', 'registration');
+      $f3->set('output', 'login.htm');
       $this->user->addUser($f3);
       $this->display->display($f3);
     } else {
       $f3->set('output', 'register.htm');
+      $f3->set('bannerText', 'Registration FAILED MISERABLY');
+      $f3->set('title', 'registration failed');
       $f3->set('errorMessage', implode('<br>',$errorMessage));
       $this->display->display($f3);
     }
@@ -124,6 +126,8 @@ class AccountAccess
     } else {
       //figure out how to limit the number of attempts - slap a number of attempts column into the user db maybe? this way destroying cache/session won't reenable it for the atemptee
       $f3->set('output', 'login.htm');
+      $f3->set('bannerText', 'Login FAILED MISERABLY');
+      $f3->set('title', 'login failed');
       $f3->set('errorMessage', 'You fucked something up bruv, try again');
       $this->display->display($f3);
     }
